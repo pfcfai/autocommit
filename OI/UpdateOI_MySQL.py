@@ -49,8 +49,8 @@ year = now.strftime("%Y")
 month = now.strftime("%m")
 day = now.strftime("%d")
 today=year+month+day
-print(now)
-print(today)
+print('now:{}'.format(now))
+print('today:{}'.format(today))
 
 
 # In[4]:
@@ -60,7 +60,7 @@ print(today)
 import datetime
 yday=datetime.date.today() - datetime.timedelta(days=1)
 queryday=yday.strftime("%Y%m%d")
-
+print('queryday:{}'.format(queryday))
 
 # In[5]:
 
@@ -69,7 +69,7 @@ queryday=yday.strftime("%Y%m%d")
 def  third_wen(y,m):                                                #   此函數需參數 年 及 月
     day=21-(datetime.date(y,m,1).weekday()+4)%7         #   weekday函數 禮拜一為0;禮拜日為6
     return datetime.date(y,m,day)                               
-print(third_wen(int(year),int(month)))                                     # 會 print 出 2016-5-18 為五月份第三個禮拜三
+print('enddate:{}'.format(third_wen(int(year),int(month))))                                     # 會 print 出 2016-5-18 為五月份第三個禮拜三
 
 
 residual=third_wen(int(year),int(month))-datetime.date.today()      # 今天持有201605 契約的時間價值
@@ -86,7 +86,7 @@ print(Contract)
 
 # Define upper and lower stike-boundaries
 import math
-sql='select Twseclose from chart_optionoi where Date="{}" and Type="買權" ;'.format(queryday)
+sql='select Twseclose from chart_optionoi where Date="{}" and Type="買權" ;'.format(today)
 generator_df = pd.read_sql(sql=sql,  # mysql query
                            con=dbconn2)  # size you want to fetch each time  
 print(generator_df)
@@ -99,9 +99,10 @@ print(lower,upper)
 
 
 # sql insert
-sql='select Date, Type, Contract, Strike, Openinterest, id from optiontable where Date="{}" and Contract="{}" and strike>{} and strike<{} and Timesession="一般"  ;'.format(queryday,Contract,lower,upper)
+sql='select Date, Type, Contract, Strike, Openinterest from optiontable where Date="{}" and Contract="{}" and strike>{} and strike<{} and Timesession="一般"  ;'.format(today,Contract,lower,upper)
 generator_df = pd.read_sql(sql=sql,  # mysql query
                            con=dbconn)  # size you want to fetch each time  
+generator_df['id']=generator_df.index+1
 print(generator_df)
 df = pd.DataFrame(generator_df, columns=['Date', 'Type', 'Contract', 'Strike', 'Openinterest','id'])
 print(df.dtypes)
