@@ -56,11 +56,16 @@ print('today:{}'.format(today))
 # In[4]:
 
 
-# yesterday
+# yesterday 為了要抓twse(該表更新較慢，參考前一天), 周一抓周五
 import datetime
-yday=datetime.date.today() - datetime.timedelta(days=1)
-queryday=yday.strftime("%Y%m%d")
-print('queryday:{}'.format(queryday))
+if datetime.date.today().weekday()==0:
+    yday=datetime.date.today() - datetime.timedelta(days=3)
+    queryday=yday.strftime("%Y%m%d")
+    print('queryday:{}'.format(queryday))
+else:
+    yday=datetime.date.today() - datetime.timedelta(days=1)
+    queryday=yday.strftime("%Y%m%d")
+    print('queryday:{}'.format(queryday))
 
 # In[5]:
 
@@ -86,7 +91,7 @@ print(Contract)
 
 # Define upper and lower stike-boundaries
 import math
-sql='select Twseclose from chart_optionoi where Date="{}" and Type="買權" ;'.format(today)
+sql='select Twseclose from chart_optionoi where Date="{}" and Type="買權" ;'.format(queryday)
 generator_df = pd.read_sql(sql=sql,  # mysql query
                            con=dbconn2)  # size you want to fetch each time  
 print(generator_df)

@@ -1,0 +1,78 @@
+Traceback (most recent call last):
+  File "/home/pfcf/pfcfProject/retailOI/excel_as_db.py", line 20, in <module>
+    wb=openpyxl.load_workbook('9-1自動化更新資料庫-108.11.05.xlsm')
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/excel.py", line 313, in load_workbook
+    data_only, keep_links)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/excel.py", line 124, in __init__
+    self.archive = _validate_archive(fn)
+  File "/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/excel.py", line 96, in _validate_archive
+    archive = ZipFile(filename, 'r')
+  File "/home/pfcf/anaconda3/lib/python3.7/zipfile.py", line 1240, in __init__
+    self.fp = io.open(file, filemode)
+FileNotFoundError: [Errno 2] No such file or directory: '9-1自動化更新資料庫-108.11.05.xlsm'
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  id
+0  2020-09-16  12976.76 -26.849971   1
+1  2020-09-17  12872.74  -3.681963   2
+2  2020-09-18  12875.62  -0.620742   3
+3  2020-09-21  12795.12  -5.547074   4
+4  2020-09-22  12645.51  -1.756553   5
+..        ...       ...        ...  ..
+85 2021-01-19  15877.37 -18.180414  86
+86 2021-01-20  15806.18   3.804269  87
+87 2021-01-21  16153.77 -14.748427  88
+88 2021-01-22  16019.03   3.330769  89
+89 2021-01-25  15946.54   3.572577  90
+
+[90 rows x 4 columns]
+Date       datetime64[ns]
+Twse              float64
+Index_p           float64
+id                  int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  id
+0  2020-09-17  12872.74  -3.681963   1
+1  2020-09-18  12875.62  -0.620742   2
+2  2020-09-21  12795.12  -5.547074   3
+3  2020-09-22  12645.51  -1.756553   4
+4  2020-09-23  12583.88 -12.192701   5
+..        ...       ...        ...  ..
+85 2021-01-20  15806.18   3.804269  86
+86 2021-01-21  16153.77 -14.748427  87
+87 2021-01-22  16019.03   3.330769  88
+88 2021-01-25  15946.54   3.572577  89
+89 2021-01-26  15658.85  -6.363752  90
+
+[90 rows x 4 columns]
+Date       datetime64[ns]
+Twse              float64
+Index_p           float64
+id                  int64
+dtype: object
+/home/pfcf/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  id
+0  2020-09-18  12875.62  -0.620742   1
+1  2020-09-21  12795.12  -5.547074   2
+2  2020-09-22  12645.51  -1.756553   3
+3  2020-09-23  12583.88 -12.192701   4
+4  2020-09-24  12264.38  -2.271495   5
+..        ...       ...        ...  ..
+85 2021-01-21  16153.77 -14.748427  86
+86 2021-01-22  16019.03   3.330769  87
+87 2021-01-25  15946.54   3.572577  88
+88 2021-01-26  15658.85  -6.363752  89
+89 2021-01-27  15701.45  -7.490523  90
+
+[90 rows x 4 columns]
+Date       datetime64[ns]
+Twse              float64
+Index_p           float64
+id                  int64
+dtype: object
