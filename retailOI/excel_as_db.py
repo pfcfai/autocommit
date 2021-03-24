@@ -2,9 +2,14 @@
 # coding: utf-8
 
 # In[1]:
+'''
+核心技術:
+透過 openpyxl 套件，讀取選定之活頁簿與工作表，
+可以寫成 mylist , (which is list of list) 形式後，
+以 pandas dataframe 插回資料庫存取
+'''
 
 
-get_ipython().system('pip install openpyxl')
 
 
 # In[1]:
@@ -17,7 +22,7 @@ from openpyxl.reader.excel import load_workbook
 # In[2]:
 
 
-wb=openpyxl.load_workbook('9-1自動化更新資料庫-108.11.05.xlsm')
+wb=openpyxl.load_workbook('/home/pfcf/pfcfProject/retailOI/9-1自動化更新資料庫-108.11.05.xlsm')
 
 
 # In[3]:
