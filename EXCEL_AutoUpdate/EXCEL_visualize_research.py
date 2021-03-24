@@ -31,7 +31,7 @@ def recordlist(row):
     try:
         dt = datetime.strptime(datestr, "%Y%m%d")
         #dt = datetime(2007, 1, 1)
-        datestr = dt.replace(tzinfo=timezone.utc).timestamp()
+        datestr = dt.replace(tzinfo=timezone.utc).timestamp()*1000
     except:
         pass
     twse=row[1].value
