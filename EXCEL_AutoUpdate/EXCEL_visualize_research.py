@@ -18,7 +18,7 @@ from openpyxl.reader.excel import load_workbook
 from datetime import timezone
 from datetime import datetime
 
-wb=openpyxl.load_workbook('/home/pfcf/pfcfProject/EXCEL_AutoUpdate/FTDOpenData015.xlsx')
+wb=openpyxl.load_workbook('/home/spark/autocommit/EXCEL_AutoUpdate/FTDOpenData015.xlsx')
 
 print(wb.sheetnames[0])
 sheet=wb['FTDOpenData015']
@@ -29,6 +29,7 @@ def recordlist(row):
     
     datestr=str(row[0].value)
     try:
+        # transfer to linuxtimestamp but pass if header
         dt = datetime.strptime(datestr, "%Y%m%d")
         #dt = datetime(2007, 1, 1)
         datestr = dt.replace(tzinfo=timezone.utc).timestamp()*1000
@@ -56,10 +57,7 @@ print(mylist)
 # save as json
 import json
 
-my_details = {
-    'name': 'John Doe',
-    'age': 29
-}
+
 
 with open('test.json', 'w') as json_file:
     json.dump(mylist, json_file)
