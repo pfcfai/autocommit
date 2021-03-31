@@ -21,7 +21,7 @@ from datetime import datetime
 wb=openpyxl.load_workbook('/home/spark/autocommit/EXCEL_AutoUpdate/FTDOpenData015.xlsx')
 
 print(wb.sheetnames[0])
-sheet=wb['FTDOpenData015']
+sheet=wb['NTD']
 rows=sheet.rows
 
 def recordlist(row):
