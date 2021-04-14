@@ -59,5 +59,5 @@ import json
 
 #test
 
-with open('test.json', 'w') as json_file:
+with open('/home/spark/autocommit/EXCEL_AutoUpdate/test.json', 'w') as json_file:
     json.dump(mylist, json_file)
