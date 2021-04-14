@@ -14,6 +14,7 @@ url_content = req.content
 csv_file = open('/home/spark/autocommit/EXCEL_AutoUpdate/NTD.csv', 'wb')
 csv_file.write(url_content)
 csv_file.close()
+print('downloaded')
 
 
 
