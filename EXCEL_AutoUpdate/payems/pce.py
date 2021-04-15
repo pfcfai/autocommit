@@ -65,9 +65,9 @@ dict2['cpi_yoy']=cpi_yoy[-12:]
 dict2['cpicr_yoy']=cpicr_yoy[-12:]
 print(dict2)
 
-with open('pce.json', 'w') as json_file:
+with open('/home/spark/autocommit/EXCEL_AutoUpdate/payems/pce.json', 'w') as json_file:
     json.dump(dict, json_file)
-with open('cpi.json', 'w') as json_file:
+with open('/home/spark/autocommit/EXCEL_AutoUpdate/payems/cpi.json', 'w') as json_file:
     json.dump(dict2, json_file)
 
 
@@ -103,8 +103,8 @@ dict2=ytm[-252:]
 
 import json
 
-with open('breakeven_rate.json', 'w') as json_file:
+with open('/home/spark/autocommit/EXCEL_AutoUpdate/payems/breakeven_rate.json', 'w') as json_file:
     json.dump(dict, json_file)
-with open('10yr_yield.json', 'w') as json_file:
+with open('/home/spark/autocommit/EXCEL_AutoUpdate/payems/10yr_yield.json', 'w') as json_file:
     json.dump(dict2, json_file)
 
