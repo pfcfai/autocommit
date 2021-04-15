@@ -39,7 +39,7 @@ dict['unrate']=unrate[-12:]
 dict['payems_icz']=payems_icz[-12:]
 print(dict)
 
-with open('payems.json', 'w') as json_file:
+with open('/home/spark/autocommit/EXCEL_AutoUpdate/payems/payems.json', 'w') as json_file:
     json.dump(dict, json_file)
 
 
