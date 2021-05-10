@@ -31,6 +31,7 @@ dbconn=pymysql.connect(
 
 
 tablenames=["gc","si","hg","pl","pa"]
+tabledict={"gc":"金","si":"銀","hg":"銅","pl":"鉑","pa":"鈀"}
 for i in tablenames:
     
     sql='select timestamp , Close from {} order by timestamp desc limit 504;'.format(i)
@@ -46,7 +47,7 @@ for i in tablenames:
     print(dict)
 
     import json
-    with open('/home/spark/autocommit/EXCEL_AutoUpdate/payems/{}.json'.format(i), 'w') as json_file:
+    with open('/home/spark/autocommit/EXCEL_AutoUpdate/payems/{}.json'.format(tabledict[i]), 'w') as json_file:
         json.dump(dict, json_file)
 
 
