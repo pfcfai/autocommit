@@ -22,7 +22,7 @@ def recordlist(alpha,i):
     return record
 
 date=[recordlist('A',i) for i in range(8,sheet.max_row+1) if recordlist('A',i) != None]
-date=[each.strftime("%m/'%y") for each in date]
+date=[each.strftime("%m/ '%y") for each in date]
 print(date[-12:])
 unrate=[recordlist('E',i) for i in range(8,sheet.max_row+1) if recordlist('E',i) != None]
 print(unrate[-12:])
@@ -69,7 +69,7 @@ def recordlist(alpha,i):
     return record
 
 date=[recordlist('A',i) for i in range(8,sheet.max_row+1) if recordlist('A',i) != None]
-date=[each.strftime("%m/'%y") for each in date]
+date=[each.strftime("%m/ '%y") for each in date]
 print(date[-12:])
 hourpay_avg=[recordlist('B',i) for i in range(8,sheet.max_row+1) if recordlist('B',i) != None]
 print(hourpay_avg[-13:])
