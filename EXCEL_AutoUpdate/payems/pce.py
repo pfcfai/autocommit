@@ -23,7 +23,7 @@ def recordlist(alpha,i):
 
 # PCE
 date=[recordlist('A',i) for i in range(8,sheet.max_row+1) if recordlist('A',i) != None]
-date=[each.strftime("%m/%y") for each in date]
+date=[each.strftime("%m/ '%y") for each in date]
 print(date[-12:])
 
 pce=[recordlist('B',i) for i in range(8,sheet.max_row+1) if recordlist('B',i) != None]
@@ -36,7 +36,7 @@ print(pcecr_yoy[-12:])
 
 # CPI
 date2=[recordlist('G',i) for i in range(8,sheet.max_row+1) if recordlist('G',i) != None]
-date2=[each.strftime("%m/%y") for each in date2]
+date2=[each.strftime("%m/ '%y") for each in date2]
 print(date2[-12:])
 
 cpi=[recordlist('H',i) for i in range(8,sheet.max_row+1) if recordlist('H',i) != None]
