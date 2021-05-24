@@ -72,7 +72,7 @@ print(df)
 # In[6]:
 
 
-print([df.iloc[38][1],df.iloc[38][3]])
+
 
 
 # In[7]:
