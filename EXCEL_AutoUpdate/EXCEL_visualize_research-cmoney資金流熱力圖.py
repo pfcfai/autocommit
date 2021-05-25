@@ -11,7 +11,7 @@ import statistics as stats
 from datetime import timezone
 from datetime import datetime
 
-book = openpyxl.load_workbook('CMoneyDatabase.xlsm')
+book = openpyxl.load_workbook('/home/spark/autocommit/EXCEL_AutoUpdate/CMoneyDatabase.xlsm')
 
 # 央行利率
 sheet=book['資金流']
@@ -34,7 +34,7 @@ for k in range(2): # json files denote foreigner or investor
     print(mylist)
 
     import json
-    with open('{}_flow.json'.format(namedict[str(k)]), 'w') as json_file:
+    with open('/home/spark/autocommit/EXCEL_AutoUpdate/{}_flow.json'.format(namedict[str(k)]), 'w') as json_file:
         json.dump(mylist, json_file)
 
 
