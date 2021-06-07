@@ -23,7 +23,7 @@ def recordlist2(alpha,i):
     #record=[data]    # if you wanna list of list
     return record
 
-book = openpyxl.load_workbook('CFTC_匯率期貨.xlsm')
+book = openpyxl.load_workbook('/home/spark/autocommit/EXCEL_AutoUpdate/CFTC_匯率期貨.xlsm')
 comlist=['AUD','CAD','BP','EU','JPY','DX','SWF']
 
 for curency in range(7):
@@ -73,7 +73,7 @@ for curency in range(7):
     dict['spect']=Net_Spec[-52:]
     print(dict)
 
-    with open('CFTC_{}.json'.format(str(comlist[curency])), 'w') as json_file:
+    with open('/home/spark/autocommit/EXCEL_AutoUpdate/CFTC_{}.json'.format(str(comlist[curency])), 'w') as json_file:
         json.dump(dict, json_file)
 
 
@@ -99,7 +99,7 @@ def recordlist2(alpha,i):
     #record=[data]    # if you wanna list of list
     return record
 
-book = openpyxl.load_workbook('CFTC_股債期貨.xlsm')
+book = openpyxl.load_workbook('/home/spark/autocommit/EXCEL_AutoUpdate/CFTC_股債期貨.xlsm')
 comlist=['SP','NQ','DJ','US','TY']
 priceindex=['DX','DY','DY','EB','EB']
 
@@ -150,7 +150,7 @@ for curency in range(5):
     dict['spect']=Net_Spec[-52:]
     print(dict)
 
-    with open('CFTC_{}.json'.format(str(comlist[curency])), 'w') as json_file:
+    with open('/home/spark/autocommit/EXCEL_AutoUpdate/CFTC_{}.json'.format(str(comlist[curency])), 'w') as json_file:
         json.dump(dict, json_file)
 
 
@@ -176,7 +176,7 @@ def recordlist2(alpha,i):
     #record=[data]    # if you wanna list of list
     return record
 
-book = openpyxl.load_workbook('CFTC_農油金期貨.xlsm')
+book = openpyxl.load_workbook('/home/spark/autocommit/EXCEL_AutoUpdate/CFTC_農油金期貨.xlsm')
 comlist=['soy','wheat','corn','crude','gold']
 priceindex=['EB','EB','EB','EA','EA']
 for curency in range(5):
@@ -226,7 +226,7 @@ for curency in range(5):
     dict['spect']=Net_Spec[-52:]
     print(dict)
 
-    with open('CFTC_{}.json'.format(str(comlist[curency])), 'w') as json_file:
+    with open('/home/spark/autocommit/EXCEL_AutoUpdate/CFTC_{}.json'.format(str(comlist[curency])), 'w') as json_file:
         json.dump(dict, json_file)
 
 
