@@ -7,8 +7,8 @@
 
 import pandas as pd
 IO='/home/spark/autocommit/EXCEL_AutoUpdate/CMoneyDatabase.xlsm'
-df=pd.read_excel(io=IO,sheet_name="樹",usecols="l,N:Q")
-df=df[df['三大買超佔比']>5]
+df=pd.read_excel(io=IO,sheet_name="樹",usecols="P,V:Y")
+df=df[df['三大買超佔比']>2]
 df = df.drop(['三大買超佔比'], axis=1).reset_index(drop=True)
 print(df)
 
