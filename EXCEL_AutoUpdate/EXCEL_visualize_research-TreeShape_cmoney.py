@@ -18,7 +18,7 @@ print(df)
 
 def add_one(x):
     if x > 20:
-        return 'hen 強'
+        return '很強'
     elif 20>x>10:
         return '上漲ing'
     elif 10>x>0:
@@ -28,7 +28,7 @@ def add_one(x):
     elif -10>x>-20:
         return '下跌ing'
     else:
-        return 'hen 弱'
+        return '很弱'
  
 df['node1'] = df['區間漲幅'].apply(add_one)
 df = df.drop(['區間漲幅'], axis=1)
@@ -79,7 +79,7 @@ print(df)
 
 
 #making list
-mylist=[['TWSE','hen 強'],['TWSE','上漲ing'],['TWSE','緩緩上漲'],['TWSE','緩緩下跌'],['TWSE','下跌ing'],['TWSE','hen 弱']]
+mylist=[['TWSE','很強'],['TWSE','上漲ing'],['TWSE','緩緩上漲'],['TWSE','緩緩下跌'],['TWSE','下跌ing'],['TWSE','很弱']]
 for i in range(len(df)):
     stem=df.iloc[i][0:2].tolist()
     mylist.append(stem)
