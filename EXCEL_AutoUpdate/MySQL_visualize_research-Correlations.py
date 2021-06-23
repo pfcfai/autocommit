@@ -77,7 +77,7 @@ for m in range(17):
         #print(mylist)
         
 import json
-with open('corr_dailyupdate.json', 'w') as json_file:
+with open('/home/spark/autocommit/EXCEL_AutoUpdate/corr_dailyupdate.json', 'w') as json_file:
     json.dump(mylist, json_file)
        
 from datetime import datetime
