@@ -30,9 +30,9 @@ dbconn=pymysql.connect(
 # In[6]:
 
 
-for i in range(11):
-    tb=['ec','jy','bp','cd','sf','ad','gc','si','hg','pl','pa']
-    name=['歐元','日圓','英鎊','加幣','瑞郎','澳幣','金','銀','銅','鉑','鈀']
+for i in range(14):
+    tb=['ym','es','nq','ec','jy','bp','cd','sf','ad','gc','si','hg','pl','pa']
+    name=['道瓊','標普500','那斯達克','歐元','日圓','英鎊','加幣','瑞郎','澳幣','金','銀','銅','鉑','鈀']
     sql='select timestamp , Close from {} order by timestamp desc ;'.format(tb[i])
     generator_df = pd.read_sql(sql=sql,     # mysql query
                                    con=dbconn)  # size you want to fetch each time (we choose 2-years data) 
