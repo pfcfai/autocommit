@@ -33,7 +33,7 @@ dbconn=pymysql.connect(
 for i in range(8):
     tb=['ec','jy','bp','cd','sf','gc','si','hg']
     name=['歐元','日圓','英鎊','加幣','瑞郎','金','銀','銅']
-    sql='select timestamp , Close from {} order by timestamp desc limit 2520;'.format(tb[i])
+    sql='select timestamp , Close from {} order by timestamp desc ;'.format(tb[i])
     generator_df = pd.read_sql(sql=sql,     # mysql query
                                    con=dbconn)  # size you want to fetch each time (we choose 2-years data) 
     print(generator_df)
