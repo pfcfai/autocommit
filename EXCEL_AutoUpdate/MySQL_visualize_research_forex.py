@@ -30,7 +30,7 @@ dbconn=pymysql.connect(
 # In[6]:
 
 
-for i in range(5):
+for i in range(8):
     tb=['ec','jy','bp','cd','sf','gc','si','hg']
     name=['歐元','日圓','英鎊','加幣','瑞郎','金','銀','銅']
     sql='select timestamp , Close from {} order by timestamp desc limit 2520;'.format(tb[i])
