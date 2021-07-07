@@ -29,7 +29,7 @@ dbconn=pymysql.connect(
 # In[2]:
 
 
-df_ori = pd.read_csv('CME.csv',encoding='BIG5') # define query tables
+df_ori = pd.read_csv('/home/spark/autocommit/EXCEL_AutoUpdate/CME.csv',encoding='BIG5') # define query tables
 tablelist=df_ori['mod_id'].tolist()
 modnamelist=df_ori['mod_name'].tolist()
 
@@ -127,57 +127,9 @@ mydict={}
 mydict['breakthrough_long']=breakthrough_up
 mydict['breakthrough_short']=breakthrough_dn
 
-with open('CME_breakthrough20MA.json', 'w') as json_file:
+with open('/home/spark/autocommit/EXCEL_AutoUpdate/CME_breakthrough20MA.json', 'w') as json_file:
     json.dump(mydict, json_file)
 
-
-# In[ ]:
-
-
-new_df=generator_df
-my_dict=[]
-# record info. after the day meets condition
-for j in range(1,len(new_df['filter'])-1):
-    mydict={}
-    if new_df['filter'][j]==True and new_df['filter'][j-1]==False:
-
-        mydict['Date']=new_df['Date'][j]
-        mydict['con%']=new_df['pct'][j]
-        mydict['result%']=new_df['pct'][j+1]
-        mydict['result']=new_df['pct'][j+1]*new_df['Close'][j]/100
-
-        my_dict.append(mydict)
-
-df_from_dict = pd.DataFrame(my_dict, columns=['Date', 'con%', 'result%', 'result'])
-print(df_from_dict)
-
-
-# In[ ]:
-
-
-# make a list of statistic description 
-positive_count=df_from_dict[df_from_dict['result%']>=0].describe()['result'].iloc[0]
-positive_avg  =round(df_from_dict[df_from_dict['result%']>=0].describe()['result%'].iloc[1],2)
-positive_max  =round(df_from_dict[df_from_dict['result%']>=0].describe()['result%'].iloc[7],2)
-negative_count=df_from_dict[df_from_dict['result%']<0].describe()['result'].iloc[0]
-negative_avg  =round(df_from_dict[df_from_dict['result%']<0].describe()['result%'].iloc[1],2)
-negative_min  =round(df_from_dict[df_from_dict['result%']<0].describe()['result%'].iloc[3],2)
-positive_win  =round(positive_count/(positive_count+negative_count)*100,2)
-negative_win  =round(negative_count/(positive_count+negative_count)*100,2)
-positive_maxpt=round(df_from_dict[df_from_dict['result']>=0].describe()['result'].iloc[7],2)
-negative_maxpt=round(df_from_dict[df_from_dict['result']<0].describe()['result'].iloc[3],2)
-commod_list=[modnamelist[1],positive_count,positive_avg,positive_max,negative_count,negative_avg,negative_min,positive_win,negative_win,positive_maxpt,negative_maxpt]
-
-
-# In[ ]:
-
-
-print(df_from_dict[df_from_dict['result%']>=0].describe())
-print(df_from_dict[df_from_dict['result%']<=0].describe())
-print(commod_list)
-
-
-# In[ ]:
 
 
 import json
