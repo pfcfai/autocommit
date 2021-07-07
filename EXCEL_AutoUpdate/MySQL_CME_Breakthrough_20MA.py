@@ -132,8 +132,4 @@ with open('/home/spark/autocommit/EXCEL_AutoUpdate/CME_breakthrough20MA.json', '
 
 
 
-import json
-
-with open('.json', 'w') as json_file:
-    json.dump(dict, json_file)
 
