@@ -44,7 +44,7 @@ for i in range(len(tb)):
     #print(generator_df)
     dict=generator_df.values.tolist()
 print('==daily seperate==')
-print(dict)
+print(dict[0])
 
     import json
     with open('/home/spark/autocommit/EXCEL_AutoUpdate/{}.json'.format(name[i]), 'w') as json_file:
