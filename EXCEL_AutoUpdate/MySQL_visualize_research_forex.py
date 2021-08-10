@@ -45,7 +45,7 @@ for i in range(len(tb)):
 
     #print(generator_df)
     dict=generator_df.values.tolist()
-    print('==daily seperate==')
+    print('=={}=='.format(name[i]))
     print(dict[0])
 
 
