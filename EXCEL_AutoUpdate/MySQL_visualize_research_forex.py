@@ -46,7 +46,7 @@ for i in range(len(tb)):
     #print(generator_df)
     dict=generator_df.values.tolist()
     print('=={}=='.format(name[i]))
-    print(dict[0])
+    print(dict[-1])
 
 
     import json
