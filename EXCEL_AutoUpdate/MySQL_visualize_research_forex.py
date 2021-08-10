@@ -36,25 +36,18 @@ for i in range(len(tb)):
     sql='select timestamp , Close from {} order by timestamp desc ;'.format(tb[i])
     generator_df = pd.read_sql(sql=sql,     # mysql query
                                    con=dbconn)  # size you want to fetch each time (we choose 2-years data) 
-<<<<<<< HEAD
+
     #print(generator_df)
-=======
-    print(generator_df)
->>>>>>> 7cb7531e7b6b24803416845126c66004a52b142d
 
     # re-arrange desc to asc
     generator_df=generator_df.sort_values(by=['timestamp'],ascending=True)
     generator_df.reset_index(drop=True, inplace=True)
-<<<<<<< HEAD
+
     #print(generator_df)
     dict=generator_df.values.tolist()
-print('==daily seperate==')
-print(dict[0])
-=======
-    print(generator_df)
-    dict=generator_df.values.tolist()
-    print(dict)
->>>>>>> 7cb7531e7b6b24803416845126c66004a52b142d
+    print('==daily seperate==')
+    print(dict[0])
+
 
     import json
     with open('/home/spark/autocommit/EXCEL_AutoUpdate/{}.json'.format(name[i]), 'w') as json_file:
