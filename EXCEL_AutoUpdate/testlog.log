@@ -526,3 +526,24 @@ updated
 current epoch time: 1628784004.471881
 {'sort': {'symbol': ['白金', '瘦豬', '黃豆油', '汽油', '輕原油', '黃金', '熱燃油', '美超長債', '活牛', '加權指數', '鈀金', '天然氣', '黃豆粉', '歐美元'], 'symbol_eg': ['pl', 'lh', 'bo', 'rb', 'cl', 'gc', 'ho', 'wn', 'lc', 'twse', 'pa', 'ng', 'sm', 'ed'], 'pct': [2.9, 2.35, 1.62, 1.51, 1.41, 1.25, 1.23, -0.38, -0.43, -0.56, -0.65, -0.73, -0.83, -0.91]}, 'quote': {'fx': {'symbol': ['紐幣', '澳幣', '英鎊', '歐元', '加幣', '日幣', '瑞郎'], 'symbol_eg': ['nv', 'ad', 'bp', 'ec', 'cd', 'jy', 'sf'], 'pct': [0.43, 0.31, 0.17, 0.14, 0.14, 0.11, 0.11], 'close': [0.7039, 0.7373, 1.3866, 1.1746, 0.7994, 90555.0, 1.0856]}, 'metals': {'symbol': ['白金', '黃金', '白銀', '銅', '鈀金'], 'symbol_eg': ['pl', 'gc', 'si', 'hg', 'pa'], 'pct': [2.9, 1.25, 0.41, 0.31, -0.65], 'close': [1015.6, 1753.3, 23.488, 4.3675, 2632.8]}, 'interestrates': {'symbol': ['美五年債', '美二年債', '美十年債', '30天利率', '美長債', '美超長債', '歐美元'], 'symbol_eg': ['fv', 'tu', 'ty', 'ff', 'us', 'wn', 'ed'], 'pct': [0.05, 0.02, 0.02, 0.0, -0.11, -0.38, -0.91], 'close': [123.8828, 110.25, 133.5781, 99.9025, 163.0312, 195.6562, 98.96]}, 'equityindex': {'symbol': ['小道瓊', '小s&p', '台指期', '小那斯達克'], 'symbol_eg': ['ym', 'es', 'txf', 'nq'], 'pct': [0.62, 0.24, 0.0, -0.17], 'close': [35372.0, 4440.5, 17090.0, 15019.5]}, 'energy': {'symbol': ['汽油', '輕原油', '熱燃油', '天然氣'], 'symbol_eg': ['rb', 'cl', 'ho', 'ng'], 'pct': [1.51, 1.41, 1.23, -0.73], 'close': [2.3022, 69.25, 2.1058, 4.059]}, 'agricultural': {'symbol': ['瘦豬', '黃豆油', '玉米', '黃豆', '小麥', '活牛', '黃豆粉'], 'symbol_eg': ['lh', 'bo', 'zc', 'zs', 'zw', 'lc', 'sm'], 'pct': [2.35, 1.62, 1.08, 0.24, 0.0, -0.43, -0.83], 'close': [85.85, 61.6, 559.25, 1340.0, 727.0, 127.575, 356.5]}}, 'updateTimestamp': 1628784004.4718864}
 updated
+Traceback (most recent call last):
+  File "/home/spark/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 583, in connect
+    **kwargs)
+  File "/home/spark/anaconda3/lib/python3.7/socket.py", line 728, in create_connection
+    raise err
+  File "/home/spark/anaconda3/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/spark/autocommit/EXCEL_AutoUpdate/MySQL_visualize_research-LinuxTimestamp.py", line 25, in <module>
+    charset='utf8',
+  File "/home/spark/anaconda3/lib/python3.7/site-packages/pymysql/__init__.py", line 94, in Connect
+    return Connection(*args, **kwargs)
+  File "/home/spark/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 325, in __init__
+    self.connect()
+  File "/home/spark/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 630, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '103.17.9.213' ([Errno 111] Connection refused)")
