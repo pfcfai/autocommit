@@ -547,3 +547,24 @@ Traceback (most recent call last):
   File "/home/spark/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 630, in connect
     raise exc
 pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '103.17.9.213' ([Errno 111] Connection refused)")
+Traceback (most recent call last):
+  File "/home/spark/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 583, in connect
+    **kwargs)
+  File "/home/spark/anaconda3/lib/python3.7/socket.py", line 728, in create_connection
+    raise err
+  File "/home/spark/anaconda3/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/spark/autocommit/EXCEL_AutoUpdate/MySQL_visualize_research-LinuxTimestamp.py", line 25, in <module>
+    charset='utf8',
+  File "/home/spark/anaconda3/lib/python3.7/site-packages/pymysql/__init__.py", line 94, in Connect
+    return Connection(*args, **kwargs)
+  File "/home/spark/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 325, in __init__
+    self.connect()
+  File "/home/spark/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 630, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '103.17.9.213' ([Errno 111] Connection refused)")
