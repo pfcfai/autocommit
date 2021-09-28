@@ -1,0 +1,67 @@
+# Edit this file to introduce tasks to be run by cron.
+# 
+# Each task to run has to be defined through a single line
+# indicating with different fields when the task will be run
+# and what command to run for the task
+# 
+# To define the time you can provide concrete values for
+# minute (m), hour (h), day of month (dom), month (mon),
+# and day of week (dow) or use '*' in these fields (for 'any').
+# 
+# Notice that tasks will be started based on the cron's system
+# daemon's notion of time and timezones.
+# 
+# Output of the crontab jobs (including errors) is sent through
+# email to the user the crontab file belongs to (unless redirected).
+# 
+# For example, you can run a backup of all your user accounts
+# at 5 a.m every week with:
+# 0 5 * * 1 tar -zcf /var/backups/home.tgz /home/
+
+   30 18 * * 1,2,3,4,5 $HOME/anaconda3/bin/python $HOME/pfcf_github/cme_model/CME_1percent_MySQL.py >> $HOME/pfcf_github/cme_model/mylog.log 2>&1
+# daily update 
+ #- Linux Timestamp Test
+   0 0 * * * $HOME/anaconda3/bin/python $HOME/autocommit/EXCEL_AutoUpdate/MySQL_visualize_research-LinuxTimestamp.py >> $HOME/autocommit/EXCEL_AutoUpdate/testlog.log 2>&1
+
+ #- 匯率資訊 
+   15 17 * * 1,2,3,4,5 $HOME/anaconda3/bin/python $HOME/autocommit/EXCEL_AutoUpdate/csv_download.py >> $HOME/autocommit/EXCEL_AutoUpdate/mylog.log 2>&1
+   1 18 * * 1,2,3,4,5 $HOME/anaconda3/bin/python $HOME/autocommit/EXCEL_AutoUpdate/EXCEL_visualize_research.py >> $HOME/autocommit/EXCEL_AutoUpdate/mylog2.log 2>&1
+   15 7 * * 2,3,4,5,6 $HOME/anaconda3/bin/python $HOME/autocommit/EXCEL_AutoUpdate/MySQL_visualize_research_forex.py >> $HOME/autocommit/EXCEL_AutoUpdate/forexlog2.log 2>&1
+ 
+ #- 通膨資訊 
+   1 8 * * 1,2,3,4,5 $HOME/anaconda3/bin/python $HOME/autocommit/EXCEL_AutoUpdate/payems/pce.py >> $HOME/autocommit/EXCEL_AutoUpdate/payems/pcelog.log 2>&1
+ 
+ #- 金屬資訊
+   0 7 * * 2,3,4,5,6 $HOME/anaconda3/bin/python $HOME/autocommit/EXCEL_AutoUpdate/payems/metals.py >> $HOME/autocommit/EXCEL_AutoUpdate/payems/metalslog.log 2>&1
+   1 7 * * 2,3,4,5,6 $HOME/anaconda3/bin/python $HOME/autocommit/EXCEL_AutoUpdate/payems/metalsRatio.py >> $HOME/autocommit/EXCEL_AutoUpdate/payems/metalsRlog.log 2>&1
+ 
+ #- 資金流&籌碼資訊
+   15 17 * * 1,2,3,4,5 $HOME/anaconda3/bin/python $HOME/autocommit/EXCEL_AutoUpdate/EXCEL_visualize_research-cmoney資金流熱力圖.py >> $HOME/autocommit/EXCEL_AutoUpdate/flowlog.log 2>&1
+   17 17 * * 1,2,3,4,5 $HOME/anaconda3/bin/python $HOME/autocommit/EXCEL_AutoUpdate/EXCEL_visualize_research-TreeShape_cmoney.py >> $HOME/autocommit/EXCEL_AutoUpdate/treelog.log 2>&1
+   19 17 * * 1,2,3,4,5 $HOME/anaconda3/bin/python $HOME/autocommit/EXCEL_AutoUpdate/EXCEL_visualize_research-BubbleMap.py >> $HOME/autocommit/EXCEL_AutoUpdate/bubblelog.log 2>&1
+
+ #- 相關係數矩陣(熱力圖) 資訊
+   30 13 * * 1,2,3,4,5 $HOME/anaconda3/bin/python $HOME/autocommit/EXCEL_AutoUpdate/MySQL_visualize_research-Correlations.py >> $HOME/autocommit/EXCEL_AutoUpdate/Corrlog.log 2>&1
+
+ #- 穿越均線機率 資訊
+   30 17 * * 1,2,3,4,5 $HOME/anaconda3/bin/python $HOME/autocommit/EXCEL_AutoUpdate/MySQL_CME_Breakthrough_20MA.py >> $HOME/autocommit/EXCEL_AutoUpdate/breakthroughlog.log 2>&1
+
+# weekly update 
+ #- CFTC籌碼資訊
+   30 14 * * 1 $HOME/anaconda3/bin/python $HOME/autocommit/EXCEL_AutoUpdate/EXCEL_visualize_research-CFTC.py >> $HOME/autocommit/EXCEL_AutoUpdate/CFTClog.log 2>&1
+
+# monthly update 
+ #- 就業資訊
+   0 9 6 * * $HOME/anaconda3/bin/python $HOME/autocommit/EXCEL_AutoUpdate/payems/payems.py >> $HOME/autocommit/EXCEL_AutoUpdate/payems/payemslog.log 2>&1
+
+ #- 相關係數矩陣(熱力圖) 資訊
+   0 7 24 * * $HOME/anaconda3/bin/python $HOME/autocommit/EXCEL_AutoUpdate/MySQL_visualize_research-Correlations_1yr.py >> $HOME/autocommit/EXCEL_AutoUpdate/Corrlog_1yr.log 2>&1
+   0 7 24 * * $HOME/anaconda3/bin/python $HOME/autocommit/EXCEL_AutoUpdate/MySQL_visualize_research-Correlations_10yr.py >> $HOME/autocommit/EXCEL_AutoUpdate/Corrlog_10yr.log 2>&1
+
+
+
+#  * * * * * $HOME/pfcf_github/cme_model/CME_1percent_MySQL.py >> $HOME/pfcf_github/cme_model/mylog.log 2>&1  
+# 
+# For more information see the manual pages of crontab(5) and cron(8)
+# 
+# m h  dom mon dow   command
