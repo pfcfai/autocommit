@@ -34,12 +34,12 @@ dbconn=pymysql.connect(
 sql='select t1.timestamp , t1.Close/t2.Close as ratio from pricedata_day.gc as t1 inner join pricedata_day.si as t2 on t1.timestamp=t2.timestamp order by timestamp desc;'
 generator_df = pd.read_sql(sql=sql,     # mysql query
                                con=dbconn)  # size you want to fetch each time (we choose 2-years data) 
-print(generator_df)
+#print(generator_df)
 
 # re-arrange desc to asc
 generator_df=generator_df.sort_values(by=['timestamp'],ascending=True)
 generator_df.reset_index(drop=True, inplace=True)
-print(generator_df)
+#print(generator_df)
 dict=generator_df.values.tolist()
 print(dict)
 
@@ -55,12 +55,12 @@ with open('/home/spark/autocommit/EXCEL_AutoUpdate/payems/gc_si_ratio.json', 'w'
 sql='select t1.timestamp , t2.Close/t1.Close as ratio from pricedata_day.gc as t1 inner join pricedata_day.pl as t2 on t1.timestamp=t2.timestamp order by timestamp desc;'
 generator_df = pd.read_sql(sql=sql,     # mysql query
                                con=dbconn)  # size you want to fetch each time (we choose 2-years data) 
-print(generator_df)
+#print(generator_df)
 
 # re-arrange desc to asc
 generator_df=generator_df.sort_values(by=['timestamp'],ascending=True)
 generator_df.reset_index(drop=True, inplace=True)
-print(generator_df)
+#print(generator_df)
 dict=generator_df.values.tolist()
 print(dict)
 
@@ -76,12 +76,12 @@ with open('/home/spark/autocommit/EXCEL_AutoUpdate/payems/pl_gc_ratio.json', 'w'
 sql='select t1.timestamp , t2.Close/t1.Close as ratio from pricedata_day.pa as t1 inner join pricedata_day.pl as t2 on t1.timestamp=t2.timestamp order by timestamp desc;'
 generator_df = pd.read_sql(sql=sql,     # mysql query
                                con=dbconn)  # size you want to fetch each time (we choose 2-years data) 
-print(generator_df)
+#print(generator_df)
 
 # re-arrange desc to asc
 generator_df=generator_df.sort_values(by=['timestamp'],ascending=True)
 generator_df.reset_index(drop=True, inplace=True)
-print(generator_df)
+#print(generator_df)
 dict=generator_df.values.tolist()
 print(dict)
 
@@ -97,17 +97,17 @@ with open('/home/spark/autocommit/EXCEL_AutoUpdate/payems/pl_pa_ratio.json', 'w'
 sql='select t1.timestamp , t2.Close/t1.Close as ratio from pricedata_day.gc as t1 inner join pricedata_day.hg as t2 on t1.timestamp=t2.timestamp order by timestamp desc;'
 generator_df = pd.read_sql(sql=sql,     # mysql query
                                con=dbconn)  # size you want to fetch each time (we choose 2-years data) 
-print(generator_df)
+#print(generator_df)
 
 # re-arrange desc to asc
 generator_df=generator_df.sort_values(by=['timestamp'],ascending=True)
 generator_df.reset_index(drop=True, inplace=True)
-print(generator_df)
+#print(generator_df)
 
 generator_df['pct_yoy'] = generator_df['ratio'].pct_change(252)
 generator_df=generator_df.dropna()
 del generator_df['ratio']
-print(generator_df)
+#print(generator_df)
 
 dict=generator_df.values.tolist()
 print(dict)
