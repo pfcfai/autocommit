@@ -43,7 +43,13 @@ for i in range(len(tb)):
     generator_df=generator_df.sort_values(by=['timestamp'],ascending=True)
     generator_df.reset_index(drop=True, inplace=True)
 
+    #print(generator_df) adjust GMT+8
+    generator_df['timestamp2']=generator_df['timestamp']+28800000
+    generator_df['Close2']=generator_df['Close']
+
+    generator_df=generator_df.drop(columns=['timestamp','Close'])
     #print(generator_df)
+
     dict=generator_df.values.tolist()
     print('=={}=='.format(name[i]))
     print(dict[-1])
