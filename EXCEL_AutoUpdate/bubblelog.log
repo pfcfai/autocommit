@@ -16457,3 +16457,15 @@
 下跌ing 大江-◎ -11.18
 [{'name': '台塑-◎', 'value': -11.42}, {'name': '華夏', 'value': -5.72}, {'name': '台玻-◎', 'value': -8.91}, {'name': '中鋼-◎', 'value': -15.22}, {'name': '中鴻', 'value': -7.2}, {'name': '燁輝', 'value': -5.51}, {'name': '台達電-◎', 'value': -9.91}, {'name': '鴻海-◎', 'value': -16.25}, {'name': '仁寶-◎', 'value': -11.41}, {'name': '佳世達-◎', 'value': -5.81}, {'name': '華碩-●', 'value': -20.47}, {'name': '宏達電-◎', 'value': -13.97}, {'name': '長榮-◎', 'value': -22.59}, {'name': '陽明', 'value': -7.67}, {'name': '奇鋐', 'value': -11.03}, {'name': '世芯-KY', 'value': -5.67}, {'name': '朋程', 'value': -6.02}]
 [{'name': '萬海', 'value': -5.96}, {'name': '大江-◎', 'value': -11.18}]
+Empty DataFrame
+Columns: [買超概算, 區間漲幅, 代號, 分類]
+Index: []
+Empty DataFrame
+Columns: [買超概算, 代號, 分類, node1]
+Index: []
+Empty DataFrame
+Columns: [分類, node1, node2, node3]
+Index: []
+Empty DataFrame
+Columns: [node1, node2, node3, node4]
+Index: []
