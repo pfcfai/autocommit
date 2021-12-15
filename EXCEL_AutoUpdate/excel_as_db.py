@@ -88,7 +88,7 @@ dtypedict = {
 'id': Integer()
 }
 print(df.dtypes)
-engine2 = create_engine('mysql+pymysql://webmysql@actwebdb2:AIteam168@103.17.9.213:3306/cotdatabase?charset=utf8')
+engine2 = create_engine('mysql+pymysql://{}:{}@{}:3306/cotdatabase?charset=utf8'.format(user,password,host))
 df.to_sql('retailoiindex', engine2, if_exists = 'replace',index=False, dtype=dtypedict)
 
 
