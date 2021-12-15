@@ -9,7 +9,15 @@
 以 pandas dataframe 插回資料庫存取
 '''
 
-
+from decouple import config
+'''
+use .gitignore ,then git will pass the files in .gitignore
+use .env to set userID,password as default, to pass through config and save in Variables
+'''
+#for mysql db use
+host = config('host',default='')
+user = config('user',default='')
+password = config('password',default='')
 
 
 # In[1]:
@@ -63,10 +71,10 @@ print (df)
 import pymysql
 from sqlalchemy import create_engine
 dbconn2=pymysql.connect(
-            host="103.17.9.213",
+            host=host,
             database= "cotdatabase",
-            user="webmysql@actwebdb2",
-            password="AIteam168",
+            user=user,
+            password=password,
             port=3306,
             charset='utf8',
             ) 
