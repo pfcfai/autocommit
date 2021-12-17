@@ -1764,3 +1764,28 @@ Strike          object
 Openinterest    object
 id              object
 dtype: object
+now:2021-12-17 17:30:03.726526
+today:20211217
+queryday:20211216
+enddate:2021-12-15
+202113
+   Twseclose
+0      17785
+16800 18600
+Empty DataFrame
+Columns: [Date, Type, Contract, Strike, Openinterest, id]
+Index: []
+Date            object
+Type            object
+Contract        object
+Strike          object
+Openinterest    object
+id              object
+dtype: object
+Date            object
+Type            object
+Contract        object
+Strike          object
+Openinterest    object
+id              object
+dtype: object
