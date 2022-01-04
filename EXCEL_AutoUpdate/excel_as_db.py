@@ -30,7 +30,7 @@ from openpyxl.reader.excel import load_workbook
 # In[2]:
 
 
-wb=openpyxl.load_workbook('/home/spark/autocommit/EXCEL_AutoUpdate/9-1自動化更新資料庫-108.11.05.xlsm')
+wb=openpyxl.load_workbook('$HOME/autocommit/EXCEL_AutoUpdate/9-1自動化更新資料庫-108.11.05.xlsm')
 
 
 # In[3]:
