@@ -1056,3 +1056,26 @@ Index_p             float64
 PCratio_p           float64
 id                    int64
 dtype: object
+/home/targets/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+近90天Data
+         Date      Twse    Index_p  PCratio_p  id
+0  2021-09-08  17270.49 -10.538977     117.75   1
+1  2021-09-09  17304.33   0.986517     120.53   2
+2  2021-09-10  17474.57  -4.000968     137.80   3
+3  2021-09-13  17446.31   4.433622     141.62   4
+4  2021-09-14  17434.90   1.742432     137.16   5
+..        ...       ...        ...        ...  ..
+85 2022-01-11  18288.21   6.970020     100.33  86
+86 2022-01-12  18375.40   3.192660     107.44  87
+87 2022-01-13  18436.93  -4.538513     111.02  88
+88 2022-01-14  18403.33   1.681856      98.16  89
+89 2022-01-17  18525.44  -2.413408     111.05  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
