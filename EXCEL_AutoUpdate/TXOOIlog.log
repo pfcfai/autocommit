@@ -3174,3 +3174,21 @@ Traceback (most recent call last):
   File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 2062, in _validate_integer
     raise IndexError("single positional indexer is out-of-bounds")
 IndexError: single positional indexer is out-of-bounds
+now:2022-01-31 17:30:02.636072
+today:20220131
+queryday:20220128
+enddate:2022-01-19
+202202
+Empty DataFrame
+Columns: [Twseclose]
+Index: []
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 101, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 1767, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 2137, in _getitem_axis
+    self._validate_integer(key, axis)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 2062, in _validate_integer
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
