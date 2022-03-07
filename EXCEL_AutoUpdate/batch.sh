@@ -1,5 +1,5 @@
 #! /bin/bash
-filelist=$(ls /home/targets/autocommit/EXCEL_AutoUpdate/CFTC)
+filelist=$(ls $PWD)
 
 for name in $filelist;do
 	if [[ "$name"==*.py ]]; then
