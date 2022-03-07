@@ -1,16 +1,28 @@
+/usr/bin/python: can't find '__main__' module in 'anaconda3'
+  File "Anaconda3-2020.02-Linux-x86_64.sh", line 9
+    export OLD_LD_LIBRARY_PATH=$LD_LIBRARY_PATH
+                             ^
+SyntaxError: invalid syntax
+  File "api.php", line 1
+    array(7) {
+             ^
+SyntaxError: invalid syntax
+/usr/bin/python: can't find '__main__' module in 'autocommit'
+/usr/bin/python: can't find '__main__' module in 'html'
+/usr/bin/python: can't find '__main__' module in 'inotify-tools-3.14'
+  File "test2.php", line 1
+    Message To server : DJ  084636    1F125110049 001        0000881L123456                                  172.16.214.65                           1    N
+             ^
+SyntaxError: invalid syntax
+  File "test2.php.1", line 1
+    Message To server : DJ  084636    1F125110049 001        0000881L11111                                   172.16.214.65                           1    N
+             ^
+SyntaxError: invalid syntax
 Traceback (most recent call last):
-  File "/home/targets/autocommit/EXCEL_AutoUpdate/CFTC/CFTC_optimized.py", line 193, in <module>
-    cftcs_f_year = pd.read_csv(n)
-  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/io/parsers.py", line 676, in parser_f
-    return _read(filepath_or_buffer, kwds)
-  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/io/parsers.py", line 448, in _read
-    parser = TextFileReader(fp_or_buf, **kwds)
-  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/io/parsers.py", line 880, in __init__
-    self._make_engine(self.engine)
-  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/io/parsers.py", line 1114, in _make_engine
-    self._engine = CParserWrapper(self.f, **self.options)
-  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/io/parsers.py", line 1891, in __init__
-    self._reader = parsers.TextReader(src, **kwds)
-  File "pandas/_libs/parsers.pyx", line 374, in pandas._libs.parsers.TextReader.__cinit__
-  File "pandas/_libs/parsers.pyx", line 673, in pandas._libs.parsers.TextReader._setup_parser_source
-FileNotFoundError: [Errno 2] File cftcs_f_year_gold.csv does not exist: 'cftcs_f_year_gold.csv'
+  File "test.html", line 1, in <module>
+    abc
+NameError: name 'abc' is not defined
+  File "test.php", line 1
+    Socket created Message send successfully string(2) " "
+                 ^
+SyntaxError: invalid syntax
