@@ -26,3 +26,4 @@ NameError: name 'abc' is not defined
     Socket created Message send successfully string(2) " "
                  ^
 SyntaxError: invalid syntax
+/bin/sh: ./autocommit/EXCEL_AutoUpdate/CFTC/batch.sh: Permission denied
