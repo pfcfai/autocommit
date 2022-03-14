@@ -74,3 +74,19 @@ python: can't open file 'FinFutYY.xls': [Errno 2] No such file or directory
 python: can't open file 'f_year.xls': [Errno 2] No such file or directory
 python: can't open file 'rawdata': [Errno 2] No such file or directory
 python: can't open file 'rawdata2': [Errno 2] No such file or directory
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/CFTC/CFTC_optimized.py", line 193, in <module>
+    cftcs_f_year = pd.read_csv(n)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/io/parsers.py", line 676, in parser_f
+    return _read(filepath_or_buffer, kwds)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/io/parsers.py", line 448, in _read
+    parser = TextFileReader(fp_or_buf, **kwds)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/io/parsers.py", line 880, in __init__
+    self._make_engine(self.engine)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/io/parsers.py", line 1114, in _make_engine
+    self._engine = CParserWrapper(self.f, **self.options)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/io/parsers.py", line 1891, in __init__
+    self._reader = parsers.TextReader(src, **kwds)
+  File "pandas/_libs/parsers.pyx", line 374, in pandas._libs.parsers.TextReader.__cinit__
+  File "pandas/_libs/parsers.pyx", line 673, in pandas._libs.parsers.TextReader._setup_parser_source
+FileNotFoundError: [Errno 2] File cftcs_f_year_gold.csv does not exist: 'cftcs_f_year_gold.csv'
