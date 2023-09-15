@@ -1738,3 +1738,33 @@ done
 
 [568 rows x 8 columns]
 done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0      -1.5      AU       NaN  ...     -0.4  2023-09-12 00:30:00                  %
+1      13.0      AU       NaN  ...     11.0  2023-09-12 01:30:00        Net balance
+2       2.0      AU       NaN  ...      1.0  2023-09-12 01:30:00        Net balance
+3       0.2      DE       NaN  ...     -0.2  2023-09-12 06:00:00                  %
+4      -2.7      DE       NaN  ...     -2.8  2023-09-12 06:00:00                  %
+..      ...     ...       ...  ...      ...                  ...                ...
+563     NaN      US       NaN  ...     51.0  2023-09-22 13:45:00  Index (diffusion)
+564     NaN      US       NaN  ...     50.4  2023-09-22 13:45:00  Index (diffusion)
+565     NaN      US       NaN  ...     95.0  2023-09-22 20:00:00                  %
+566     NaN      US       NaN  ...     92.0  2023-09-22 20:00:00              Index
+567     NaN      US       NaN  ...     98.0  2023-09-22 20:00:00                  %
+
+[568 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0      -1.5      AU       NaN  ...     -0.4  2023-09-12 00:30:00                  %
+1      13.0      AU       NaN  ...     11.0  2023-09-12 01:30:00        Net balance
+2       2.0      AU       NaN  ...      1.0  2023-09-12 01:30:00        Net balance
+3       0.2      DE       NaN  ...     -0.2  2023-09-12 06:00:00                  %
+4      -2.7      DE       NaN  ...     -2.8  2023-09-12 06:00:00                  %
+..      ...     ...       ...  ...      ...                  ...                ...
+563     NaN      US       NaN  ...     51.0  2023-09-22 13:45:00  Index (diffusion)
+564     NaN      US       NaN  ...     50.4  2023-09-22 13:45:00  Index (diffusion)
+565     NaN      US       NaN  ...     95.0  2023-09-22 20:00:00                  %
+566     NaN      US       NaN  ...     92.0  2023-09-22 20:00:00              Index
+567     NaN      US       NaN  ...     98.0  2023-09-22 20:00:00                  %
+
+[568 rows x 8 columns]
+done
