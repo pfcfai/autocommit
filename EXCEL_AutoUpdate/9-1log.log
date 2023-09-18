@@ -1,0 +1,46 @@
+/home/targets/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+圖形
+         Date      Twse    Index_p  PCratio_p  id
+0  2023-05-09  15727.70 -13.113199     115.48   1
+1  2023-05-10  15641.76   5.631516      96.56   2
+2  2023-05-11  15514.64   0.380276      99.65   3
+3  2023-05-12  15502.36  -3.465290      95.70   4
+4  2023-05-15  15475.05 -10.766861      94.82   5
+..        ...       ...        ...        ...  ..
+85 2023-09-08  16576.02  15.821037     101.58  86
+86 2023-09-11  16432.95  26.924537      89.83  87
+87 2023-09-12  16572.71   5.849139     100.69  88
+88 2023-09-13  16581.51   6.095326     100.21  89
+89 2023-09-14  16807.56 -23.286678     118.04  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
+/home/targets/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+圖形
+         Date      Twse    Index_p  PCratio_p  id
+0  2023-05-09  15727.70 -13.113199     115.48   1
+1  2023-05-10  15641.76   5.631516      96.56   2
+2  2023-05-11  15514.64   0.380276      99.65   3
+3  2023-05-12  15502.36  -3.465290      95.70   4
+4  2023-05-15  15475.05 -10.766861      94.82   5
+..        ...       ...        ...        ...  ..
+85 2023-09-08  16576.02  15.821037     101.58  86
+86 2023-09-11  16432.95  26.924537      89.83  87
+87 2023-09-12  16572.71   5.849139     100.69  88
+88 2023-09-13  16581.51   6.095326     100.21  89
+89 2023-09-14  16807.56 -23.286678     118.04  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
