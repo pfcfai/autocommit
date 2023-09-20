@@ -92,3 +92,28 @@ Index_p             float64
 PCratio_p           float64
 id                    int64
 dtype: object
+/home/targets/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:59: UserWarning: wmf image format is not supported so the image is being dropped
+  warn(msg)
+/home/targets/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+  warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
+圖形
+         Date      Twse    Index_p  PCratio_p  id
+0  2023-05-15  15475.05 -10.766861      94.82   1
+1  2023-05-16  15673.90 -24.233810     118.20   2
+2  2023-05-17  15925.29 -23.736875     121.31   3
+3  2023-05-18  16101.88 -18.836439     128.30   4
+4  2023-05-19  16174.92 -13.864553     118.62   5
+..        ...       ...        ...        ...  ..
+85 2023-09-14  16807.56 -23.286678     118.04  86
+86 2023-09-15  16920.92 -17.390206     118.02  87
+87 2023-09-18  16698.24  10.369605      99.82  88
+88 2023-09-19  16636.32  19.700184      91.32  89
+89 2023-09-20  16534.75  28.068688      81.09  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
