@@ -7858,3 +7858,498 @@ done
 
 [362 rows x 8 columns]
 done
+     Actual Country  Estimate  ... Previous                 Time       Unit
+0      48.3      NZ       NaN  ...     46.6  2023-09-17 21:30:00      Index
+1       NaN      GB       NaN  ...     -1.9  2023-09-17 23:01:00          %
+2       NaN      GB       NaN  ...     -0.1  2023-09-17 23:01:00          %
+3      -3.8      SG       5.5  ...     -3.5  2023-09-18 00:30:00          %
+4     -20.1      SG     -15.8  ...    -20.3  2023-09-18 00:30:00          %
+..      ...     ...       ...  ...      ...                  ...        ...
+357     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+358     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+359     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+360     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+361     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+
+[362 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time       Unit
+0      48.3      NZ       NaN  ...     46.6  2023-09-17 21:30:00      Index
+1       NaN      GB       NaN  ...     -1.9  2023-09-17 23:01:00          %
+2       NaN      GB       NaN  ...     -0.1  2023-09-17 23:01:00          %
+3      -3.8      SG       5.5  ...     -3.5  2023-09-18 00:30:00          %
+4     -20.1      SG     -15.8  ...    -20.3  2023-09-18 00:30:00          %
+..      ...     ...       ...  ...      ...                  ...        ...
+357     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+358     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+359     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+360     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+361     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+
+[362 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time       Unit
+0      48.3      NZ       NaN  ...     46.6  2023-09-17 21:30:00      Index
+1       NaN      GB       NaN  ...     -1.9  2023-09-17 23:01:00          %
+2       NaN      GB       NaN  ...     -0.1  2023-09-17 23:01:00          %
+3      -3.8      SG       5.5  ...     -3.5  2023-09-18 00:30:00          %
+4     -20.1      SG     -15.8  ...    -20.3  2023-09-18 00:30:00          %
+..      ...     ...       ...  ...      ...                  ...        ...
+357     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+358     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+359     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+360     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+361     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+
+[362 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time       Unit
+0      48.3      NZ       NaN  ...     46.6  2023-09-17 21:30:00      Index
+1       NaN      GB       NaN  ...     -1.9  2023-09-17 23:01:00          %
+2       NaN      GB       NaN  ...     -0.1  2023-09-17 23:01:00          %
+3      -3.8      SG       5.5  ...     -3.5  2023-09-18 00:30:00          %
+4     -20.1      SG     -15.8  ...    -20.3  2023-09-18 00:30:00          %
+..      ...     ...       ...  ...      ...                  ...        ...
+357     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+358     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+359     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+360     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+361     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+
+[362 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time       Unit
+0      48.3      NZ       NaN  ...     46.6  2023-09-17 21:30:00      Index
+1       NaN      GB       NaN  ...     -1.9  2023-09-17 23:01:00          %
+2       NaN      GB       NaN  ...     -0.1  2023-09-17 23:01:00          %
+3      -3.8      SG       5.5  ...     -3.5  2023-09-18 00:30:00          %
+4     -20.1      SG     -15.8  ...    -20.3  2023-09-18 00:30:00          %
+..      ...     ...       ...  ...      ...                  ...        ...
+357     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+358     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+359     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+360     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+361     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+
+[362 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time       Unit
+0      48.3      NZ       NaN  ...     46.6  2023-09-17 21:30:00      Index
+1       NaN      GB       NaN  ...     -1.9  2023-09-17 23:01:00          %
+2       NaN      GB       NaN  ...     -0.1  2023-09-17 23:01:00          %
+3      -3.8      SG       5.5  ...     -3.5  2023-09-18 00:30:00          %
+4     -20.1      SG     -15.8  ...    -20.3  2023-09-18 00:30:00          %
+..      ...     ...       ...  ...      ...                  ...        ...
+357     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+358     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+359     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+360     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+361     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+
+[362 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time       Unit
+0      48.3      NZ       NaN  ...     46.6  2023-09-17 21:30:00      Index
+1       NaN      GB       NaN  ...     -1.9  2023-09-17 23:01:00          %
+2       NaN      GB       NaN  ...     -0.1  2023-09-17 23:01:00          %
+3      -3.8      SG       5.5  ...     -3.5  2023-09-18 00:30:00          %
+4     -20.1      SG     -15.8  ...    -20.3  2023-09-18 00:30:00          %
+..      ...     ...       ...  ...      ...                  ...        ...
+357     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+358     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+359     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+360     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+361     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+
+[362 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time       Unit
+0      48.3      NZ       NaN  ...     46.6  2023-09-17 21:30:00      Index
+1       NaN      GB       NaN  ...     -1.9  2023-09-17 23:01:00          %
+2       NaN      GB       NaN  ...     -0.1  2023-09-17 23:01:00          %
+3      -3.8      SG       5.5  ...     -3.5  2023-09-18 00:30:00          %
+4     -20.1      SG     -15.8  ...    -20.3  2023-09-18 00:30:00          %
+..      ...     ...       ...  ...      ...                  ...        ...
+357     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+358     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+359     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+360     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+361     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+
+[362 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time       Unit
+0      48.3      NZ       NaN  ...     46.6  2023-09-17 21:30:00      Index
+1       NaN      GB       NaN  ...     -1.9  2023-09-17 23:01:00          %
+2       NaN      GB       NaN  ...     -0.1  2023-09-17 23:01:00          %
+3      -3.8      SG       5.5  ...     -3.5  2023-09-18 00:30:00          %
+4     -20.1      SG     -15.8  ...    -20.3  2023-09-18 00:30:00          %
+..      ...     ...       ...  ...      ...                  ...        ...
+357     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+358     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+359     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+360     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+361     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+
+[362 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time       Unit
+0      48.3      NZ       NaN  ...     46.6  2023-09-17 21:30:00      Index
+1       NaN      GB       NaN  ...     -1.9  2023-09-17 23:01:00          %
+2       NaN      GB       NaN  ...     -0.1  2023-09-17 23:01:00          %
+3      -3.8      SG       5.5  ...     -3.5  2023-09-18 00:30:00          %
+4     -20.1      SG     -15.8  ...    -20.3  2023-09-18 00:30:00          %
+..      ...     ...       ...  ...      ...                  ...        ...
+357     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+358     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+359     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+360     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+361     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+
+[362 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time       Unit
+0      48.3      NZ       NaN  ...     46.6  2023-09-17 21:30:00      Index
+1       NaN      GB       NaN  ...     -1.9  2023-09-17 23:01:00          %
+2       NaN      GB       NaN  ...     -0.1  2023-09-17 23:01:00          %
+3      -3.8      SG       5.5  ...     -3.5  2023-09-18 00:30:00          %
+4     -20.1      SG     -15.8  ...    -20.3  2023-09-18 00:30:00          %
+..      ...     ...       ...  ...      ...                  ...        ...
+357     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+358     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+359     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+360     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+361     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+
+[362 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time       Unit
+0      48.3      NZ       NaN  ...     46.6  2023-09-17 21:30:00      Index
+1       NaN      GB       NaN  ...     -1.9  2023-09-17 23:01:00          %
+2       NaN      GB       NaN  ...     -0.1  2023-09-17 23:01:00          %
+3      -3.8      SG       5.5  ...     -3.5  2023-09-18 00:30:00          %
+4     -20.1      SG     -15.8  ...    -20.3  2023-09-18 00:30:00          %
+..      ...     ...       ...  ...      ...                  ...        ...
+357     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+358     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+359     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+360     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+361     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+
+[362 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time       Unit
+0      48.3      NZ       NaN  ...     46.6  2023-09-17 21:30:00      Index
+1       NaN      GB       NaN  ...     -1.9  2023-09-17 23:01:00          %
+2       NaN      GB       NaN  ...     -0.1  2023-09-17 23:01:00          %
+3      -3.8      SG       5.5  ...     -3.5  2023-09-18 00:30:00          %
+4     -20.1      SG     -15.8  ...    -20.3  2023-09-18 00:30:00          %
+..      ...     ...       ...  ...      ...                  ...        ...
+357     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+358     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+359     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+360     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+361     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+
+[362 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time       Unit
+0      48.3      NZ       NaN  ...     46.6  2023-09-17 21:30:00      Index
+1       NaN      GB       NaN  ...     -1.9  2023-09-17 23:01:00          %
+2       NaN      GB       NaN  ...     -0.1  2023-09-17 23:01:00          %
+3      -3.8      SG       5.5  ...     -3.5  2023-09-18 00:30:00          %
+4     -20.1      SG     -15.8  ...    -20.3  2023-09-18 00:30:00          %
+..      ...     ...       ...  ...      ...                  ...        ...
+357     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+358     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+359     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+360     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+361     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+
+[362 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time       Unit
+0      48.3      NZ       NaN  ...     46.6  2023-09-17 21:30:00      Index
+1       NaN      GB       NaN  ...     -1.9  2023-09-17 23:01:00          %
+2       NaN      GB       NaN  ...     -0.1  2023-09-17 23:01:00          %
+3      -3.8      SG       5.5  ...     -3.5  2023-09-18 00:30:00          %
+4     -20.1      SG     -15.8  ...    -20.3  2023-09-18 00:30:00          %
+..      ...     ...       ...  ...      ...                  ...        ...
+357     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+358     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+359     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+360     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+361     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+
+[362 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time       Unit
+0      48.3      NZ       NaN  ...     46.6  2023-09-17 21:30:00      Index
+1       NaN      GB       NaN  ...     -1.9  2023-09-17 23:01:00          %
+2       NaN      GB       NaN  ...     -0.1  2023-09-17 23:01:00          %
+3      -3.8      SG       5.5  ...     -3.5  2023-09-18 00:30:00          %
+4     -20.1      SG     -15.8  ...    -20.3  2023-09-18 00:30:00          %
+..      ...     ...       ...  ...      ...                  ...        ...
+357     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+358     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+359     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+360     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+361     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+
+[362 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time       Unit
+0      48.3      NZ       NaN  ...     46.6  2023-09-17 21:30:00      Index
+1       NaN      GB       NaN  ...     -1.9  2023-09-17 23:01:00          %
+2       NaN      GB       NaN  ...     -0.1  2023-09-17 23:01:00          %
+3      -3.8      SG       5.5  ...     -3.5  2023-09-18 00:30:00          %
+4     -20.1      SG     -15.8  ...    -20.3  2023-09-18 00:30:00          %
+..      ...     ...       ...  ...      ...                  ...        ...
+357     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+358     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+359     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+360     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+361     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+
+[362 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time       Unit
+0      48.3      NZ       NaN  ...     46.6  2023-09-17 21:30:00      Index
+1       NaN      GB       NaN  ...     -1.9  2023-09-17 23:01:00          %
+2       NaN      GB       NaN  ...     -0.1  2023-09-17 23:01:00          %
+3      -3.8      SG       5.5  ...     -3.5  2023-09-18 00:30:00          %
+4     -20.1      SG     -15.8  ...    -20.3  2023-09-18 00:30:00          %
+..      ...     ...       ...  ...      ...                  ...        ...
+357     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+358     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+359     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+360     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+361     NaN      US       NaN  ...      NaN  2023-09-26 20:30:00  Number of
+
+[362 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time       Unit
+0      48.3      NZ       NaN  ...   46.600  2023-09-17 21:30:00      Index
+1       NaN      GB       NaN  ...   -1.900  2023-09-17 23:01:00          %
+2       NaN      GB       NaN  ...   -0.100  2023-09-17 23:01:00          %
+3      -3.8      SG       5.5  ...   -3.500  2023-09-18 00:30:00          %
+4     -20.1      SG     -15.8  ...  -20.300  2023-09-18 00:30:00          %
+..      ...     ...       ...  ...      ...                  ...        ...
+357     NaN      US       NaN  ...    0.732  2023-09-26 20:30:00  Number of
+358     NaN      US       NaN  ...   -0.862  2023-09-26 20:30:00  Number of
+359     NaN      US       NaN  ...    0.178  2023-09-26 20:30:00  Number of
+360     NaN      US       NaN  ...   -0.064  2023-09-26 20:30:00  Number of
+361     NaN      US       NaN  ...   -5.250  2023-09-26 20:30:00  Number of
+
+[362 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time       Unit
+0      48.3      NZ       NaN  ...   46.600  2023-09-17 21:30:00      Index
+1       NaN      GB       NaN  ...   -1.900  2023-09-17 23:01:00          %
+2       NaN      GB       NaN  ...   -0.100  2023-09-17 23:01:00          %
+3      -3.8      SG       5.5  ...   -3.500  2023-09-18 00:30:00          %
+4     -20.1      SG     -15.8  ...  -20.300  2023-09-18 00:30:00          %
+..      ...     ...       ...  ...      ...                  ...        ...
+357     NaN      US       NaN  ...    0.732  2023-09-26 20:30:00  Number of
+358     NaN      US       NaN  ...   -0.862  2023-09-26 20:30:00  Number of
+359     NaN      US       NaN  ...    0.178  2023-09-26 20:30:00  Number of
+360     NaN      US       NaN  ...   -0.064  2023-09-26 20:30:00  Number of
+361     NaN      US       NaN  ...   -5.250  2023-09-26 20:30:00  Number of
+
+[362 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time       Unit
+0      48.3      NZ       NaN  ...   46.600  2023-09-17 21:30:00      Index
+1       NaN      GB       NaN  ...   -1.900  2023-09-17 23:01:00          %
+2       NaN      GB       NaN  ...   -0.100  2023-09-17 23:01:00          %
+3      -3.8      SG       5.5  ...   -3.500  2023-09-18 00:30:00          %
+4     -20.1      SG     -15.8  ...  -20.300  2023-09-18 00:30:00          %
+..      ...     ...       ...  ...      ...                  ...        ...
+357     NaN      US       NaN  ...    0.732  2023-09-26 20:30:00  Number of
+358     NaN      US       NaN  ...   -0.862  2023-09-26 20:30:00  Number of
+359     NaN      US       NaN  ...    0.178  2023-09-26 20:30:00  Number of
+360     NaN      US       NaN  ...   -0.064  2023-09-26 20:30:00  Number of
+361     NaN      US       NaN  ...   -5.250  2023-09-26 20:30:00  Number of
+
+[362 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time       Unit
+0      48.3      NZ       NaN  ...   46.600  2023-09-17 21:30:00      Index
+1       NaN      GB       NaN  ...   -1.900  2023-09-17 23:01:00          %
+2       NaN      GB       NaN  ...   -0.100  2023-09-17 23:01:00          %
+3      -3.8      SG       5.5  ...   -3.500  2023-09-18 00:30:00          %
+4     -20.1      SG     -15.8  ...  -20.300  2023-09-18 00:30:00          %
+..      ...     ...       ...  ...      ...                  ...        ...
+357     NaN      US       NaN  ...    0.732  2023-09-26 20:30:00  Number of
+358     NaN      US       NaN  ...   -0.862  2023-09-26 20:30:00  Number of
+359     NaN      US       NaN  ...    0.178  2023-09-26 20:30:00  Number of
+360     NaN      US       NaN  ...   -0.064  2023-09-26 20:30:00  Number of
+361     NaN      US       NaN  ...   -5.250  2023-09-26 20:30:00  Number of
+
+[362 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time       Unit
+0      48.3      NZ       NaN  ...   46.600  2023-09-17 21:30:00      Index
+1       NaN      GB       NaN  ...   -1.900  2023-09-17 23:01:00          %
+2       NaN      GB       NaN  ...   -0.100  2023-09-17 23:01:00          %
+3      -3.8      SG       5.5  ...   -3.500  2023-09-18 00:30:00          %
+4     -20.1      SG     -15.8  ...  -20.300  2023-09-18 00:30:00          %
+..      ...     ...       ...  ...      ...                  ...        ...
+357     NaN      US       NaN  ...    0.732  2023-09-26 20:30:00  Number of
+358     NaN      US       NaN  ...   -0.862  2023-09-26 20:30:00  Number of
+359     NaN      US       NaN  ...    0.178  2023-09-26 20:30:00  Number of
+360     NaN      US       NaN  ...   -0.064  2023-09-26 20:30:00  Number of
+361     NaN      US       NaN  ...   -5.250  2023-09-26 20:30:00  Number of
+
+[362 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time       Unit
+0      48.3      NZ       NaN  ...   46.600  2023-09-17 21:30:00      Index
+1       NaN      GB       NaN  ...   -1.900  2023-09-17 23:01:00          %
+2       NaN      GB       NaN  ...   -0.100  2023-09-17 23:01:00          %
+3      -3.8      SG       5.5  ...   -3.500  2023-09-18 00:30:00          %
+4     -20.1      SG     -15.8  ...  -20.300  2023-09-18 00:30:00          %
+..      ...     ...       ...  ...      ...                  ...        ...
+357     NaN      US       NaN  ...    0.732  2023-09-26 20:30:00  Number of
+358     NaN      US       NaN  ...   -0.862  2023-09-26 20:30:00  Number of
+359     NaN      US       NaN  ...    0.178  2023-09-26 20:30:00  Number of
+360     NaN      US       NaN  ...   -0.064  2023-09-26 20:30:00  Number of
+361     NaN      US       NaN  ...   -5.250  2023-09-26 20:30:00  Number of
+
+[362 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time       Unit
+0      48.3      NZ       NaN  ...   46.600  2023-09-17 21:30:00      Index
+1       NaN      GB       NaN  ...   -1.900  2023-09-17 23:01:00          %
+2       NaN      GB       NaN  ...   -0.100  2023-09-17 23:01:00          %
+3      -3.8      SG       5.5  ...   -3.500  2023-09-18 00:30:00          %
+4     -20.1      SG     -15.8  ...  -20.300  2023-09-18 00:30:00          %
+..      ...     ...       ...  ...      ...                  ...        ...
+357     NaN      US       NaN  ...    0.732  2023-09-26 20:30:00  Number of
+358     NaN      US       NaN  ...   -0.862  2023-09-26 20:30:00  Number of
+359     NaN      US       NaN  ...    0.178  2023-09-26 20:30:00  Number of
+360     NaN      US       NaN  ...   -0.064  2023-09-26 20:30:00  Number of
+361     NaN      US       NaN  ...   -5.250  2023-09-26 20:30:00  Number of
+
+[362 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time       Unit
+0      48.3      NZ       NaN  ...   46.600  2023-09-17 21:30:00      Index
+1       NaN      GB       NaN  ...   -1.900  2023-09-17 23:01:00          %
+2       NaN      GB       NaN  ...   -0.100  2023-09-17 23:01:00          %
+3      -3.8      SG       5.5  ...   -3.500  2023-09-18 00:30:00          %
+4     -20.1      SG     -15.8  ...  -20.300  2023-09-18 00:30:00          %
+..      ...     ...       ...  ...      ...                  ...        ...
+357     NaN      US       NaN  ...    0.732  2023-09-26 20:30:00  Number of
+358     NaN      US       NaN  ...   -0.862  2023-09-26 20:30:00  Number of
+359     NaN      US       NaN  ...    0.178  2023-09-26 20:30:00  Number of
+360     NaN      US       NaN  ...   -0.064  2023-09-26 20:30:00  Number of
+361     NaN      US       NaN  ...   -5.250  2023-09-26 20:30:00  Number of
+
+[362 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time       Unit
+0      48.3      NZ       NaN  ...   46.600  2023-09-17 21:30:00      Index
+1       NaN      GB       NaN  ...   -1.900  2023-09-17 23:01:00          %
+2       NaN      GB       NaN  ...   -0.100  2023-09-17 23:01:00          %
+3      -3.8      SG       5.5  ...   -3.500  2023-09-18 00:30:00          %
+4     -20.1      SG     -15.8  ...  -20.300  2023-09-18 00:30:00          %
+..      ...     ...       ...  ...      ...                  ...        ...
+357     NaN      US       NaN  ...    0.732  2023-09-26 20:30:00  Number of
+358     NaN      US       NaN  ...   -0.862  2023-09-26 20:30:00  Number of
+359     NaN      US       NaN  ...    0.178  2023-09-26 20:30:00  Number of
+360     NaN      US       NaN  ...   -0.064  2023-09-26 20:30:00  Number of
+361     NaN      US       NaN  ...   -5.250  2023-09-26 20:30:00  Number of
+
+[362 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time       Unit
+0      48.3      NZ       NaN  ...   46.600  2023-09-17 21:30:00      Index
+1       NaN      GB       NaN  ...   -1.900  2023-09-17 23:01:00          %
+2       NaN      GB       NaN  ...   -0.100  2023-09-17 23:01:00          %
+3      -3.8      SG       5.5  ...   -3.500  2023-09-18 00:30:00          %
+4     -20.1      SG     -15.8  ...  -20.300  2023-09-18 00:30:00          %
+..      ...     ...       ...  ...      ...                  ...        ...
+357     NaN      US       NaN  ...    0.732  2023-09-26 20:30:00  Number of
+358     NaN      US       NaN  ...   -0.862  2023-09-26 20:30:00  Number of
+359     NaN      US       NaN  ...    0.178  2023-09-26 20:30:00  Number of
+360     NaN      US       NaN  ...   -0.064  2023-09-26 20:30:00  Number of
+361     NaN      US       NaN  ...   -5.250  2023-09-26 20:30:00  Number of
+
+[362 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time       Unit
+0      48.3      NZ       NaN  ...   46.600  2023-09-17 21:30:00      Index
+1       NaN      GB       NaN  ...   -1.900  2023-09-17 23:01:00          %
+2       NaN      GB       NaN  ...   -0.100  2023-09-17 23:01:00          %
+3      -3.8      SG       5.5  ...   -3.500  2023-09-18 00:30:00          %
+4     -20.1      SG     -15.8  ...  -20.300  2023-09-18 00:30:00          %
+..      ...     ...       ...  ...      ...                  ...        ...
+357     NaN      US       NaN  ...    0.732  2023-09-26 20:30:00  Number of
+358     NaN      US       NaN  ...   -0.862  2023-09-26 20:30:00  Number of
+359     NaN      US       NaN  ...    0.178  2023-09-26 20:30:00  Number of
+360     NaN      US       NaN  ...   -0.064  2023-09-26 20:30:00  Number of
+361     NaN      US       NaN  ...   -5.250  2023-09-26 20:30:00  Number of
+
+[362 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time       Unit
+0      48.3      NZ       NaN  ...   46.600  2023-09-17 21:30:00      Index
+1       NaN      GB       NaN  ...   -1.900  2023-09-17 23:01:00          %
+2       NaN      GB       NaN  ...   -0.100  2023-09-17 23:01:00          %
+3      -3.8      SG       5.5  ...   -3.500  2023-09-18 00:30:00          %
+4     -20.1      SG     -15.8  ...  -20.300  2023-09-18 00:30:00          %
+..      ...     ...       ...  ...      ...                  ...        ...
+357     NaN      US       NaN  ...    0.732  2023-09-26 20:30:00  Number of
+358     NaN      US       NaN  ...   -0.862  2023-09-26 20:30:00  Number of
+359     NaN      US       NaN  ...    0.178  2023-09-26 20:30:00  Number of
+360     NaN      US       NaN  ...   -0.064  2023-09-26 20:30:00  Number of
+361     NaN      US       NaN  ...   -5.250  2023-09-26 20:30:00  Number of
+
+[362 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time       Unit
+0      48.3      NZ       NaN  ...   46.600  2023-09-17 21:30:00      Index
+1       NaN      GB       NaN  ...   -1.900  2023-09-17 23:01:00          %
+2       NaN      GB       NaN  ...   -0.100  2023-09-17 23:01:00          %
+3      -3.8      SG       5.5  ...   -3.500  2023-09-18 00:30:00          %
+4     -20.1      SG     -15.8  ...  -20.300  2023-09-18 00:30:00          %
+..      ...     ...       ...  ...      ...                  ...        ...
+357     NaN      US       NaN  ...    0.732  2023-09-26 20:30:00  Number of
+358     NaN      US       NaN  ...   -0.862  2023-09-26 20:30:00  Number of
+359     NaN      US       NaN  ...    0.178  2023-09-26 20:30:00  Number of
+360     NaN      US       NaN  ...   -0.064  2023-09-26 20:30:00  Number of
+361     NaN      US       NaN  ...   -5.250  2023-09-26 20:30:00  Number of
+
+[362 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time       Unit
+0      48.3      NZ       NaN  ...   46.600  2023-09-17 21:30:00      Index
+1       NaN      GB       NaN  ...   -1.900  2023-09-17 23:01:00          %
+2       NaN      GB       NaN  ...   -0.100  2023-09-17 23:01:00          %
+3      -3.8      SG       5.5  ...   -3.500  2023-09-18 00:30:00          %
+4     -20.1      SG     -15.8  ...  -20.300  2023-09-18 00:30:00          %
+..      ...     ...       ...  ...      ...                  ...        ...
+357     NaN      US       NaN  ...    0.732  2023-09-26 20:30:00  Number of
+358     NaN      US       NaN  ...   -0.862  2023-09-26 20:30:00  Number of
+359     NaN      US       NaN  ...    0.178  2023-09-26 20:30:00  Number of
+360     NaN      US       NaN  ...   -0.064  2023-09-26 20:30:00  Number of
+361     NaN      US       NaN  ...   -5.250  2023-09-26 20:30:00  Number of
+
+[362 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time   Unit
+0      48.3      NZ       NaN  ...     46.6  2023-09-17 21:30:00  Index
+1       NaN      GB       NaN  ...     -1.9  2023-09-17 23:01:00      %
+2       NaN      GB       NaN  ...     -0.1  2023-09-17 23:01:00      %
+3      -3.8      SG       5.5  ...     -3.5  2023-09-18 00:30:00      %
+4     -20.1      SG     -15.8  ...    -20.3  2023-09-18 00:30:00      %
+..      ...     ...       ...  ...      ...                  ...    ...
+412     NaN      US       NaN  ...      NaN  2023-09-27 18:00:00    USD
+413     NaN      JP       NaN  ...      NaN  2023-09-27 23:50:00    JPY
+414     NaN      JP       NaN  ...      NaN  2023-09-27 23:50:00    JPY
+415     NaN      JP       NaN  ...      NaN  2023-09-27 23:50:00    JPY
+416     NaN      JP       NaN  ...      NaN  2023-09-27 23:50:00    JPY
+
+[417 rows x 8 columns]
+done
