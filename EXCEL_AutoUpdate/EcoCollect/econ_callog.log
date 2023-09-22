@@ -11173,3 +11173,171 @@ done
 
 [528 rows x 8 columns]
 done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0     -3.80      SG      5.50  ...    -3.50  2023-09-18 00:30:00     %
+1    -20.10      SG    -15.80  ...   -20.30  2023-09-18 00:30:00     %
+2     58.60      NZ       NaN  ...    58.30  2023-09-18 03:00:00     %
+3      0.18      BR      0.17  ...    -0.13  2023-09-18 11:00:00     %
+4      1.30      MX       NaN  ...     1.80  2023-09-18 12:00:00     %
+..      ...     ...       ...  ...      ...                  ...   ...
+523     NaN      JP       NaN  ...     7.00  2023-09-28 23:50:00     %
+524   -1.80      JP       NaN  ...    -2.00  2023-09-28 23:50:00     %
+525     NaN      JP       NaN  ...    -2.50  2023-09-28 23:50:00     %
+526     NaN      JP       NaN  ...     2.40  2023-09-28 23:50:00     %
+527     NaN      JP       NaN  ...     2.60  2023-09-28 23:50:00     %
+
+[528 rows x 8 columns]
+Traceback (most recent call last):
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/home/targets/anaconda3/lib/python3.7/socket.py", line 728, in create_connection
+    raise err
+  File "/home/targets/anaconda3/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2276, in _wrap_pool_connect
+    return fn()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 363, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 773, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 492, in checkout
+    rec = pool._do_get()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 139, in _do_get
+    self._dec_overflow()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 68, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 153, in reraise
+    raise value
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 136, in _do_get
+    return self._create_connection()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 308, in _create_connection
+    return _ConnectionRecord(self)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 437, in __init__
+    self.__connect(first_connect_check=True)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 652, in __connect
+    connection = pool._invoke_creator(self)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/strategies.py", line 114, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 489, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '103.17.9.213' (timed out)")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/EcoCollect/econ_cal.py", line 34, in <module>
+    to_db2(df,"workbench","economic_calendar")
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/EcoCollect/econ_cal.py", line 31, in to_db2
+    df.to_sql(table_name, engine3, if_exists='replace', index=False)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/generic.py", line 2882, in to_sql
+    method=method,
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 728, in to_sql
+    **engine_kwargs,
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1758, in to_sql
+    dtype=dtype,
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1650, in prep_table
+    table.create()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 856, in create
+    if self.exists():
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 840, in exists
+    return self.pd_sql.has_table(self.name, self.schema)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1787, in has_table
+    self.connectable.dialect.has_table, name, schema or self.meta.schema
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2162, in run_callable
+    with self._contextual_connect() as conn:
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2242, in _contextual_connect
+    self._wrap_pool_connect(self.pool.connect, None),
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2280, in _wrap_pool_connect
+    e, dialect, self
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1547, in _handle_dbapi_exception_noconnection
+    util.raise_from_cause(sqlalchemy_exception, exc_info)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 398, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 152, in reraise
+    raise value.with_traceback(tb)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2276, in _wrap_pool_connect
+    return fn()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 363, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 773, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 492, in checkout
+    rec = pool._do_get()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 139, in _do_get
+    self._dec_overflow()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 68, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 153, in reraise
+    raise value
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 136, in _do_get
+    return self._create_connection()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 308, in _create_connection
+    return _ConnectionRecord(self)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 437, in __init__
+    self.__connect(first_connect_check=True)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 652, in __connect
+    connection = pool._invoke_creator(self)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/strategies.py", line 114, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 489, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+sqlalchemy.exc.OperationalError: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on '103.17.9.213' (timed out)")
+(Background on this error at: http://sqlalche.me/e/e3q8)
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0     -3.80      SG      5.50  ...    -3.50  2023-09-18 00:30:00     %
+1    -20.10      SG    -15.80  ...   -20.30  2023-09-18 00:30:00     %
+2     58.60      NZ       NaN  ...    58.30  2023-09-18 03:00:00     %
+3      0.18      BR      0.17  ...    -0.13  2023-09-18 11:00:00     %
+4      1.30      MX       NaN  ...     1.80  2023-09-18 12:00:00     %
+..      ...     ...       ...  ...      ...                  ...   ...
+523     NaN      JP       NaN  ...     7.00  2023-09-28 23:50:00     %
+524   -1.80      JP       NaN  ...    -2.00  2023-09-28 23:50:00     %
+525     NaN      JP       NaN  ...    -2.50  2023-09-28 23:50:00     %
+526     NaN      JP       NaN  ...     2.40  2023-09-28 23:50:00     %
+527     NaN      JP       NaN  ...     2.60  2023-09-28 23:50:00     %
+
+[528 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0     -3.80      SG      5.50  ...    -3.50  2023-09-18 00:30:00     %
+1    -20.10      SG    -15.80  ...   -20.30  2023-09-18 00:30:00     %
+2     58.60      NZ       NaN  ...    58.30  2023-09-18 03:00:00     %
+3      0.18      BR      0.17  ...    -0.13  2023-09-18 11:00:00     %
+4      1.30      MX       NaN  ...     1.80  2023-09-18 12:00:00     %
+..      ...     ...       ...  ...      ...                  ...   ...
+523     NaN      JP       NaN  ...     7.00  2023-09-28 23:50:00     %
+524   -1.80      JP       NaN  ...    -2.00  2023-09-28 23:50:00     %
+525     NaN      JP       NaN  ...    -2.50  2023-09-28 23:50:00     %
+526     NaN      JP       NaN  ...     2.40  2023-09-28 23:50:00     %
+527     NaN      JP       NaN  ...     2.60  2023-09-28 23:50:00     %
+
+[528 rows x 8 columns]
+done
+      Actual Country  Estimate  ... Previous                 Time           Unit
+0    4054.00      CH       NaN  ...  3132.00  2023-09-19 06:00:00            CHF
+1        NaN      ZA       NaN  ...      NaN  2023-09-19 07:00:00          Index
+2      26.85     ERL       NaN  ...    36.77  2023-09-19 08:00:00            EUR
+3      20.90     ERL       NaN  ...    35.84  2023-09-19 08:00:00            EUR
+4     123.66     ERL       NaN  ...   122.98  2023-09-19 09:00:00          Index
+..       ...     ...       ...  ...      ...                  ...            ...
+589      NaN      US       NaN  ...      NaN  2023-09-29 16:00:00  Bushel (56lb)
+590      NaN      US       NaN  ...      NaN  2023-09-29 16:00:00  Bushel (56lb)
+591      NaN      US       NaN  ...      NaN  2023-09-29 16:00:00  Bushel (56lb)
+592      NaN      MX       NaN  ...   -77.56  2023-09-29 21:00:00            MXN
+593      NaN      US       NaN  ...     2.40  2023-09-29 21:00:00              %
+
+[594 rows x 8 columns]
+done
