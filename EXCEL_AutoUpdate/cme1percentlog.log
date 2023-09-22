@@ -124,3 +124,22 @@
 15  16      輕原油     44.0   1.63  ...  47.8261  52.1739     6.88    -7.94
 
 [16 rows x 12 columns]
+  0%|          | 0/16 [00:00<?, ?it/s]  6%|▋         | 1/16 [00:00<00:03,  3.75it/s] 12%|█▎        | 2/16 [00:00<00:03,  3.86it/s] 19%|█▉        | 3/16 [00:00<00:03,  3.92it/s] 25%|██▌       | 4/16 [00:00<00:03,  3.97it/s] 25%|██▌       | 4/16 [00:01<00:03,  3.60it/s]
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/CME_1percent_MySQL.py", line 89, in <module>
+    df_from_dict.to_sql('cme_'+str(1)+'percent_'+tablename, engine2, if_exists = 'replace',index=False)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/generic.py", line 2882, in to_sql
+    method=method,
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 728, in to_sql
+    **engine_kwargs,
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1758, in to_sql
+    dtype=dtype,
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1650, in prep_table
+    table.create()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 860, in create
+    self.pd_sql.drop_table(self.name, self.schema)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1809, in drop_table
+    self.meta.reflect(only=[table_name], schema=schema)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/sql/schema.py", line 4261, in reflect
+    "in %r%s: (%s)" % (bind.engine, s, ", ".join(missing))
+sqlalchemy.exc.InvalidRequestError: Could not reflect: requested table(s) not available in Engine(mysql+pymysql://webmysql%40actwebdb2:***@103.17.9.213:3306/webaiuse?charset=utf8): (cme_1percent_ad)
