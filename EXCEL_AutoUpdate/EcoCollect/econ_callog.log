@@ -12721,3 +12721,63 @@ done
 
 [593 rows x 8 columns]
 done
+      Actual Country  Estimate  ... Previous                 Time           Unit
+0    4054.00      CH       NaN  ...  3132.00  2023-09-19 06:00:00            CHF
+1        NaN      ZA       NaN  ...      NaN  2023-09-19 07:00:00          Index
+2      26.85     ERL       NaN  ...    36.77  2023-09-19 08:00:00            EUR
+3      20.90     ERL       NaN  ...    35.84  2023-09-19 08:00:00            EUR
+4     123.66     ERL       NaN  ...   122.98  2023-09-19 09:00:00          Index
+..       ...     ...       ...  ...      ...                  ...            ...
+588      NaN      US       NaN  ...      NaN  2023-09-29 16:00:00  Bushel (56lb)
+589      NaN      US       NaN  ...      NaN  2023-09-29 16:00:00  Bushel (56lb)
+590      NaN      US       NaN  ...      NaN  2023-09-29 16:00:00  Bushel (56lb)
+591      NaN      MX       NaN  ...   -77.56  2023-09-29 21:00:00            MXN
+592      NaN      US       NaN  ...     2.40  2023-09-29 21:00:00              %
+
+[593 rows x 8 columns]
+done
+      Actual Country  Estimate  ... Previous                 Time           Unit
+0    4054.00      CH       NaN  ...  3132.00  2023-09-19 06:00:00            CHF
+1        NaN      ZA       NaN  ...      NaN  2023-09-19 07:00:00          Index
+2      26.85     ERL       NaN  ...    36.77  2023-09-19 08:00:00            EUR
+3      20.90     ERL       NaN  ...    35.84  2023-09-19 08:00:00            EUR
+4     123.66     ERL       NaN  ...   122.98  2023-09-19 09:00:00          Index
+..       ...     ...       ...  ...      ...                  ...            ...
+588      NaN      US       NaN  ...      NaN  2023-09-29 16:00:00  Bushel (56lb)
+589      NaN      US       NaN  ...      NaN  2023-09-29 16:00:00  Bushel (56lb)
+590      NaN      US       NaN  ...      NaN  2023-09-29 16:00:00  Bushel (56lb)
+591      NaN      MX       NaN  ...   -77.56  2023-09-29 21:00:00            MXN
+592      NaN      US       NaN  ...     2.40  2023-09-29 21:00:00              %
+
+[593 rows x 8 columns]
+done
+      Actual Country  Estimate  ... Previous                 Time           Unit
+0    4054.00      CH       NaN  ...  3132.00  2023-09-19 06:00:00            CHF
+1        NaN      ZA       NaN  ...      NaN  2023-09-19 07:00:00          Index
+2      26.85     ERL       NaN  ...    36.77  2023-09-19 08:00:00            EUR
+3      20.90     ERL       NaN  ...    35.84  2023-09-19 08:00:00            EUR
+4     123.66     ERL       NaN  ...   122.98  2023-09-19 09:00:00          Index
+..       ...     ...       ...  ...      ...                  ...            ...
+588      NaN      US       NaN  ...      NaN  2023-09-29 16:00:00  Bushel (56lb)
+589      NaN      US       NaN  ...      NaN  2023-09-29 16:00:00  Bushel (56lb)
+590      NaN      US       NaN  ...      NaN  2023-09-29 16:00:00  Bushel (56lb)
+591      NaN      MX       NaN  ...   -77.56  2023-09-29 21:00:00            MXN
+592      NaN      US       NaN  ...     2.40  2023-09-29 21:00:00              %
+
+[593 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time           Unit
+0     -0.04      AU       NaN  ...     0.01  2023-09-20 01:00:00              %
+1     12.40      DE       NaN  ...   -13.20  2023-09-20 06:00:00              %
+2     37.30      DE       NaN  ...    18.10  2023-09-20 06:00:00              %
+3      0.30      DE       0.2  ...    -1.10  2023-09-20 06:00:00              %
+4    -12.60      DE     -12.6  ...    -6.00  2023-09-20 06:00:00              %
+..      ...     ...       ...  ...      ...                  ...            ...
+536     NaN      US       NaN  ...      NaN  2023-09-29 16:00:00  Bushel (56lb)
+537     NaN      US       NaN  ...      NaN  2023-09-29 16:00:00  Bushel (56lb)
+538     NaN      US       NaN  ...      NaN  2023-09-29 16:00:00  Bushel (56lb)
+539     NaN      MX       NaN  ...   -77.56  2023-09-29 21:00:00            MXN
+540     NaN      US       NaN  ...     2.40  2023-09-29 21:00:00              %
+
+[541 rows x 8 columns]
+done
