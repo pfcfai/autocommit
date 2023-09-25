@@ -14,7 +14,7 @@ filelist=$(ls /home/targets/autocommit/EXCEL_AutoUpdate/CFTC)
 
 for name in $filelist; do
     if [[ "$name" == *.py ]]; then
-        python /home/targets/autocommit/EXCEL_AutoUpdate/$name
+        python /home/targets/autocommit/EXCEL_AutoUpdate/CFTC/$name
     else
         echo $name
     fi
