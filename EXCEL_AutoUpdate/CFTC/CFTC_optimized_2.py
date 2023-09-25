@@ -79,7 +79,7 @@ def concatRawdata(folder,CFTC_Contract_Market_Code, prefix, newname):
             print(name)
     output = pd.concat(output, axis = 0).sort_values('Report_Date_as_MM_DD_YYYY').reset_index(drop = True)
     output = output[~output['Report_Date_as_MM_DD_YYYY'].duplicated(keep='first')]
-    output.to_csv(f'/home/targets/autocommit/EXCEL_AutoUpdate/CFTC/cftcs_{prefix}_{newname}.csv', index = False)
+    output.to_csv(f"/home/targets/autocommit/EXCEL_AutoUpdate/CFTC/cftcs_{prefix}_{newname}.csv", index = False)
     return output
 
 
