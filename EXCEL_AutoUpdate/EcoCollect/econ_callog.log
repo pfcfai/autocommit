@@ -17641,3 +17641,18 @@ done
 
 [443 rows x 8 columns]
 done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0      3.40      SG       3.5  ...     3.80  2023-09-25 05:00:00                  %
+1      0.88      SG       NaN  ...    -0.24  2023-09-25 05:00:00                  %
+2    114.30      SG       NaN  ...   113.31  2023-09-25 05:00:00              Index
+3      4.00      SG       4.0  ...     4.10  2023-09-25 05:00:00                  %
+4       NaN      TR       NaN  ...    76.10  2023-09-25 07:00:00                  %
+..      ...     ...       ...  ...      ...                  ...                ...
+438     NaN      US       NaN  ...      NaN  2023-10-03 20:30:00          Number of
+439     NaN      AU       NaN  ...    48.00  2023-10-03 22:00:00  Index (diffusion)
+440     NaN      AU       NaN  ...    47.80  2023-10-03 22:00:00  Index (diffusion)
+441     NaN      AU       NaN  ...    -9.90  2023-10-03 22:00:00              Index
+442     NaN      AU       NaN  ...   -19.80  2023-10-03 22:00:00  Index (diffusion)
+
+[443 rows x 8 columns]
+done
