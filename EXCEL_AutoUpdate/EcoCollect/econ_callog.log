@@ -17041,3 +17041,63 @@ done
 
 [445 rows x 8 columns]
 done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0      48.6      JP       NaN  ...   49.600  2023-09-22 00:30:00  Index (diffusion)
+1      51.8      JP       NaN  ...   52.600  2023-09-22 00:30:00  Index (diffusion)
+2      53.3      JP       NaN  ...   54.300  2023-09-22 00:30:00  Index (diffusion)
+3      -0.1      JP      -0.1  ...   -0.100  2023-09-22 02:30:00                  %
+4       3.4      JP       NaN  ...    4.900  2023-09-22 05:00:00                  %
+..      ...     ...       ...  ...      ...                  ...                ...
+440     NaN      US       NaN  ...      NaN  2023-10-02 15:30:00                USD
+441     NaN      BR       NaN  ...    9.767  2023-10-02 18:00:00                USD
+442     NaN      NZ       NaN  ...  -63.000  2023-10-02 21:00:00        Net balance
+443     NaN      NZ       NaN  ...   81.700  2023-10-02 21:00:00                  %
+444     NaN      JP       NaN  ...    1.120  2023-10-02 23:50:00                  %
+
+[445 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0      48.6      JP       NaN  ...   49.600  2023-09-22 00:30:00  Index (diffusion)
+1      51.8      JP       NaN  ...   52.600  2023-09-22 00:30:00  Index (diffusion)
+2      53.3      JP       NaN  ...   54.300  2023-09-22 00:30:00  Index (diffusion)
+3      -0.1      JP      -0.1  ...   -0.100  2023-09-22 02:30:00                  %
+4       3.4      JP       NaN  ...    4.900  2023-09-22 05:00:00                  %
+..      ...     ...       ...  ...      ...                  ...                ...
+440     NaN      US       NaN  ...      NaN  2023-10-02 15:30:00                USD
+441     NaN      BR       NaN  ...    9.767  2023-10-02 18:00:00                USD
+442     NaN      NZ       NaN  ...  -63.000  2023-10-02 21:00:00        Net balance
+443     NaN      NZ       NaN  ...   81.700  2023-10-02 21:00:00                  %
+444     NaN      JP       NaN  ...    1.120  2023-10-02 23:50:00                  %
+
+[445 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0      48.6      JP       NaN  ...   49.600  2023-09-22 00:30:00  Index (diffusion)
+1      51.8      JP       NaN  ...   52.600  2023-09-22 00:30:00  Index (diffusion)
+2      53.3      JP       NaN  ...   54.300  2023-09-22 00:30:00  Index (diffusion)
+3      -0.1      JP      -0.1  ...   -0.100  2023-09-22 02:30:00                  %
+4       3.4      JP       NaN  ...    4.900  2023-09-22 05:00:00                  %
+..      ...     ...       ...  ...      ...                  ...                ...
+440     NaN      US       NaN  ...      NaN  2023-10-02 15:30:00                USD
+441     NaN      BR       NaN  ...    9.767  2023-10-02 18:00:00                USD
+442     NaN      NZ       NaN  ...  -63.000  2023-10-02 21:00:00        Net balance
+443     NaN      NZ       NaN  ...   81.700  2023-10-02 21:00:00                  %
+444     NaN      JP       NaN  ...    1.120  2023-10-02 23:50:00                  %
+
+[445 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0      3.40      SG       3.5  ...     3.80  2023-09-25 05:00:00                  %
+1      0.88      SG       NaN  ...    -0.24  2023-09-25 05:00:00                  %
+2    114.30      SG       NaN  ...   113.31  2023-09-25 05:00:00              Index
+3      4.00      SG       4.0  ...     4.10  2023-09-25 05:00:00                  %
+4       NaN      TR       NaN  ...    76.10  2023-09-25 07:00:00                  %
+..      ...     ...       ...  ...      ...                  ...                ...
+438     NaN      US       NaN  ...      NaN  2023-10-03 20:30:00          Number of
+439     NaN      AU       NaN  ...    48.00  2023-10-03 22:00:00  Index (diffusion)
+440     NaN      AU       NaN  ...    47.80  2023-10-03 22:00:00  Index (diffusion)
+441     NaN      AU       NaN  ...    -9.90  2023-10-03 22:00:00              Index
+442     NaN      AU       NaN  ...   -19.80  2023-10-03 22:00:00  Index (diffusion)
+
+[443 rows x 8 columns]
+done
