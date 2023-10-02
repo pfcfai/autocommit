@@ -25741,3 +25741,183 @@ done
 
 [437 rows x 8 columns]
 done
+     Actual Country  Estimate  ...   Previous                 Time  Unit
+0       NaN      AU       NaN  ...       0.30  2023-09-29 01:30:00     %
+1       NaN      AU       NaN  ...       0.30  2023-09-29 01:30:00     %
+2       NaN      AU       NaN  ...    2875.02  2023-09-29 01:30:00   AUD
+3       NaN      NZ       NaN  ...  403358.00  2023-09-29 02:00:00   NZD
+4      -4.3      JP       NaN  ...       8.70  2023-09-29 05:00:00     %
+..      ...     ...       ...  ...        ...                  ...   ...
+432     NaN      GB       NaN  ...       4.30  2023-10-09 23:01:00     %
+433     NaN      JP       NaN  ...        NaN  2023-10-09 23:50:00   JPY
+434     NaN      JP       NaN  ...        NaN  2023-10-09 23:50:00   JPY
+435     NaN      JP       NaN  ...        NaN  2023-10-09 23:50:00   JPY
+436     NaN      JP       NaN  ...   -1146.36  2023-10-09 23:50:00   JPY
+
+[437 rows x 8 columns]
+done
+     Actual Country  Estimate  ...   Previous                 Time  Unit
+0       NaN      AU       NaN  ...       0.30  2023-09-29 01:30:00     %
+1       NaN      AU       NaN  ...       0.30  2023-09-29 01:30:00     %
+2       NaN      AU       NaN  ...    2875.02  2023-09-29 01:30:00   AUD
+3       NaN      NZ       NaN  ...  403358.00  2023-09-29 02:00:00   NZD
+4      -4.3      JP       NaN  ...       8.70  2023-09-29 05:00:00     %
+..      ...     ...       ...  ...        ...                  ...   ...
+432     NaN      GB       NaN  ...       4.30  2023-10-09 23:01:00     %
+433     NaN      JP       NaN  ...        NaN  2023-10-09 23:50:00   JPY
+434     NaN      JP       NaN  ...        NaN  2023-10-09 23:50:00   JPY
+435     NaN      JP       NaN  ...        NaN  2023-10-09 23:50:00   JPY
+436     NaN      JP       NaN  ...   -1146.36  2023-10-09 23:50:00   JPY
+
+[437 rows x 8 columns]
+done
+     Actual Country  Estimate  ...   Previous                 Time  Unit
+0       NaN      AU       NaN  ...       0.30  2023-09-29 01:30:00     %
+1       NaN      AU       NaN  ...       0.30  2023-09-29 01:30:00     %
+2       NaN      AU       NaN  ...    2875.02  2023-09-29 01:30:00   AUD
+3       NaN      NZ       NaN  ...  403358.00  2023-09-29 02:00:00   NZD
+4      -4.3      JP       NaN  ...       8.70  2023-09-29 05:00:00     %
+..      ...     ...       ...  ...        ...                  ...   ...
+432     NaN      GB       NaN  ...       4.30  2023-10-09 23:01:00     %
+433     NaN      JP       NaN  ...        NaN  2023-10-09 23:50:00   JPY
+434     NaN      JP       NaN  ...        NaN  2023-10-09 23:50:00   JPY
+435     NaN      JP       NaN  ...        NaN  2023-10-09 23:50:00   JPY
+436     NaN      JP       NaN  ...   -1146.36  2023-10-09 23:50:00   JPY
+
+[437 rows x 8 columns]
+done
+     Actual Country  Estimate  ...   Previous                 Time  Unit
+0       NaN      AU       NaN  ...       0.30  2023-09-29 01:30:00     %
+1       NaN      AU       NaN  ...       0.30  2023-09-29 01:30:00     %
+2       NaN      AU       NaN  ...    2875.02  2023-09-29 01:30:00   AUD
+3       NaN      NZ       NaN  ...  403358.00  2023-09-29 02:00:00   NZD
+4      -4.3      JP       NaN  ...       8.70  2023-09-29 05:00:00     %
+..      ...     ...       ...  ...        ...                  ...   ...
+432     NaN      GB       NaN  ...       4.30  2023-10-09 23:01:00     %
+433     NaN      JP       NaN  ...        NaN  2023-10-09 23:50:00   JPY
+434     NaN      JP       NaN  ...        NaN  2023-10-09 23:50:00   JPY
+435     NaN      JP       NaN  ...        NaN  2023-10-09 23:50:00   JPY
+436     NaN      JP       NaN  ...   -1146.36  2023-10-09 23:50:00   JPY
+
+[437 rows x 8 columns]
+done
+     Actual Country  Estimate  ...   Previous                 Time  Unit
+0       NaN      AU       NaN  ...       0.30  2023-09-29 01:30:00     %
+1       NaN      AU       NaN  ...       0.30  2023-09-29 01:30:00     %
+2       NaN      AU       NaN  ...    2875.02  2023-09-29 01:30:00   AUD
+3       NaN      NZ       NaN  ...  403358.00  2023-09-29 02:00:00   NZD
+4      -4.3      JP       NaN  ...       8.70  2023-09-29 05:00:00     %
+..      ...     ...       ...  ...        ...                  ...   ...
+432     NaN      GB       NaN  ...       4.30  2023-10-09 23:01:00     %
+433     NaN      JP       NaN  ...        NaN  2023-10-09 23:50:00   JPY
+434     NaN      JP       NaN  ...        NaN  2023-10-09 23:50:00   JPY
+435     NaN      JP       NaN  ...        NaN  2023-10-09 23:50:00   JPY
+436     NaN      JP       NaN  ...   -1146.36  2023-10-09 23:50:00   JPY
+
+[437 rows x 8 columns]
+done
+     Actual Country  Estimate  ...   Previous                 Time  Unit
+0       NaN      AU       NaN  ...       0.30  2023-09-29 01:30:00     %
+1       NaN      AU       NaN  ...       0.30  2023-09-29 01:30:00     %
+2       NaN      AU       NaN  ...    2875.02  2023-09-29 01:30:00   AUD
+3       NaN      NZ       NaN  ...  403358.00  2023-09-29 02:00:00   NZD
+4      -4.3      JP       NaN  ...       8.70  2023-09-29 05:00:00     %
+..      ...     ...       ...  ...        ...                  ...   ...
+432     NaN      GB       NaN  ...       4.30  2023-10-09 23:01:00     %
+433     NaN      JP       NaN  ...        NaN  2023-10-09 23:50:00   JPY
+434     NaN      JP       NaN  ...        NaN  2023-10-09 23:50:00   JPY
+435     NaN      JP       NaN  ...        NaN  2023-10-09 23:50:00   JPY
+436     NaN      JP       NaN  ...   -1146.36  2023-10-09 23:50:00   JPY
+
+[437 rows x 8 columns]
+done
+     Actual Country  Estimate  ...   Previous                 Time  Unit
+0       NaN      AU       NaN  ...       0.30  2023-09-29 01:30:00     %
+1       NaN      AU       NaN  ...       0.30  2023-09-29 01:30:00     %
+2       NaN      AU       NaN  ...    2875.02  2023-09-29 01:30:00   AUD
+3       NaN      NZ       NaN  ...  403358.00  2023-09-29 02:00:00   NZD
+4      -4.3      JP       NaN  ...       8.70  2023-09-29 05:00:00     %
+..      ...     ...       ...  ...        ...                  ...   ...
+432     NaN      GB       NaN  ...       4.30  2023-10-09 23:01:00     %
+433     NaN      JP       NaN  ...        NaN  2023-10-09 23:50:00   JPY
+434     NaN      JP       NaN  ...        NaN  2023-10-09 23:50:00   JPY
+435     NaN      JP       NaN  ...        NaN  2023-10-09 23:50:00   JPY
+436     NaN      JP       NaN  ...   -1146.36  2023-10-09 23:50:00   JPY
+
+[437 rows x 8 columns]
+done
+     Actual Country  Estimate  ...   Previous                 Time  Unit
+0       NaN      AU       NaN  ...       0.30  2023-09-29 01:30:00     %
+1       NaN      AU       NaN  ...       0.30  2023-09-29 01:30:00     %
+2       NaN      AU       NaN  ...    2875.02  2023-09-29 01:30:00   AUD
+3       NaN      NZ       NaN  ...  403358.00  2023-09-29 02:00:00   NZD
+4      -4.3      JP       NaN  ...       8.70  2023-09-29 05:00:00     %
+..      ...     ...       ...  ...        ...                  ...   ...
+432     NaN      GB       NaN  ...       4.30  2023-10-09 23:01:00     %
+433     NaN      JP       NaN  ...        NaN  2023-10-09 23:50:00   JPY
+434     NaN      JP       NaN  ...        NaN  2023-10-09 23:50:00   JPY
+435     NaN      JP       NaN  ...        NaN  2023-10-09 23:50:00   JPY
+436     NaN      JP       NaN  ...   -1146.36  2023-10-09 23:50:00   JPY
+
+[437 rows x 8 columns]
+done
+     Actual Country  Estimate  ...   Previous                 Time  Unit
+0       NaN      AU       NaN  ...       0.30  2023-09-29 01:30:00     %
+1       NaN      AU       NaN  ...       0.30  2023-09-29 01:30:00     %
+2       NaN      AU       NaN  ...    2875.02  2023-09-29 01:30:00   AUD
+3       NaN      NZ       NaN  ...  403358.00  2023-09-29 02:00:00   NZD
+4      -4.3      JP       NaN  ...       8.70  2023-09-29 05:00:00     %
+..      ...     ...       ...  ...        ...                  ...   ...
+432     NaN      GB       NaN  ...       4.30  2023-10-09 23:01:00     %
+433     NaN      JP       NaN  ...        NaN  2023-10-09 23:50:00   JPY
+434     NaN      JP       NaN  ...        NaN  2023-10-09 23:50:00   JPY
+435     NaN      JP       NaN  ...        NaN  2023-10-09 23:50:00   JPY
+436     NaN      JP       NaN  ...   -1146.36  2023-10-09 23:50:00   JPY
+
+[437 rows x 8 columns]
+done
+     Actual Country  Estimate  ...   Previous                 Time  Unit
+0       NaN      AU       NaN  ...       0.30  2023-09-29 01:30:00     %
+1       NaN      AU       NaN  ...       0.30  2023-09-29 01:30:00     %
+2       NaN      AU       NaN  ...    2875.02  2023-09-29 01:30:00   AUD
+3       NaN      NZ       NaN  ...  403358.00  2023-09-29 02:00:00   NZD
+4      -4.3      JP       NaN  ...       8.70  2023-09-29 05:00:00     %
+..      ...     ...       ...  ...        ...                  ...   ...
+432     NaN      GB       NaN  ...       4.30  2023-10-09 23:01:00     %
+433     NaN      JP       NaN  ...        NaN  2023-10-09 23:50:00   JPY
+434     NaN      JP       NaN  ...        NaN  2023-10-09 23:50:00   JPY
+435     NaN      JP       NaN  ...        NaN  2023-10-09 23:50:00   JPY
+436     NaN      JP       NaN  ...   -1146.36  2023-10-09 23:50:00   JPY
+
+[437 rows x 8 columns]
+done
+     Actual Country  Estimate  ...   Previous                 Time  Unit
+0       NaN      AU       NaN  ...       0.30  2023-09-29 01:30:00     %
+1       NaN      AU       NaN  ...       0.30  2023-09-29 01:30:00     %
+2       NaN      AU       NaN  ...    2875.02  2023-09-29 01:30:00   AUD
+3       NaN      NZ       NaN  ...  403358.00  2023-09-29 02:00:00   NZD
+4      -4.3      JP       NaN  ...       8.70  2023-09-29 05:00:00     %
+..      ...     ...       ...  ...        ...                  ...   ...
+432     NaN      GB       NaN  ...       4.30  2023-10-09 23:01:00     %
+433     NaN      JP       NaN  ...        NaN  2023-10-09 23:50:00   JPY
+434     NaN      JP       NaN  ...        NaN  2023-10-09 23:50:00   JPY
+435     NaN      JP       NaN  ...        NaN  2023-10-09 23:50:00   JPY
+436     NaN      JP       NaN  ...   -1146.36  2023-10-09 23:50:00   JPY
+
+[437 rows x 8 columns]
+done
+     Actual Country  Estimate  ...   Previous                 Time  Unit
+0       NaN      AU       NaN  ...       0.30  2023-09-29 01:30:00     %
+1       NaN      AU       NaN  ...       0.30  2023-09-29 01:30:00     %
+2       NaN      AU       NaN  ...    2875.02  2023-09-29 01:30:00   AUD
+3       NaN      NZ       NaN  ...  403358.00  2023-09-29 02:00:00   NZD
+4      -4.3      JP       NaN  ...       8.70  2023-09-29 05:00:00     %
+..      ...     ...       ...  ...        ...                  ...   ...
+432     NaN      GB       NaN  ...       4.30  2023-10-09 23:01:00     %
+433     NaN      JP       NaN  ...        NaN  2023-10-09 23:50:00   JPY
+434     NaN      JP       NaN  ...        NaN  2023-10-09 23:50:00   JPY
+435     NaN      JP       NaN  ...        NaN  2023-10-09 23:50:00   JPY
+436     NaN      JP       NaN  ...   -1146.36  2023-10-09 23:50:00   JPY
+
+[437 rows x 8 columns]
+done
