@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import datetime
 
-resource_path = r'./res_gossiping'
+resource_path = r'/home/targets/autocommit/EXCEL_AutoUpdate/EcoCollect/CapitalFlow/res_gossiping'
 if not os.path.exists(resource_path):
     os.mkdir(resource_path)
 headers = {'User-Agent' : 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36'}
@@ -51,10 +51,10 @@ try:
                 net_inflow=-float(net_inflow[net_inflow.find("約")+1:])
             
             result=[buy_amount,sell_amount,otc_buy_amount,otc_sell_amount,net_inflow]
-            pd.DataFrame(result).to_csv('./res_gossiping/'+datestr+'000'+str(i)+'.csv', sep='\t', encoding='utf-8') 
+            pd.DataFrame(result).to_csv('/home/targets/autocommit/EXCEL_AutoUpdate/EcoCollect/CapitalFlow/res_gossiping/'+datestr+'000'+str(i)+'.csv', sep='\t', encoding='utf-8') 
             
             
-            with open('./res_gossiping/'+datestr+'000'+str(i)+'.txt', 'w', encoding='utf-8') as f:
+            with open('/home/targets/autocommit/EXCEL_AutoUpdate/EcoCollect/CapitalFlow/res_gossiping/'+datestr+'000'+str(i)+'.txt', 'w', encoding='utf-8') as f:
 
                 f.write(text)
                 #print(text)
