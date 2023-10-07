@@ -32941,3 +32941,1033 @@ done
 
 [486 rows x 8 columns]
 done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+Traceback (most recent call last):
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 421, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 416, in _make_request
+    httplib_response = conn.getresponse()
+  File "/home/targets/anaconda3/lib/python3.7/http/client.py", line 1344, in getresponse
+    response.begin()
+  File "/home/targets/anaconda3/lib/python3.7/http/client.py", line 306, in begin
+    version, status, reason = self._read_status()
+  File "/home/targets/anaconda3/lib/python3.7/http/client.py", line 267, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/home/targets/anaconda3/lib/python3.7/socket.py", line 589, in readinto
+    return self._sock.recv_into(b)
+  File "/home/targets/anaconda3/lib/python3.7/ssl.py", line 1071, in recv_into
+    return self.read(nbytes, buffer)
+  File "/home/targets/anaconda3/lib/python3.7/ssl.py", line 929, in read
+    return self._sslobj.read(len, buffer)
+socket.timeout: The read operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/adapters.py", line 499, in send
+    timeout=timeout,
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 720, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/util/retry.py", line 400, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/packages/six.py", line 735, in reraise
+    raise value
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 672, in urlopen
+    chunked=chunked,
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 423, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 331, in _raise_timeout
+    self, url, "Read timed out. (read timeout=%s)" % timeout_value
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.finnhub.io', port=443): Read timed out. (read timeout=10)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/EcoCollect/econ_cal.py", line 10, in <module>
+    econ_cal = finnhub_client.calendar_economic()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/finnhub/client.py", line 346, in calendar_economic
+    "to": to
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/finnhub/client.py", line 71, in _get
+    return self._request("get", path, **kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/finnhub/client.py", line 40, in _request
+    response = getattr(self._session, method)(uri, **kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/sessions.py", line 600, in get
+    return self.request("GET", url, **kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/adapters.py", line 578, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.finnhub.io', port=443): Read timed out. (read timeout=10)
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+Traceback (most recent call last):
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 376, in _make_request
+    self._validate_conn(conn)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 994, in _validate_conn
+    conn.connect()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connection.py", line 360, in connect
+    ssl_context=context,
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/util/ssl_.py", line 370, in ssl_wrap_socket
+    return context.wrap_socket(sock, server_hostname=server_hostname)
+  File "/home/targets/anaconda3/lib/python3.7/ssl.py", line 423, in wrap_socket
+    session=session
+  File "/home/targets/anaconda3/lib/python3.7/ssl.py", line 870, in _create
+    self.do_handshake()
+  File "/home/targets/anaconda3/lib/python3.7/ssl.py", line 1139, in do_handshake
+    self._sslobj.do_handshake()
+socket.timeout: _ssl.c:1059: The handshake operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/adapters.py", line 499, in send
+    timeout=timeout,
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 720, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/util/retry.py", line 400, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/packages/six.py", line 735, in reraise
+    raise value
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 672, in urlopen
+    chunked=chunked,
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 379, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=conn.timeout)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 331, in _raise_timeout
+    self, url, "Read timed out. (read timeout=%s)" % timeout_value
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.finnhub.io', port=443): Read timed out. (read timeout=10)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/EcoCollect/econ_cal.py", line 10, in <module>
+    econ_cal = finnhub_client.calendar_economic()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/finnhub/client.py", line 346, in calendar_economic
+    "to": to
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/finnhub/client.py", line 71, in _get
+    return self._request("get", path, **kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/finnhub/client.py", line 40, in _request
+    response = getattr(self._session, method)(uri, **kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/sessions.py", line 600, in get
+    return self.request("GET", url, **kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/adapters.py", line 578, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.finnhub.io', port=443): Read timed out. (read timeout=10)
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0    52.100      JP       NaN  ...   52.600  2023-10-04 00:30:00  Index (diffusion)
+1    53.800      JP       NaN  ...   54.300  2023-10-04 00:30:00  Index (diffusion)
+2     5.500      NZ       5.5  ...    5.500  2023-10-04 01:00:00                  %
+3     0.875      HK       NaN  ...    0.875  2023-10-04 02:00:00                  %
+4    50.500      ES      49.8  ...   49.300  2023-10-04 07:15:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+481     NaN      US       NaN  ...    3.100  2023-10-13 14:00:00                  %
+482     NaN      US       NaN  ...    2.700  2023-10-13 14:00:00                  %
+483     NaN      US      70.4  ...   69.800  2023-10-13 14:00:00              Index
+484     NaN      US      65.5  ...   66.300  2023-10-13 14:00:00              Index
+485     NaN      US      67.4  ...   67.700  2023-10-13 14:00:00              Index
+
+[486 rows x 8 columns]
+done
