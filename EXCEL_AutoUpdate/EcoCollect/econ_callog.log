@@ -39731,3 +39731,482 @@ done
 
 [479 rows x 8 columns]
 done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0     -0.20      DE      -0.1  ...    -0.60  2023-10-09 06:00:00                  %
+1     -1.75      DE       NaN  ...    -2.04  2023-10-09 06:00:00                  %
+2     21.40      DK       NaN  ...    23.40  2023-10-09 06:00:00                DKK
+3     14.80      DK       NaN  ...    18.50  2023-10-09 06:00:00                DKK
+4    -21.90     ERL     -22.8  ...   -21.50  2023-10-09 08:30:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+474     NaN      JP       NaN  ...  -937.80  2023-10-18 23:50:00                JPY
+475     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+476     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+477     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+478     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+
+[479 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0     -0.20      DE      -0.1  ...    -0.60  2023-10-09 06:00:00                  %
+1     -1.75      DE       NaN  ...    -2.04  2023-10-09 06:00:00                  %
+2     21.40      DK       NaN  ...    23.40  2023-10-09 06:00:00                DKK
+3     14.80      DK       NaN  ...    18.50  2023-10-09 06:00:00                DKK
+4    -21.90     ERL     -22.8  ...   -21.50  2023-10-09 08:30:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+474     NaN      JP       NaN  ...  -937.80  2023-10-18 23:50:00                JPY
+475     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+476     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+477     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+478     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+
+[479 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0     -0.20      DE      -0.1  ...    -0.60  2023-10-09 06:00:00                  %
+1     -1.75      DE       NaN  ...    -2.04  2023-10-09 06:00:00                  %
+2     21.40      DK       NaN  ...    23.40  2023-10-09 06:00:00                DKK
+3     14.80      DK       NaN  ...    18.50  2023-10-09 06:00:00                DKK
+4    -21.90     ERL     -22.8  ...   -21.50  2023-10-09 08:30:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+474     NaN      JP       NaN  ...  -937.80  2023-10-18 23:50:00                JPY
+475     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+476     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+477     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+478     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+
+[479 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0     -0.20      DE      -0.1  ...    -0.60  2023-10-09 06:00:00                  %
+1     -1.75      DE       NaN  ...    -2.04  2023-10-09 06:00:00                  %
+2     21.40      DK       NaN  ...    23.40  2023-10-09 06:00:00                DKK
+3     14.80      DK       NaN  ...    18.50  2023-10-09 06:00:00                DKK
+4    -21.90     ERL     -22.8  ...   -21.50  2023-10-09 08:30:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+474     NaN      JP       NaN  ...  -937.80  2023-10-18 23:50:00                JPY
+475     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+476     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+477     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+478     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+
+[479 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0     -0.20      DE      -0.1  ...    -0.60  2023-10-09 06:00:00                  %
+1     -1.75      DE       NaN  ...    -2.04  2023-10-09 06:00:00                  %
+2     21.40      DK       NaN  ...    23.40  2023-10-09 06:00:00                DKK
+3     14.80      DK       NaN  ...    18.50  2023-10-09 06:00:00                DKK
+4    -21.90     ERL     -22.8  ...   -21.50  2023-10-09 08:30:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+474     NaN      JP       NaN  ...  -937.80  2023-10-18 23:50:00                JPY
+475     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+476     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+477     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+478     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+
+[479 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0     -0.20      DE      -0.1  ...    -0.60  2023-10-09 06:00:00                  %
+1     -1.75      DE       NaN  ...    -2.04  2023-10-09 06:00:00                  %
+2     21.40      DK       NaN  ...    23.40  2023-10-09 06:00:00                DKK
+3     14.80      DK       NaN  ...    18.50  2023-10-09 06:00:00                DKK
+4    -21.90     ERL     -22.8  ...   -21.50  2023-10-09 08:30:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+474     NaN      JP       NaN  ...  -937.80  2023-10-18 23:50:00                JPY
+475     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+476     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+477     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+478     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+
+[479 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0     -0.20      DE      -0.1  ...    -0.60  2023-10-09 06:00:00                  %
+1     -1.75      DE       NaN  ...    -2.04  2023-10-09 06:00:00                  %
+2     21.40      DK       NaN  ...    23.40  2023-10-09 06:00:00                DKK
+3     14.80      DK       NaN  ...    18.50  2023-10-09 06:00:00                DKK
+4    -21.90     ERL     -22.8  ...   -21.50  2023-10-09 08:30:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+474     NaN      JP       NaN  ...  -937.80  2023-10-18 23:50:00                JPY
+475     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+476     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+477     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+478     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+
+[479 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0     -0.20      DE      -0.1  ...    -0.60  2023-10-09 06:00:00                  %
+1     -1.75      DE       NaN  ...    -2.04  2023-10-09 06:00:00                  %
+2     21.40      DK       NaN  ...    23.40  2023-10-09 06:00:00                DKK
+3     14.80      DK       NaN  ...    18.50  2023-10-09 06:00:00                DKK
+4    -21.90     ERL     -22.8  ...   -21.50  2023-10-09 08:30:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+474     NaN      JP       NaN  ...  -937.80  2023-10-18 23:50:00                JPY
+475     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+476     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+477     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+478     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+
+[479 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0     -0.20      DE      -0.1  ...    -0.60  2023-10-09 06:00:00                  %
+1     -1.75      DE       NaN  ...    -2.04  2023-10-09 06:00:00                  %
+2     21.40      DK       NaN  ...    23.40  2023-10-09 06:00:00                DKK
+3     14.80      DK       NaN  ...    18.50  2023-10-09 06:00:00                DKK
+4    -21.90     ERL     -22.8  ...   -21.50  2023-10-09 08:30:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+474     NaN      JP       NaN  ...  -937.80  2023-10-18 23:50:00                JPY
+475     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+476     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+477     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+478     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+
+[479 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0     -0.20      DE      -0.1  ...    -0.60  2023-10-09 06:00:00                  %
+1     -1.75      DE       NaN  ...    -2.04  2023-10-09 06:00:00                  %
+2     21.40      DK       NaN  ...    23.40  2023-10-09 06:00:00                DKK
+3     14.80      DK       NaN  ...    18.50  2023-10-09 06:00:00                DKK
+4    -21.90     ERL     -22.8  ...   -21.50  2023-10-09 08:30:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+474     NaN      JP       NaN  ...  -937.80  2023-10-18 23:50:00                JPY
+475     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+476     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+477     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+478     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+
+[479 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0     -0.20      DE      -0.1  ...    -0.60  2023-10-09 06:00:00                  %
+1     -1.75      DE       NaN  ...    -2.04  2023-10-09 06:00:00                  %
+2     21.40      DK       NaN  ...    23.40  2023-10-09 06:00:00                DKK
+3     14.80      DK       NaN  ...    18.50  2023-10-09 06:00:00                DKK
+4    -21.90     ERL     -22.8  ...   -21.50  2023-10-09 08:30:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+474     NaN      JP       NaN  ...  -937.80  2023-10-18 23:50:00                JPY
+475     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+476     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+477     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+478     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+
+[479 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0     -0.20      DE      -0.1  ...    -0.60  2023-10-09 06:00:00                  %
+1     -1.75      DE       NaN  ...    -2.04  2023-10-09 06:00:00                  %
+2     21.40      DK       NaN  ...    23.40  2023-10-09 06:00:00                DKK
+3     14.80      DK       NaN  ...    18.50  2023-10-09 06:00:00                DKK
+4    -21.90     ERL     -22.8  ...   -21.50  2023-10-09 08:30:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+474     NaN      JP       NaN  ...  -937.80  2023-10-18 23:50:00                JPY
+475     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+476     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+477     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+478     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+
+[479 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0     -0.20      DE      -0.1  ...    -0.60  2023-10-09 06:00:00                  %
+1     -1.75      DE       NaN  ...    -2.04  2023-10-09 06:00:00                  %
+2     21.40      DK       NaN  ...    23.40  2023-10-09 06:00:00                DKK
+3     14.80      DK       NaN  ...    18.50  2023-10-09 06:00:00                DKK
+4    -21.90     ERL     -22.8  ...   -21.50  2023-10-09 08:30:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+474     NaN      JP       NaN  ...  -937.80  2023-10-18 23:50:00                JPY
+475     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+476     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+477     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+478     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+
+[479 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0     -0.20      DE      -0.1  ...    -0.60  2023-10-09 06:00:00                  %
+1     -1.75      DE       NaN  ...    -2.04  2023-10-09 06:00:00                  %
+2     21.40      DK       NaN  ...    23.40  2023-10-09 06:00:00                DKK
+3     14.80      DK       NaN  ...    18.50  2023-10-09 06:00:00                DKK
+4    -21.90     ERL     -22.8  ...   -21.50  2023-10-09 08:30:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+474     NaN      JP       NaN  ...  -937.80  2023-10-18 23:50:00                JPY
+475     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+476     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+477     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+478     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+
+[479 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0     -0.20      DE      -0.1  ...    -0.60  2023-10-09 06:00:00                  %
+1     -1.75      DE       NaN  ...    -2.04  2023-10-09 06:00:00                  %
+2     21.40      DK       NaN  ...    23.40  2023-10-09 06:00:00                DKK
+3     14.80      DK       NaN  ...    18.50  2023-10-09 06:00:00                DKK
+4    -21.90     ERL     -22.8  ...   -21.50  2023-10-09 08:30:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+474     NaN      JP       NaN  ...  -937.80  2023-10-18 23:50:00                JPY
+475     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+476     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+477     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+478     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+
+[479 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0     -0.20      DE      -0.1  ...    -0.60  2023-10-09 06:00:00                  %
+1     -1.75      DE       NaN  ...    -2.04  2023-10-09 06:00:00                  %
+2     21.40      DK       NaN  ...    23.40  2023-10-09 06:00:00                DKK
+3     14.80      DK       NaN  ...    18.50  2023-10-09 06:00:00                DKK
+4    -21.90     ERL     -22.8  ...   -21.50  2023-10-09 08:30:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+474     NaN      JP       NaN  ...  -937.80  2023-10-18 23:50:00                JPY
+475     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+476     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+477     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+478     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+
+[479 rows x 8 columns]
+done
+Traceback (most recent call last):
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 421, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 416, in _make_request
+    httplib_response = conn.getresponse()
+  File "/home/targets/anaconda3/lib/python3.7/http/client.py", line 1344, in getresponse
+    response.begin()
+  File "/home/targets/anaconda3/lib/python3.7/http/client.py", line 306, in begin
+    version, status, reason = self._read_status()
+  File "/home/targets/anaconda3/lib/python3.7/http/client.py", line 267, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/home/targets/anaconda3/lib/python3.7/socket.py", line 589, in readinto
+    return self._sock.recv_into(b)
+  File "/home/targets/anaconda3/lib/python3.7/ssl.py", line 1071, in recv_into
+    return self.read(nbytes, buffer)
+  File "/home/targets/anaconda3/lib/python3.7/ssl.py", line 929, in read
+    return self._sslobj.read(len, buffer)
+socket.timeout: The read operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/adapters.py", line 499, in send
+    timeout=timeout,
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 720, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/util/retry.py", line 400, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/packages/six.py", line 735, in reraise
+    raise value
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 672, in urlopen
+    chunked=chunked,
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 423, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 331, in _raise_timeout
+    self, url, "Read timed out. (read timeout=%s)" % timeout_value
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.finnhub.io', port=443): Read timed out. (read timeout=10)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/EcoCollect/econ_cal.py", line 10, in <module>
+    econ_cal = finnhub_client.calendar_economic()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/finnhub/client.py", line 346, in calendar_economic
+    "to": to
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/finnhub/client.py", line 71, in _get
+    return self._request("get", path, **kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/finnhub/client.py", line 40, in _request
+    response = getattr(self._session, method)(uri, **kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/sessions.py", line 600, in get
+    return self.request("GET", url, **kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/adapters.py", line 578, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.finnhub.io', port=443): Read timed out. (read timeout=10)
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0     -0.20      DE      -0.1  ...    -0.60  2023-10-09 06:00:00                  %
+1     -1.75      DE       NaN  ...    -2.04  2023-10-09 06:00:00                  %
+2     21.40      DK       NaN  ...    23.40  2023-10-09 06:00:00                DKK
+3     14.80      DK       NaN  ...    18.50  2023-10-09 06:00:00                DKK
+4    -21.90     ERL     -22.8  ...   -21.50  2023-10-09 08:30:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+474     NaN      JP       NaN  ...  -937.80  2023-10-18 23:50:00                JPY
+475     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+476     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+477     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+478     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+
+[479 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0     -0.20      DE      -0.1  ...    -0.60  2023-10-09 06:00:00                  %
+1     -1.75      DE       NaN  ...    -2.04  2023-10-09 06:00:00                  %
+2     21.40      DK       NaN  ...    23.40  2023-10-09 06:00:00                DKK
+3     14.80      DK       NaN  ...    18.50  2023-10-09 06:00:00                DKK
+4    -21.90     ERL     -22.8  ...   -21.50  2023-10-09 08:30:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+474     NaN      JP       NaN  ...  -937.80  2023-10-18 23:50:00                JPY
+475     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+476     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+477     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+478     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+
+[479 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0     -0.20      DE      -0.1  ...    -0.60  2023-10-09 06:00:00                  %
+1     -1.75      DE       NaN  ...    -2.04  2023-10-09 06:00:00                  %
+2     21.40      DK       NaN  ...    23.40  2023-10-09 06:00:00                DKK
+3     14.80      DK       NaN  ...    18.50  2023-10-09 06:00:00                DKK
+4    -21.90     ERL     -22.8  ...   -21.50  2023-10-09 08:30:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+474     NaN      JP       NaN  ...  -937.80  2023-10-18 23:50:00                JPY
+475     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+476     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+477     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+478     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+
+[479 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0     -0.20      DE      -0.1  ...    -0.60  2023-10-09 06:00:00                  %
+1     -1.75      DE       NaN  ...    -2.04  2023-10-09 06:00:00                  %
+2     21.40      DK       NaN  ...    23.40  2023-10-09 06:00:00                DKK
+3     14.80      DK       NaN  ...    18.50  2023-10-09 06:00:00                DKK
+4    -21.90     ERL     -22.8  ...   -21.50  2023-10-09 08:30:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+474     NaN      JP       NaN  ...  -937.80  2023-10-18 23:50:00                JPY
+475     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+476     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+477     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+478     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+
+[479 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0     -0.20      DE      -0.1  ...    -0.60  2023-10-09 06:00:00                  %
+1     -1.75      DE       NaN  ...    -2.04  2023-10-09 06:00:00                  %
+2     21.40      DK       NaN  ...    23.40  2023-10-09 06:00:00                DKK
+3     14.80      DK       NaN  ...    18.50  2023-10-09 06:00:00                DKK
+4    -21.90     ERL     -22.8  ...   -21.50  2023-10-09 08:30:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+474     NaN      JP       NaN  ...  -937.80  2023-10-18 23:50:00                JPY
+475     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+476     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+477     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+478     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+
+[479 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0     -0.20      DE      -0.1  ...    -0.60  2023-10-09 06:00:00                  %
+1     -1.75      DE       NaN  ...    -2.04  2023-10-09 06:00:00                  %
+2     21.40      DK       NaN  ...    23.40  2023-10-09 06:00:00                DKK
+3     14.80      DK       NaN  ...    18.50  2023-10-09 06:00:00                DKK
+4    -21.90     ERL     -22.8  ...   -21.50  2023-10-09 08:30:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+474     NaN      JP       NaN  ...  -937.80  2023-10-18 23:50:00                JPY
+475     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+476     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+477     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+478     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+
+[479 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0     -0.20      DE      -0.1  ...    -0.60  2023-10-09 06:00:00                  %
+1     -1.75      DE       NaN  ...    -2.04  2023-10-09 06:00:00                  %
+2     21.40      DK       NaN  ...    23.40  2023-10-09 06:00:00                DKK
+3     14.80      DK       NaN  ...    18.50  2023-10-09 06:00:00                DKK
+4    -21.90     ERL     -22.8  ...   -21.50  2023-10-09 08:30:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+474     NaN      JP       NaN  ...  -937.80  2023-10-18 23:50:00                JPY
+475     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+476     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+477     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+478     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+
+[479 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0     -0.20      DE      -0.1  ...    -0.60  2023-10-09 06:00:00                  %
+1     -1.75      DE       NaN  ...    -2.04  2023-10-09 06:00:00                  %
+2     21.40      DK       NaN  ...    23.40  2023-10-09 06:00:00                DKK
+3     14.80      DK       NaN  ...    18.50  2023-10-09 06:00:00                DKK
+4    -21.90     ERL     -22.8  ...   -21.50  2023-10-09 08:30:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+474     NaN      JP       NaN  ...  -937.80  2023-10-18 23:50:00                JPY
+475     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+476     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+477     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+478     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+
+[479 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0     -0.20      DE      -0.1  ...    -0.60  2023-10-09 06:00:00                  %
+1     -1.75      DE       NaN  ...    -2.04  2023-10-09 06:00:00                  %
+2     21.40      DK       NaN  ...    23.40  2023-10-09 06:00:00                DKK
+3     14.80      DK       NaN  ...    18.50  2023-10-09 06:00:00                DKK
+4    -21.90     ERL     -22.8  ...   -21.50  2023-10-09 08:30:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+474     NaN      JP       NaN  ...  -937.80  2023-10-18 23:50:00                JPY
+475     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+476     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+477     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+478     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+
+[479 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0     -0.20      DE      -0.1  ...    -0.60  2023-10-09 06:00:00                  %
+1     -1.75      DE       NaN  ...    -2.04  2023-10-09 06:00:00                  %
+2     21.40      DK       NaN  ...    23.40  2023-10-09 06:00:00                DKK
+3     14.80      DK       NaN  ...    18.50  2023-10-09 06:00:00                DKK
+4    -21.90     ERL     -22.8  ...   -21.50  2023-10-09 08:30:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+474     NaN      JP       NaN  ...  -937.80  2023-10-18 23:50:00                JPY
+475     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+476     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+477     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+478     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+
+[479 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0     -0.20      DE      -0.1  ...    -0.60  2023-10-09 06:00:00                  %
+1     -1.75      DE       NaN  ...    -2.04  2023-10-09 06:00:00                  %
+2     21.40      DK       NaN  ...    23.40  2023-10-09 06:00:00                DKK
+3     14.80      DK       NaN  ...    18.50  2023-10-09 06:00:00                DKK
+4    -21.90     ERL     -22.8  ...   -21.50  2023-10-09 08:30:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+474     NaN      JP       NaN  ...  -937.80  2023-10-18 23:50:00                JPY
+475     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+476     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+477     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+478     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+
+[479 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0     -0.20      DE      -0.1  ...    -0.60  2023-10-09 06:00:00                  %
+1     -1.75      DE       NaN  ...    -2.04  2023-10-09 06:00:00                  %
+2     21.40      DK       NaN  ...    23.40  2023-10-09 06:00:00                DKK
+3     14.80      DK       NaN  ...    18.50  2023-10-09 06:00:00                DKK
+4    -21.90     ERL     -22.8  ...   -21.50  2023-10-09 08:30:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+474     NaN      JP       NaN  ...  -937.80  2023-10-18 23:50:00                JPY
+475     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+476     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+477     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+478     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+
+[479 rows x 8 columns]
+done
