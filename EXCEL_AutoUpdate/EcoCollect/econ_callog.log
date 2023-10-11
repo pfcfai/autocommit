@@ -39341,3 +39341,33 @@ done
 
 [480 rows x 8 columns]
 done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0     -0.20      DE      -0.1  ...    -0.60  2023-10-09 06:00:00                  %
+1     -1.75      DE       NaN  ...    -2.04  2023-10-09 06:00:00                  %
+2     21.40      DK       NaN  ...    23.40  2023-10-09 06:00:00                DKK
+3     14.80      DK       NaN  ...    18.50  2023-10-09 06:00:00                DKK
+4    -21.90     ERL     -22.8  ...   -21.50  2023-10-09 08:30:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+475     NaN      JP       NaN  ...  -937.80  2023-10-18 23:50:00                JPY
+476     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+477     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+478     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+479     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+
+[480 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0     -0.20      DE      -0.1  ...    -0.60  2023-10-09 06:00:00                  %
+1     -1.75      DE       NaN  ...    -2.04  2023-10-09 06:00:00                  %
+2     21.40      DK       NaN  ...    23.40  2023-10-09 06:00:00                DKK
+3     14.80      DK       NaN  ...    18.50  2023-10-09 06:00:00                DKK
+4    -21.90     ERL     -22.8  ...   -21.50  2023-10-09 08:30:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+475     NaN      JP       NaN  ...  -937.80  2023-10-18 23:50:00                JPY
+476     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+477     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+478     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+479     NaN      JP       NaN  ...      NaN  2023-10-18 23:50:00                JPY
+
+[480 rows x 8 columns]
+done
