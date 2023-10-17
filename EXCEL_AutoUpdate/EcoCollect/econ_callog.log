@@ -47451,3 +47451,63 @@ done
 
 [369 rows x 8 columns]
 done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0      0.70      SG       0.4  ...     0.70  2023-10-13 00:00:00                  %
+1      4.00      SG       0.5  ...     1.10  2023-10-13 00:00:00                  %
+2     49.52      AU       NaN  ...    49.40  2023-10-13 02:00:00  Index (diffusion)
+3     64.06      IN       NaN  ...    62.21  2023-10-13 02:00:00  Index (diffusion)
+4     38.06      JP       NaN  ...    38.58  2023-10-13 02:00:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+364     NaN      US       NaN  ...      NaN  2023-10-23 15:30:00                  %
+365     NaN      US       NaN  ...      NaN  2023-10-23 15:30:00                USD
+366     NaN      AU       NaN  ...    50.20  2023-10-23 22:00:00  Index (diffusion)
+367     NaN      AU       NaN  ...    48.20  2023-10-23 22:00:00  Index (diffusion)
+368     NaN      AU       NaN  ...    50.50  2023-10-23 22:00:00  Index (diffusion)
+
+[369 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0      0.70      SG       0.4  ...     0.70  2023-10-13 00:00:00                  %
+1      4.00      SG       0.5  ...     1.10  2023-10-13 00:00:00                  %
+2     49.52      AU       NaN  ...    49.40  2023-10-13 02:00:00  Index (diffusion)
+3     64.06      IN       NaN  ...    62.21  2023-10-13 02:00:00  Index (diffusion)
+4     38.06      JP       NaN  ...    38.58  2023-10-13 02:00:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+364     NaN      US       NaN  ...      NaN  2023-10-23 15:30:00                  %
+365     NaN      US       NaN  ...      NaN  2023-10-23 15:30:00                USD
+366     NaN      AU       NaN  ...    50.20  2023-10-23 22:00:00  Index (diffusion)
+367     NaN      AU       NaN  ...    48.20  2023-10-23 22:00:00  Index (diffusion)
+368     NaN      AU       NaN  ...    50.50  2023-10-23 22:00:00  Index (diffusion)
+
+[369 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0      0.70      SG       0.4  ...     0.70  2023-10-13 00:00:00                  %
+1      4.00      SG       0.5  ...     1.10  2023-10-13 00:00:00                  %
+2     49.52      AU       NaN  ...    49.40  2023-10-13 02:00:00  Index (diffusion)
+3     64.06      IN       NaN  ...    62.21  2023-10-13 02:00:00  Index (diffusion)
+4     38.06      JP       NaN  ...    38.58  2023-10-13 02:00:00  Index (diffusion)
+..      ...     ...       ...  ...      ...                  ...                ...
+364     NaN      US       NaN  ...      NaN  2023-10-23 15:30:00                  %
+365     NaN      US       NaN  ...      NaN  2023-10-23 15:30:00                USD
+366     NaN      AU       NaN  ...    50.20  2023-10-23 22:00:00  Index (diffusion)
+367     NaN      AU       NaN  ...    48.20  2023-10-23 22:00:00  Index (diffusion)
+368     NaN      AU       NaN  ...    50.50  2023-10-23 22:00:00  Index (diffusion)
+
+[369 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time       Unit
+0      51.5      NZ       NaN  ...     48.3  2023-10-15 21:30:00      Index
+1       0.5      GB       NaN  ...      0.4  2023-10-15 23:01:00          %
+2      -0.8      GB       NaN  ...     -0.4  2023-10-15 23:01:00          %
+3       0.5      JP       NaN  ...     -2.2  2023-10-16 04:30:00          %
+4      -0.7      JP       NaN  ...     -1.8  2023-10-16 04:30:00          %
+..      ...     ...       ...  ...      ...                  ...        ...
+356     NaN      US       NaN  ...      NaN  2023-10-24 20:30:00  Number of
+357     NaN      US       NaN  ...      NaN  2023-10-24 20:30:00  Number of
+358     NaN      US       NaN  ...      NaN  2023-10-24 20:30:00  Number of
+359     NaN      US       NaN  ...      NaN  2023-10-24 20:30:00  Number of
+360     NaN      US       NaN  ...      NaN  2023-10-24 20:30:00  Number of
+
+[361 rows x 8 columns]
+done
