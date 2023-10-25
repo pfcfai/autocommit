@@ -58971,3 +58971,63 @@ done
 
 [439 rows x 8 columns]
 done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0      3.00      SG       3.1  ...     3.40  2023-10-23 05:00:00                  %
+1      0.50      SG       NaN  ...     0.88  2023-10-23 05:00:00                  %
+2    114.88      SG       NaN  ...   114.30  2023-10-23 05:00:00              Index
+3      4.10      SG       4.1  ...     4.00  2023-10-23 05:00:00                  %
+4    -11.80      DK       NaN  ...   -13.00  2023-10-23 06:00:00        Net balance
+..      ...     ...       ...  ...      ...                  ...                ...
+434     NaN      NZ       NaN  ...     4.30  2023-10-31 21:45:00                  %
+435     NaN      AU       NaN  ...    48.70  2023-10-31 22:00:00  Index (diffusion)
+436    7.10      AU       NaN  ...    -9.90  2023-10-31 22:00:00              Index
+437  -12.80      AU       NaN  ...   -19.80  2023-10-31 22:00:00  Index (diffusion)
+438     NaN      JP       NaN  ...  1237.20  2023-10-31 23:50:00                USD
+
+[439 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0      3.00      SG       3.1  ...     3.40  2023-10-23 05:00:00                  %
+1      0.50      SG       NaN  ...     0.88  2023-10-23 05:00:00                  %
+2    114.88      SG       NaN  ...   114.30  2023-10-23 05:00:00              Index
+3      4.10      SG       4.1  ...     4.00  2023-10-23 05:00:00                  %
+4    -11.80      DK       NaN  ...   -13.00  2023-10-23 06:00:00        Net balance
+..      ...     ...       ...  ...      ...                  ...                ...
+434     NaN      NZ       NaN  ...     4.30  2023-10-31 21:45:00                  %
+435     NaN      AU       NaN  ...    48.70  2023-10-31 22:00:00  Index (diffusion)
+436    7.10      AU       NaN  ...    -9.90  2023-10-31 22:00:00              Index
+437  -12.80      AU       NaN  ...   -19.80  2023-10-31 22:00:00  Index (diffusion)
+438     NaN      JP       NaN  ...  1237.20  2023-10-31 23:50:00                USD
+
+[439 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0      3.00      SG       3.1  ...     3.40  2023-10-23 05:00:00                  %
+1      0.50      SG       NaN  ...     0.88  2023-10-23 05:00:00                  %
+2    114.88      SG       NaN  ...   114.30  2023-10-23 05:00:00              Index
+3      4.10      SG       4.1  ...     4.00  2023-10-23 05:00:00                  %
+4    -11.80      DK       NaN  ...   -13.00  2023-10-23 06:00:00        Net balance
+..      ...     ...       ...  ...      ...                  ...                ...
+434     NaN      NZ       NaN  ...     4.30  2023-10-31 21:45:00                  %
+435     NaN      AU       NaN  ...    48.70  2023-10-31 22:00:00  Index (diffusion)
+436    7.10      AU       NaN  ...    -9.90  2023-10-31 22:00:00              Index
+437  -12.80      AU       NaN  ...   -19.80  2023-10-31 22:00:00  Index (diffusion)
+438     NaN      JP       NaN  ...  1237.20  2023-10-31 23:50:00                USD
+
+[439 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time         Unit
+0      3.00      SG       3.1  ...     3.40  2023-10-23 05:00:00            %
+1      0.50      SG       NaN  ...     0.88  2023-10-23 05:00:00            %
+2    114.88      SG       NaN  ...   114.30  2023-10-23 05:00:00        Index
+3      4.10      SG       4.1  ...     4.00  2023-10-23 05:00:00            %
+4    -11.80      DK       NaN  ...   -13.00  2023-10-23 06:00:00  Net balance
+..      ...     ...       ...  ...      ...                  ...          ...
+501     NaN      JP       NaN  ...     5.88  2023-11-01 23:50:00            %
+502     NaN      JP       NaN  ...      NaN  2023-11-01 23:50:00          JPY
+503     NaN      JP       NaN  ...      NaN  2023-11-01 23:50:00          JPY
+504     NaN      JP       NaN  ...      NaN  2023-11-01 23:50:00          JPY
+505     NaN      JP       NaN  ...      NaN  2023-11-01 23:50:00          JPY
+
+[506 rows x 8 columns]
+done
