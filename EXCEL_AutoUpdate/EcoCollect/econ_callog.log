@@ -62686,3 +62686,33 @@ done
 
 [612 rows x 8 columns]
 done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0      49.9      JP       NaN  ...     51.8  2023-10-24 00:30:00  Index (diffusion)
+1      51.1      JP       NaN  ...     53.3  2023-10-24 00:30:00  Index (diffusion)
+2      48.5      JP       NaN  ...     48.6  2023-10-24 00:30:00  Index (diffusion)
+3       NaN      SG       NaN  ...      NaN  2023-10-24 05:00:00                  %
+4     -28.1      DE     -26.6  ...    -26.7  2023-10-24 06:00:00        Net balance
+..      ...     ...       ...  ...      ...                  ...                ...
+607     NaN      US       NaN  ...     58.8  2023-11-03 14:00:00              Index
+608     NaN      US       NaN  ...     53.4  2023-11-03 14:00:00              Index
+609     NaN      US       NaN  ...     51.8  2023-11-03 14:00:00              Index
+610     NaN      US       NaN  ...     53.6  2023-11-03 14:00:00              Index
+611     NaN      US       NaN  ...     58.9  2023-11-03 14:00:00              Index
+
+[612 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time               Unit
+0      49.9      JP       NaN  ...     51.8  2023-10-24 00:30:00  Index (diffusion)
+1      51.1      JP       NaN  ...     53.3  2023-10-24 00:30:00  Index (diffusion)
+2      48.5      JP       NaN  ...     48.6  2023-10-24 00:30:00  Index (diffusion)
+3       NaN      SG       NaN  ...      NaN  2023-10-24 05:00:00                  %
+4     -28.1      DE     -26.6  ...    -26.7  2023-10-24 06:00:00        Net balance
+..      ...     ...       ...  ...      ...                  ...                ...
+607     NaN      US       NaN  ...     58.8  2023-11-03 14:00:00              Index
+608     NaN      US       NaN  ...     53.4  2023-11-03 14:00:00              Index
+609     NaN      US       NaN  ...     51.8  2023-11-03 14:00:00              Index
+610     NaN      US       NaN  ...     53.6  2023-11-03 14:00:00              Index
+611     NaN      US       NaN  ...     58.9  2023-11-03 14:00:00              Index
+
+[612 rows x 8 columns]
+done
