@@ -687,3 +687,8 @@
 
 1 Failed download:
 - DPW.DE: No data found, symbol may be delisted
+[                       0%                       ][                       0%                       ][**********************75%***********            ]  3 of 4 completed[*********************100%***********************]  4 of 4 completed
+    name         close        diff  diff%
+0   ^DJI  32417.589844 -709.691406  -2.14
+1  ^IXIC  12643.010742 -340.798828  -2.62
+2  ^GSP
