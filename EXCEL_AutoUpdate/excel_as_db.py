@@ -30,31 +30,47 @@ from openpyxl.reader.excel import load_workbook
 # In[2]:
 
 
-wb=openpyxl.load_workbook('/home/targets/autocommit/EXCEL_AutoUpdate/9-1自動化更新資料庫-112.06.20.xlsm')
+wb=openpyxl.load_workbook('/home/targets/autocommit/EXCEL_AutoUpdate/2023_綜合日報_VBA 爬蟲.xlsm')
 
 
 # In[3]:
 
 
 print(wb.sheetnames[1])
-sheet=wb['近90天Data']
+sheet=wb['總紀錄']
+# Define the column you want to check (e.g., column A)
+column_to_check = 'A'
 
+# Initialize n to 1, the first row
+n = 1
 
+# Iterate from the bottom of the sheet to the top to find the last non-empty cell in the specified column
+for row in reversed(list(sheet.iter_rows(min_row=1, max_row=sheet.max_row, min_col=1, max_col=1))):
+
+    if row[0].value is not None:
+        n = row[0].row
+        break
+
+# Update n to the next row
+n += 1
+
+# Now, n contains the row number of the next available row in column A
+print("n:", n)
 # In[4]:
 
 
 def recordlist(i):
     date=sheet['A'+str(i)].value
     twse=sheet['B'+str(i)].value
-    idx =sheet['N'+str(i)].value*100
-    PCratio =sheet['Q'+str(i)].value
+    idx =sheet['V'+str(i)].value*100
+    PCratio =sheet['AB'+str(i)].value
     record=[date,twse,idx,PCratio]
     return record
 
-mylist=[recordlist(i) for i in range(3,93)]
+mylist=[recordlist(i) for i in range(n-90,n)]
 #print(mylist)
 
-
+print(type(mylist[-1][0]))
 # In[5]:
 
 
