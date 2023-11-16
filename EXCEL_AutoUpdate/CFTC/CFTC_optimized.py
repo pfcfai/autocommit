@@ -109,7 +109,8 @@ def updateCFTC(old_cftc, CFTC_Contract_Market_Code, prefix, outputName):
     print(f'{outputName}')
     print('newest report date: {}'.format(newDf['Report_Date_as_MM_DD_YYYY'].iloc[-1]))
     newDf = newDf[~newDf['Report_Date_as_MM_DD_YYYY'].duplicated(keep='first')]
-    newDf.to_csv(f'{outputName}', index = False)
+    # newDf.to_csv(f'{outputName}', index = False) #231116
+    newDf.to_csv(f'/home/targets/autocommit/EXCEL_AutoUpdate/CFTC/{outputName}', index = False)
     print('saved successfully.')
 
 
@@ -256,7 +257,7 @@ for i,q,j in zip(final_list,number_of_data,commodity_list):
     b=str(dict).replace("'","\"".replace(r"\n",""))
 print(b)
 
-with open(("CFTC_test.json"),"w") as json_file:
+with open(("/home/targets/autocommit/EXCEL_AutoUpdate/CFTC/CFTC_test.json"),"w") as json_file:
     json.dump(dict,json_file)
 
 print('==== EOF ====')
