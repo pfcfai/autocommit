@@ -189,11 +189,15 @@ for s,m,t,n,g in zip(commodity_list,commodity_UPL,commodity_code,commodity_f_yea
 
 # In[8]:
 
-
+folder_path='/home/targets/autocommit/EXCEL_AutoUpdate/CFTC/'
 for s,m,t,n,g in zip(commodity_list,commodity_UPL,commodity_code,commodity_f_year_csv,commodity_annual_csv):
-    cftcs_f_year = pd.read_csv(n)
+    n_path = os.path.join(folder_path, n)
+    cftcs_f_year = pd.read_csv(n_path)
+    # cftcs_f_year = pd.read_csv(n)
     updateCFTC(cftcs_f_year, m, 'f_year',n)
-    cftcs_annual = pd.read_csv(g)
+    g_path = os.path.join(folder_path, g)
+    cftcs_annual = pd.read_csv(g_path)
+    # cftcs_annual = pd.read_csv(g)
     updateCFTC(cftcs_annual, m, 'annual', g)
 
     a= concatDf(t, g, n )
