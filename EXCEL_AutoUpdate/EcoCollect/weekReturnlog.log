@@ -985,3 +985,111 @@
 
 1 Failed download:
 - DPW.DE: No data found, symbol may be delisted
+[                       0%                       ][**********************50%                       ]  2 of 4 completed[**********************50%                       ]  2 of 4 completed[*********************100%***********************]  4 of 4 completed
+    name         close        diff  diff%
+0   ^DJI  34947.281250  664.179688   1.94
+1  ^IXIC  14125.481445  327.371094   2.37
+2  ^GSPC   4514.020020   98.779785   2.24
+3   ^SOX   3748.649902  156.909912   4.37
+道瓊指數收盤34947.28，周漲跌664.18，周漲跌幅1.94%。
+那斯達克指數收盤14125.48，周漲跌327.37，周漲跌幅2.37%。
+標普500指數收盤4514.02，周漲跌98.78，周漲跌幅2.24%。
+費半指數收盤3748.65，周漲跌156.91，周漲跌幅4.37%。
+Traceback (most recent call last):
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2276, in _wrap_pool_connect
+    return fn()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 363, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 773, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 492, in checkout
+    rec = pool._do_get()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 139, in _do_get
+    self._dec_overflow()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 68, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 153, in reraise
+    raise value
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 136, in _do_get
+    return self._create_connection()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 308, in _create_connection
+    return _ConnectionRecord(self)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 437, in __init__
+    self.__connect(first_connect_check=True)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 652, in __connect
+    connection = pool._invoke_creator(self)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/strategies.py", line 114, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 489, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 632, in connect
+    self._get_server_information()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 1055, in _get_server_information
+    packet = self._read_packet()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 707, in _read_packet
+    % (packet_number, self._next_seq_id)
+pymysql.err.InternalError: Packet sequence number wrong - got 1 expected 0
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/EcoCollect/weekReturn_yfinance.py", line 134, in <module>
+    lastrecord_fr_db=fr_db()
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/EcoCollect/weekReturn_yfinance.py", line 131, in fr_db
+    df = pd.read_sql(sql,engine4)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 634, in read_sql
+    chunksize=chunksize,
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1579, in read_query
+    result = self.execute(*args)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1424, in execute
+    return self.connectable.execution_options().execute(*args, **kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2181, in execute
+    connection = self._contextual_connect(close_with_result=True)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2242, in _contextual_connect
+    self._wrap_pool_connect(self.pool.connect, None),
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2280, in _wrap_pool_connect
+    e, dialect, self
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1547, in _handle_dbapi_exception_noconnection
+    util.raise_from_cause(sqlalchemy_exception, exc_info)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 398, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 152, in reraise
+    raise value.with_traceback(tb)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2276, in _wrap_pool_connect
+    return fn()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 363, in connect
+    return _ConnectionFairy._checkout(self)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 773, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 492, in checkout
+    rec = pool._do_get()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 139, in _do_get
+    self._dec_overflow()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/langhelpers.py", line 68, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 153, in reraise
+    raise value
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/impl.py", line 136, in _do_get
+    return self._create_connection()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 308, in _create_connection
+    return _ConnectionRecord(self)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 437, in __init__
+    self.__connect(first_connect_check=True)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/pool/base.py", line 652, in __connect
+    connection = pool._invoke_creator(self)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/strategies.py", line 114, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 489, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 632, in connect
+    self._get_server_information()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 1055, in _get_server_information
+    packet = self._read_packet()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 707, in _read_packet
+    % (packet_number, self._next_seq_id)
+sqlalchemy.exc.InternalError: (pymysql.err.InternalError) Packet sequence number wrong - got 1 expected 0
+(Background on this error at: http://sqlalche.me/e/2j85)
