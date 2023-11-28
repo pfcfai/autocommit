@@ -101,3 +101,4 @@ Traceback (most recent call last):
 requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.cbc.gov.tw', port=443): Max retries exceeded with url: /public/data/OpenData/%E5%A4%96%E5%8C%AF%E5%B1%80/FTDOpenData015.csv (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f5964aacf10>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
 downloaded
 downloaded
+downloaded
