@@ -21,7 +21,8 @@ import datetime
 # In[ ]:
 
 '''
-for y in np.arange(2010, 2022, 1):
+for y in np.arange(2000, 2010, 1):
+#for y in np.arange(2010, 2022, 1):
     url = f'https://www.cftc.gov/files/dea/history/fut_disagg_xls_{str(y)}.zip'
     file = requests.get(url)
     z = zipfile.ZipFile(io.BytesIO(file.content))
@@ -39,8 +40,8 @@ for y in np.arange(2010, 2022, 1):
         print(f'{newname} already exists.')
         os.remove(latest_file)
         continue
-
-for y in np.arange(2010, 2022, 1):
+for y in np.arange(2000, 2010, 1):
+#for y in np.arange(2010, 2022, 1):
     url = f'https://www.cftc.gov/files/dea/history/dea_fut_xls_{str(y)}.zip'
     file = requests.get(url)
     z = zipfile.ZipFile(io.BytesIO(file.content))
@@ -159,9 +160,9 @@ def concatDf(name:str, path_annual:str, path_f_year:str):
 # In[5]:
 
 '''
-執行步驟分開做:
-    第一步 : concatRawdata 只需要做一次 ，因此下面的第一個cell 部分程式碼被註解掉
-    第二步 : 同時執行更新與合併 ，結果存成 final_list 是 list of dataframes
+# 執行步驟分開做:
+#    第一步 : concatRawdata 只需要做一次 ，因此下面的第一個cell 部分程式碼被註解掉
+#    第二步 : 同時執行更新與合併 ，結果存成 final_list 是 list of dataframes
 '''
 
 # In[7]:
@@ -180,9 +181,9 @@ a=0
 
 # concatRawdata 只需要做一次 ，因此下面的程式碼註解掉
 '''
-for s,m,t,n,g in zip(commodity_list,commodity_UPL,commodity_code,commodity_f_year_csv,commodity_annual_csv):
-    cftcs_f_year = concatRawdata('rawdata/', m, 'f_year', s)
-    cftcs_annual= concatRawdata('rawdata/', m, 'annual', s)
+# for s,m,t,n,g in zip(commodity_list,commodity_UPL,commodity_code,commodity_f_year_csv,commodity_annual_csv):
+#    cftcs_f_year = concatRawdata('rawdata/', m, 'f_year', s)
+#    cftcs_annual= concatRawdata('rawdata/', m, 'annual', s)
 
 '''
 
