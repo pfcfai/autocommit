@@ -1,4 +1,4 @@
-/home/targets/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
+rgets/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:29: UserWarning: DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.
   warn("DrawingML support is incomplete and limited to charts and images only. Shapes and drawings will be lost.")
 圖形
          Date      Twse    Index_p  PCratio_p  id
