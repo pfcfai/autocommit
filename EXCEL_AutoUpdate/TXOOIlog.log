@@ -5485,3 +5485,114 @@ Strike          object
 Openinterest    object
 id               int64
 dtype: object
+now:2024-02-19 17:30:03.432908
+today:20240219
+queryday:20240216
+enddate:2024-02-21
+202402
+   Twseclose
+0      18607
+17700 19500
+        Date Type  Contract Strike Openinterest  id
+0   20240219   買權  202402    17750            5   1
+1   20240219   賣權  202402    17750          597   2
+2   20240219   買權  202402    17800         4084   3
+3   20240219   賣權  202402    17800         4381   4
+4   20240219   買權  202402    17850            7   5
+..       ...  ...       ...    ...          ...  ..
+59  20240219   賣權  202402    19200           97  60
+60  20240219   買權  202402    19300         3271  61
+61  20240219   賣權  202402    19300           81  62
+62  20240219   買權  202402    19400         1290  63
+63  20240219   賣權  202402    19400           21  64
+
+[64 rows x 6 columns]
+Date            object
+Type            object
+Contract        object
+Strike          object
+Openinterest    object
+id               int64
+dtype: object
+Date            object
+Type            object
+Contract        object
+Strike          object
+Openinterest    object
+id               int64
+dtype: object
+now:2024-02-20 17:30:02.804896
+today:20240220
+queryday:20240219
+enddate:2024-02-21
+202402
+Empty DataFrame
+Columns: [Twseclose]
+Index: []
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 931, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 1566, in _getitem_axis
+    self._validate_integer(key, axis)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 1500, in _validate_integer
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
+now:2024-02-21 17:30:03.003880
+today:20240221
+queryday:20240220
+enddate:2024-02-21
+202403
+   Twseclose
+0      18753
+17800 19600
+        Date Type  Contract Strike Openinterest  id
+0   20240221   買權  202403    17900          151   1
+1   20240221   賣權  202403    17900         1641   2
+2   20240221   買權  202403    18000          212   3
+3   20240221   賣權  202403    18000         2064   4
+4   20240221   買權  202403    18100          201   5
+5   20240221   賣權  202403    18100         2005   6
+6   20240221   買權  202403    18200          726   7
+7   20240221   賣權  202403    18200         2300   8
+8   20240221   買權  202403    18300          212   9
+9   20240221   賣權  202403    18300         1743  10
+10  20240221   買權  202403    18400          634  11
+11  20240221   賣權  202403    18400         1565  12
+12  20240221   買權  202403    18500          744  13
+13  20240221   賣權  202403    18500          917  14
+14  20240221   買權  202403    18600         1846  15
+15  20240221   賣權  202403    18600         1914  16
+16  20240221   買權  202403    18700         1597  17
+17  20240221   賣權  202403    18700         1534  18
+18  20240221   買權  202403    18800         1777  19
+19  20240221   賣權  202403    18800          501  20
+20  20240221   買權  202403    18900         1773  21
+21  20240221   賣權  202403    18900          108  22
+22  20240221   買權  202403    19000         3050  23
+23  20240221   賣權  202403    19000          146  24
+24  20240221   買權  202403    19100         2239  25
+25  20240221   賣權  202403    19100           20  26
+26  20240221   買權  202403    19200         2873  27
+27  20240221   賣權  202403    19200           83  28
+28  20240221   買權  202403    19300         4157  29
+29  20240221   賣權  202403    19300            4  30
+30  20240221   買權  202403    19400         3366  31
+31  20240221   賣權  202403    19400          438  32
+32  20240221   買權  202403    19500         2135  33
+33  20240221   賣權  202403    19500            4  34
+Date            object
+Type            object
+Contract        object
+Strike          object
+Openinterest    object
+id               int64
+dtype: object
+Date            object
+Type            object
+Contract        object
+Strike          object
+Openinterest    object
+id               int64
+dtype: object
