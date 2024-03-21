@@ -12908,3 +12908,63 @@ done
 
 [814 rows x 8 columns]
 done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      RU       NaN  ...      NaN  2024-03-17 00:00:00      
+1       NaN      IE       NaN  ...      NaN  2024-03-17 00:00:00      
+2       NaN      CN       NaN  ...    -11.7  2024-03-17 07:30:00     %
+3      51.3      NZ       NaN  ...     50.2  2024-03-17 21:30:00      
+4      53.0      NZ       NaN  ...     52.2  2024-03-17 21:30:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+809     NaN      CO       NaN  ...     -4.4  2024-03-27 19:00:00     %
+810     NaN      NZ       NaN  ...     94.5  2024-03-27 21:00:00      
+811     NaN      JP       NaN  ...      NaN  2024-03-27 23:50:00      
+812     NaN      JP       NaN  ...      NaN  2024-03-27 23:50:00      
+813     NaN      JP       NaN  ...      NaN  2024-03-27 23:50:00      
+
+[814 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      RU       NaN  ...      NaN  2024-03-17 00:00:00      
+1       NaN      IE       NaN  ...      NaN  2024-03-17 00:00:00      
+2       NaN      CN       NaN  ...    -11.7  2024-03-17 07:30:00     %
+3      51.3      NZ       NaN  ...     50.2  2024-03-17 21:30:00      
+4      53.0      NZ       NaN  ...     52.2  2024-03-17 21:30:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+809     NaN      CO       NaN  ...     -4.4  2024-03-27 19:00:00     %
+810     NaN      NZ       NaN  ...     94.5  2024-03-27 21:00:00      
+811     NaN      JP       NaN  ...      NaN  2024-03-27 23:50:00      
+812     NaN      JP       NaN  ...      NaN  2024-03-27 23:50:00      
+813     NaN      JP       NaN  ...      NaN  2024-03-27 23:50:00      
+
+[814 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      RU       NaN  ...      NaN  2024-03-17 00:00:00      
+1       NaN      IE       NaN  ...      NaN  2024-03-17 00:00:00      
+2       NaN      CN       NaN  ...    -11.7  2024-03-17 07:30:00     %
+3      51.3      NZ       NaN  ...     50.2  2024-03-17 21:30:00      
+4      53.0      NZ       NaN  ...     52.2  2024-03-17 21:30:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+809     NaN      CO       NaN  ...     -4.4  2024-03-27 19:00:00     %
+810     NaN      NZ       NaN  ...     94.5  2024-03-27 21:00:00      
+811     NaN      JP       NaN  ...      NaN  2024-03-27 23:50:00      
+812     NaN      JP       NaN  ...      NaN  2024-03-27 23:50:00      
+813     NaN      JP       NaN  ...      NaN  2024-03-27 23:50:00      
+
+[814 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MX       NaN  ...      NaN  2024-03-18 00:00:00      
+1       NaN      KM       NaN  ...      NaN  2024-03-18 00:00:00      
+2       NaN      GR       NaN  ...      NaN  2024-03-18 00:00:00      
+3       NaN      AU       NaN  ...      4.5  2024-03-18 00:00:00     %
+4       NaN      CY       NaN  ...      NaN  2024-03-18 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+942     NaN      JP       NaN  ...      2.4  2024-03-28 23:30:00     %
+943     NaN      JP       NaN  ...     -6.7  2024-03-28 23:50:00     %
+944     NaN      JP       NaN  ...     -1.5  2024-03-28 23:50:00     %
+945     NaN      JP       NaN  ...      0.8  2024-03-28 23:50:00     %
+946     NaN      JP       NaN  ...      2.3  2024-03-28 23:50:00     %
+
+[947 rows x 8 columns]
+done
