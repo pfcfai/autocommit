@@ -20212,3 +20212,3286 @@ done
 
 [791 rows x 8 columns]
 done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+786     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+787     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+788     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+789     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+790     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[791 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+786     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+787     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+788     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+789     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+790     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[791 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+786     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+787     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+788     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+789     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+790     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[791 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+786     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+787     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+788     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+789     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+790     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[791 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+786     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+787     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+788     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+789     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+790     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[791 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+786     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+787     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+788     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+789     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+790     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[791 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+786     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+787     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+788     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+789     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+790     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[791 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+786     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+787     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+788     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+789     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+790     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[791 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+786     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+787     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+788     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+789     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+790     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[791 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+786     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+787     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+788     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+789     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+790     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[791 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+786     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+787     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+788     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+789     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+790     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[791 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+786     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+787     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+788     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+789     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+790     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[791 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+786     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+787     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+788     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+789     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+790     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[791 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+786     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+787     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+788     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+789     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+790     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[791 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+786     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+787     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+788     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+789     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+790     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[791 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+786     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+787     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+788     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+789     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+790     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[791 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+786     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+787     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+788     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+789     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+790     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[791 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+786     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+787     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+788     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+789     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+790     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[791 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+786     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+787     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+788     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+789     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+790     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[791 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+786     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+787     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+788     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+789     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+790     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[791 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+786     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+787     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+788     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+789     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+790     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[791 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+786     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+787     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+788     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+789     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+790     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[791 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+786     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+787     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+788     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+789     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+790     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[791 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+786     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+787     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+788     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+789     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+790     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[791 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+786     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+787     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+788     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+789     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+790     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[791 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+787     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+788     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+789     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+790     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+791     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[792 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+787     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+788     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+789     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+790     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+791     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[792 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+787     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+788     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+789     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+790     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+791     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[792 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+787     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+788     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+789     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+790     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+791     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[792 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+787     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+788     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+789     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+790     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+791     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[792 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+787     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+788     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+789     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+790     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+791     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[792 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+787     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+788     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+789     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+790     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+791     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[792 rows x 8 columns]
+done
+Traceback (most recent call last):
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 421, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 416, in _make_request
+    httplib_response = conn.getresponse()
+  File "/home/targets/anaconda3/lib/python3.7/http/client.py", line 1344, in getresponse
+    response.begin()
+  File "/home/targets/anaconda3/lib/python3.7/http/client.py", line 306, in begin
+    version, status, reason = self._read_status()
+  File "/home/targets/anaconda3/lib/python3.7/http/client.py", line 267, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/home/targets/anaconda3/lib/python3.7/socket.py", line 589, in readinto
+    return self._sock.recv_into(b)
+  File "/home/targets/anaconda3/lib/python3.7/ssl.py", line 1071, in recv_into
+    return self.read(nbytes, buffer)
+  File "/home/targets/anaconda3/lib/python3.7/ssl.py", line 929, in read
+    return self._sslobj.read(len, buffer)
+socket.timeout: The read operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/adapters.py", line 499, in send
+    timeout=timeout,
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 720, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/util/retry.py", line 400, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/packages/six.py", line 735, in reraise
+    raise value
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 672, in urlopen
+    chunked=chunked,
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 423, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 331, in _raise_timeout
+    self, url, "Read timed out. (read timeout=%s)" % timeout_value
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.finnhub.io', port=443): Read timed out. (read timeout=10)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/EcoCollect/econ_cal.py", line 10, in <module>
+    econ_cal = finnhub_client.calendar_economic()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/finnhub/client.py", line 346, in calendar_economic
+    "to": to
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/finnhub/client.py", line 71, in _get
+    return self._request("get", path, **kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/finnhub/client.py", line 40, in _request
+    response = getattr(self._session, method)(uri, **kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/sessions.py", line 600, in get
+    return self.request("GET", url, **kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/adapters.py", line 578, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.finnhub.io', port=443): Read timed out. (read timeout=10)
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+790     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+791     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+792     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+793     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+794     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[795 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+790     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+791     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+792     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+793     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+794     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[795 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+790     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+791     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+792     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+793     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+794     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[795 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+790     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+791     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+792     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+793     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+794     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[795 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+791     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+792     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+793     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+794     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+795     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[796 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+791     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+792     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+793     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+794     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+795     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[796 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+791     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+792     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+793     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+794     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+795     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[796 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+791     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+792     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+793     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+794     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+795     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[796 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+792     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+793     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+794     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+795     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+796     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[797 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+792     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+793     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+794     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+795     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+796     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[797 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+792     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+793     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+794     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+795     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+796     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[797 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+792     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+793     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+794     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+795     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+796     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[797 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+792     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+793     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+794     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+795     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+796     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[797 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+794     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+795     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+796     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+797     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+798     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[799 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+794     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+795     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+796     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+797     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+798     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[799 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+805     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+806     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+807     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+808     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+809     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[810 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+805     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+806     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+807     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+808     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+809     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[810 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+807     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+808     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+809     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+810     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+811     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[812 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+807     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+808     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+809     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+810     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+811     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[812 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+807     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+808     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+809     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+810     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+811     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[812 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+809     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+810     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+811     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+812     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+813     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[814 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+809     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+810     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+811     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+812     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+813     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[814 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+809     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+810     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+811     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+812     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+813     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[814 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+809     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+810     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+811     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+812     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+813     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[814 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+809     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+810     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+811     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+812     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+813     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[814 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+809     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+810     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+811     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+812     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+813     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[814 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+809     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+810     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+811     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+812     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+813     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[814 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+809     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+810     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+811     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+812     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+813     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[814 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+810     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+811     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+812     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+813     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+814     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[815 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+810     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+811     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+812     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+813     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+814     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[815 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+810     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+811     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+812     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+813     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+814     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[815 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+810     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+811     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+812     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+813     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+814     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[815 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+810     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+811     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+812     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+813     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+814     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[815 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+810     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+811     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+812     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+813     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+814     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[815 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+810     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+811     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+812     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+813     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+814     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[815 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+810     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+811     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+812     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+813     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+814     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[815 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+810     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+811     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+812     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+813     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+814     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[815 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+810     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+811     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+812     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+813     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+814     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[815 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+810     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+811     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+812     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+813     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+814     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[815 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+810     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+811     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+812     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+813     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+814     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[815 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+810     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+811     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+812     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+813     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+814     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[815 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+810     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+811     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+812     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+813     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+814     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[815 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+810     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+811     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+812     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+813     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+814     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[815 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+810     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+811     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+812     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+813     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+814     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[815 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+810     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+811     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+812     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+813     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+814     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[815 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+810     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+811     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+812     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+813     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+814     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[815 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+810     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+811     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+812     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+813     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+814     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[815 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+810     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+811     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+812     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+813     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+814     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[815 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+810     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+811     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+812     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+813     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+814     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[815 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+810     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+811     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+812     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+813     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+814     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[815 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+810     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+811     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+812     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+813     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+814     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[815 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+810     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+811     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+812     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+813     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+814     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[815 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+810     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+811     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+812     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+813     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+814     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[815 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+811     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+812     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+813     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+814     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+815     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[816 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+811     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+812     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+813     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+814     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+815     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[816 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+811     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+812     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+813     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+814     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+815     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[816 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+811     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+812     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+813     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+814     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+815     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[816 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+811     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+812     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+813     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+814     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+815     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[816 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+811     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+812     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+813     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+814     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+815     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[816 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+811     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+812     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+813     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+814     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+815     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[816 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+811     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+812     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+813     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+814     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+815     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[816 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KZ       NaN  ...      NaN  2024-03-23 00:00:00      
+1       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+2       NaN      IR       NaN  ...      NaN  2024-03-23 00:00:00      
+3       NaN      TJ       NaN  ...      NaN  2024-03-23 00:00:00      
+4       NaN      AZ       NaN  ...      NaN  2024-03-23 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+811     NaN      AU       NaN  ...    -14.9  2024-04-02 22:00:00      
+812     NaN      AU       NaN  ...    -12.6  2024-04-02 22:00:00      
+813     NaN      AU       NaN  ...    -18.4  2024-04-02 23:00:00      
+814     NaN      AU       NaN  ...    -14.9  2024-04-02 23:00:00      
+815     NaN      AU       NaN  ...    -12.6  2024-04-02 23:00:00      
+
+[816 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+907     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+908     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+909     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+910     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+911     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[912 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+907     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+908     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+909     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+910     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+911     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[912 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+908     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+909     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+910     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+911     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+912     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[913 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+908     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+909     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+910     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+911     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+912     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[913 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+908     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+909     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+910     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+911     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+912     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[913 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+908     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+909     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+910     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+911     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+912     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[913 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+908     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+909     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+910     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+911     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+912     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[913 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+908     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+909     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+910     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+911     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+912     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[913 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+908     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+909     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+910     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+911     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+912     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[913 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+908     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+909     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+910     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+911     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+912     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[913 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+908     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+909     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+910     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+911     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+912     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[913 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+908     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+909     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+910     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+911     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+912     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[913 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+908     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+909     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+910     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+911     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+912     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[913 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+908     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+909     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+910     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+911     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+912     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[913 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+908     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+909     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+910     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+911     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+912     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[913 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+908     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+909     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+910     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+911     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+912     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[913 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+908     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+909     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+910     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+911     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+912     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[913 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+908     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+909     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+910     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+911     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+912     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[913 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+908     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+909     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+910     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+911     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+912     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[913 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+908     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+909     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+910     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+911     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+912     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[913 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+908     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+909     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+910     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+911     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+912     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[913 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+908     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+909     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+910     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+911     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+912     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[913 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+908     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+909     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+910     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+911     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+912     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[913 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+908     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+909     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+910     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+911     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+912     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[913 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+908     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+909     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+910     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+911     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+912     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[913 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+908     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+909     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+910     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+911     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+912     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[913 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+908     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+909     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+910     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+911     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+912     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[913 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+908     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+909     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+910     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+911     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+912     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[913 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+908     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+909     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+910     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+911     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+912     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[913 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+908     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+909     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+910     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+911     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+912     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[913 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+908     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+909     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+910     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+911     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+912     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[913 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+909     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+910     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+911     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+912     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+913     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[914 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+909     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+910     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+911     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+912     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+913     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[914 rows x 8 columns]
+done
+Traceback (most recent call last):
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 421, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 416, in _make_request
+    httplib_response = conn.getresponse()
+  File "/home/targets/anaconda3/lib/python3.7/http/client.py", line 1344, in getresponse
+    response.begin()
+  File "/home/targets/anaconda3/lib/python3.7/http/client.py", line 306, in begin
+    version, status, reason = self._read_status()
+  File "/home/targets/anaconda3/lib/python3.7/http/client.py", line 267, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/home/targets/anaconda3/lib/python3.7/socket.py", line 589, in readinto
+    return self._sock.recv_into(b)
+  File "/home/targets/anaconda3/lib/python3.7/ssl.py", line 1071, in recv_into
+    return self.read(nbytes, buffer)
+  File "/home/targets/anaconda3/lib/python3.7/ssl.py", line 929, in read
+    return self._sslobj.read(len, buffer)
+socket.timeout: The read operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/adapters.py", line 499, in send
+    timeout=timeout,
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 720, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/util/retry.py", line 400, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/packages/six.py", line 735, in reraise
+    raise value
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 672, in urlopen
+    chunked=chunked,
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 423, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 331, in _raise_timeout
+    self, url, "Read timed out. (read timeout=%s)" % timeout_value
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.finnhub.io', port=443): Read timed out. (read timeout=10)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/EcoCollect/econ_cal.py", line 10, in <module>
+    econ_cal = finnhub_client.calendar_economic()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/finnhub/client.py", line 346, in calendar_economic
+    "to": to
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/finnhub/client.py", line 71, in _get
+    return self._request("get", path, **kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/finnhub/client.py", line 40, in _request
+    response = getattr(self._session, method)(uri, **kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/sessions.py", line 600, in get
+    return self.request("GET", url, **kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/adapters.py", line 578, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.finnhub.io', port=443): Read timed out. (read timeout=10)
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+911     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+912     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+913     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+914     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+915     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[916 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+913     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+914     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+915     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+916     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+917     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[918 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+913     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+914     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+915     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+916     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+917     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[918 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+913     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+914     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+915     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+916     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+917     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[918 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+913     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+914     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+915     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+916     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+917     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[918 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+914     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+915     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+916     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+917     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+918     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[919 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+914     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+915     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+916     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+917     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+918     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[919 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+914     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+915     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+916     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+917     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+918     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[919 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+917     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+918     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+919     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+920     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+921     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[922 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+917     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+918     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+919     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+920     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+921     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[922 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+917     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+918     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+919     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+920     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+921     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[922 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+917     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+918     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+919     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+920     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+921     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[922 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+918     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+919     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+920     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+921     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+922     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[923 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+918     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+919     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+920     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+921     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+922     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[923 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+918     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+919     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+920     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+921     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+922     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[923 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+922     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+923     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+924     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+925     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+926     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[927 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+923     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+924     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+925     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+926     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+927     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[928 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+923     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+924     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+925     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+926     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+927     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[928 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+923     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+924     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+925     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+926     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+927     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[928 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+923     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+924     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+925     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+926     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+927     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[928 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+925     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+926     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+927     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+928     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+929     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[930 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+925     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+926     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+927     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+928     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+929     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[930 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+925     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+926     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+927     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+928     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+929     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[930 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+925     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+926     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+927     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+928     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+929     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[930 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+925     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+926     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+927     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+928     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+929     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[930 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+925     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+926     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+927     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+928     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+929     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[930 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+925     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+926     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+927     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+928     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+929     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[930 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+925     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+926     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+927     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+928     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+929     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[930 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+925     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+926     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+927     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+928     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+929     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[930 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+925     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+926     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+927     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+928     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+929     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[930 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+925     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+926     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+927     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+928     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+929     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[930 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+925     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+926     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+927     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+928     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+929     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[930 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+925     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+926     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+927     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+928     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+929     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[930 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+925     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+926     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+927     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+928     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+929     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[930 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+925     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+926     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+927     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+928     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+929     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[930 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+925     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+926     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+927     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+928     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+929     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[930 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+925     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+926     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+927     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+928     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+929     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[930 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+925     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+926     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+927     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+928     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+929     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[930 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+925     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+926     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+927     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+928     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+929     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[930 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+925     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+926     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+927     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+928     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+929     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[930 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+925     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+926     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+927     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+928     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+929     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[930 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+925     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+926     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+927     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+928     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+929     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[930 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+925     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+926     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+927     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+928     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+929     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[930 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+925     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+926     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+927     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+928     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+929     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[930 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+925     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+926     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+927     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+928     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+929     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[930 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+925     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+926     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+927     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+928     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+929     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[930 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+925     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+926     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+927     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+928     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+929     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[930 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+925     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+926     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+927     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+928     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+929     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[930 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+925     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+926     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+927     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+928     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+929     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[930 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+925     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+926     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+927     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+928     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+929     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[930 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+925     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+926     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+927     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+928     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+929     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[930 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+925     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+926     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+927     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+928     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+929     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[930 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+925     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+926     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+927     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+928     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+929     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[930 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+925     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+926     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+927     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+928     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+929     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[930 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+925     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+926     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+927     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+928     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+929     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[930 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+925     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+926     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+927     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+928     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+929     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[930 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+926     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+927     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+928     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+929     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+930     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[931 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+926     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+927     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+928     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+929     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+930     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[931 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+926     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+927     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+928     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+929     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+930     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[931 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+926     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+927     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+928     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+929     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+930     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[931 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+926     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+927     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+928     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+929     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+930     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[931 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      MM       NaN  ...      NaN  2024-03-24 00:00:00      
+1       NaN      LK       NaN  ...      NaN  2024-03-24 00:00:00      
+2       NaN      AR       NaN  ...      NaN  2024-03-24 00:00:00      
+3       NaN      KZ       NaN  ...      NaN  2024-03-24 00:00:00      
+4       NaN      TJ       NaN  ...      NaN  2024-03-24 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+926     NaN      NZ       NaN  ...     -8.8  2024-04-03 21:45:00     %
+927     NaN      AU       NaN  ...     52.1  2024-04-03 22:00:00      
+928     NaN      AU       NaN  ...     53.1  2024-04-03 22:00:00      
+929     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+930     NaN      JP       NaN  ...      NaN  2024-04-03 23:50:00      
+
+[931 rows x 8 columns]
+done
+      Actual Country  Estimate  ... Previous                 Time  Unit
+0        NaN      LB       NaN  ...      NaN  2024-03-25 00:00:00      
+1        NaN      CY       NaN  ...      NaN  2024-03-25 00:00:00      
+2        NaN      IN       NaN  ...      NaN  2024-03-25 00:00:00      
+3        NaN      GR       NaN  ...      NaN  2024-03-25 00:00:00      
+4        NaN      KZ       NaN  ...      NaN  2024-03-25 00:00:00      
+...      ...     ...       ...  ...      ...                  ...   ...
+1010     NaN      UY       NaN  ...     8.60  2024-04-04 18:00:00     %
+1011     NaN      CO       NaN  ...    -5.38  2024-04-04 19:00:00     %
+1012     NaN      KR       NaN  ...     3.05  2024-04-04 23:00:00     $
+1013     NaN      JP       NaN  ...    -2.10  2024-04-04 23:30:00     %
+1014     NaN      JP       NaN  ...    -6.30  2024-04-04 23:30:00     %
+
+[1015 rows x 8 columns]
+done
+      Actual Country  Estimate  ... Previous                 Time  Unit
+0        NaN      LB       NaN  ...      NaN  2024-03-25 00:00:00      
+1        NaN      CY       NaN  ...      NaN  2024-03-25 00:00:00      
+2        NaN      IN       NaN  ...      NaN  2024-03-25 00:00:00      
+3        NaN      GR       NaN  ...      NaN  2024-03-25 00:00:00      
+4        NaN      KZ       NaN  ...      NaN  2024-03-25 00:00:00      
+...      ...     ...       ...  ...      ...                  ...   ...
+1010     NaN      UY       NaN  ...     8.60  2024-04-04 18:00:00     %
+1011     NaN      CO       NaN  ...    -5.38  2024-04-04 19:00:00     %
+1012     NaN      KR       NaN  ...     3.05  2024-04-04 23:00:00     $
+1013     NaN      JP       NaN  ...    -2.10  2024-04-04 23:30:00     %
+1014     NaN      JP       NaN  ...    -6.30  2024-04-04 23:30:00     %
+
+[1015 rows x 8 columns]
+done
+      Actual Country  Estimate  ... Previous                 Time  Unit
+0        NaN      LB       NaN  ...      NaN  2024-03-25 00:00:00      
+1        NaN      CY       NaN  ...      NaN  2024-03-25 00:00:00      
+2        NaN      IN       NaN  ...      NaN  2024-03-25 00:00:00      
+3        NaN      GR       NaN  ...      NaN  2024-03-25 00:00:00      
+4        NaN      KZ       NaN  ...      NaN  2024-03-25 00:00:00      
+...      ...     ...       ...  ...      ...                  ...   ...
+1010     NaN      UY       NaN  ...     8.60  2024-04-04 18:00:00     %
+1011     NaN      CO       NaN  ...    -5.38  2024-04-04 19:00:00     %
+1012     NaN      KR       NaN  ...     3.05  2024-04-04 23:00:00     $
+1013     NaN      JP       NaN  ...    -2.10  2024-04-04 23:30:00     %
+1014     NaN      JP       NaN  ...    -6.30  2024-04-04 23:30:00     %
+
+[1015 rows x 8 columns]
+done
+      Actual Country  Estimate  ... Previous                 Time  Unit
+0        NaN      LB       NaN  ...      NaN  2024-03-25 00:00:00      
+1        NaN      CY       NaN  ...      NaN  2024-03-25 00:00:00      
+2        NaN      IN       NaN  ...      NaN  2024-03-25 00:00:00      
+3        NaN      GR       NaN  ...      NaN  2024-03-25 00:00:00      
+4        NaN      KZ       NaN  ...      NaN  2024-03-25 00:00:00      
+...      ...     ...       ...  ...      ...                  ...   ...
+1010     NaN      UY       NaN  ...     8.60  2024-04-04 18:00:00     %
+1011     NaN      CO       NaN  ...    -5.38  2024-04-04 19:00:00     %
+1012     NaN      KR       NaN  ...     3.05  2024-04-04 23:00:00     $
+1013     NaN      JP       NaN  ...    -2.10  2024-04-04 23:30:00     %
+1014     NaN      JP       NaN  ...    -6.30  2024-04-04 23:30:00     %
+
+[1015 rows x 8 columns]
+done
+      Actual Country  Estimate  ... Previous                 Time  Unit
+0        NaN      LB       NaN  ...      NaN  2024-03-25 00:00:00      
+1        NaN      CY       NaN  ...      NaN  2024-03-25 00:00:00      
+2        NaN      IN       NaN  ...      NaN  2024-03-25 00:00:00      
+3        NaN      GR       NaN  ...      NaN  2024-03-25 00:00:00      
+4        NaN      KZ       NaN  ...      NaN  2024-03-25 00:00:00      
+...      ...     ...       ...  ...      ...                  ...   ...
+1010     NaN      UY       NaN  ...     8.60  2024-04-04 18:00:00     %
+1011     NaN      CO       NaN  ...    -5.38  2024-04-04 19:00:00     %
+1012     NaN      KR       NaN  ...     3.05  2024-04-04 23:00:00     $
+1013     NaN      JP       NaN  ...    -2.10  2024-04-04 23:30:00     %
+1014     NaN      JP       NaN  ...    -6.30  2024-04-04 23:30:00     %
+
+[1015 rows x 8 columns]
+done
+      Actual Country  Estimate  ... Previous                 Time  Unit
+0        NaN      LB       NaN  ...      NaN  2024-03-25 00:00:00      
+1        NaN      CY       NaN  ...      NaN  2024-03-25 00:00:00      
+2        NaN      IN       NaN  ...      NaN  2024-03-25 00:00:00      
+3        NaN      GR       NaN  ...      NaN  2024-03-25 00:00:00      
+4        NaN      KZ       NaN  ...      NaN  2024-03-25 00:00:00      
+...      ...     ...       ...  ...      ...                  ...   ...
+1010     NaN      UY       NaN  ...     8.60  2024-04-04 18:00:00     %
+1011     NaN      CO       NaN  ...    -5.38  2024-04-04 19:00:00     %
+1012     NaN      KR       NaN  ...     3.05  2024-04-04 23:00:00     $
+1013     NaN      JP       NaN  ...    -2.10  2024-04-04 23:30:00     %
+1014     NaN      JP       NaN  ...    -6.30  2024-04-04 23:30:00     %
+
+[1015 rows x 8 columns]
+done
+      Actual Country  Estimate  ... Previous                 Time  Unit
+0        NaN      LB       NaN  ...      NaN  2024-03-25 00:00:00      
+1        NaN      CY       NaN  ...      NaN  2024-03-25 00:00:00      
+2        NaN      IN       NaN  ...      NaN  2024-03-25 00:00:00      
+3        NaN      GR       NaN  ...      NaN  2024-03-25 00:00:00      
+4        NaN      KZ       NaN  ...      NaN  2024-03-25 00:00:00      
+...      ...     ...       ...  ...      ...                  ...   ...
+1010     NaN      UY       NaN  ...     8.60  2024-04-04 18:00:00     %
+1011     NaN      CO       NaN  ...    -5.38  2024-04-04 19:00:00     %
+1012     NaN      KR       NaN  ...     3.05  2024-04-04 23:00:00     $
+1013     NaN      JP       NaN  ...    -2.10  2024-04-04 23:30:00     %
+1014     NaN      JP       NaN  ...    -6.30  2024-04-04 23:30:00     %
+
+[1015 rows x 8 columns]
+done
+      Actual Country  Estimate  ... Previous                 Time  Unit
+0        NaN      LB       NaN  ...      NaN  2024-03-25 00:00:00      
+1        NaN      CY       NaN  ...      NaN  2024-03-25 00:00:00      
+2        NaN      IN       NaN  ...      NaN  2024-03-25 00:00:00      
+3        NaN      GR       NaN  ...      NaN  2024-03-25 00:00:00      
+4        NaN      KZ       NaN  ...      NaN  2024-03-25 00:00:00      
+...      ...     ...       ...  ...      ...                  ...   ...
+1010     NaN      UY       NaN  ...     8.60  2024-04-04 18:00:00     %
+1011     NaN      CO       NaN  ...    -5.38  2024-04-04 19:00:00     %
+1012     NaN      KR       NaN  ...     3.05  2024-04-04 23:00:00     $
+1013     NaN      JP       NaN  ...    -2.10  2024-04-04 23:30:00     %
+1014     NaN      JP       NaN  ...    -6.30  2024-04-04 23:30:00     %
+
+[1015 rows x 8 columns]
+done
+      Actual Country  Estimate  ... Previous                 Time  Unit
+0        NaN      LB       NaN  ...      NaN  2024-03-25 00:00:00      
+1        NaN      CY       NaN  ...      NaN  2024-03-25 00:00:00      
+2        NaN      IN       NaN  ...      NaN  2024-03-25 00:00:00      
+3        NaN      GR       NaN  ...      NaN  2024-03-25 00:00:00      
+4        NaN      KZ       NaN  ...      NaN  2024-03-25 00:00:00      
+...      ...     ...       ...  ...      ...                  ...   ...
+1010     NaN      UY       NaN  ...     8.60  2024-04-04 18:00:00     %
+1011     NaN      CO       NaN  ...    -5.38  2024-04-04 19:00:00     %
+1012     NaN      KR       NaN  ...     3.05  2024-04-04 23:00:00     $
+1013     NaN      JP       NaN  ...    -2.10  2024-04-04 23:30:00     %
+1014     NaN      JP       NaN  ...    -6.30  2024-04-04 23:30:00     %
+
+[1015 rows x 8 columns]
+done
+      Actual Country  Estimate  ... Previous                 Time  Unit
+0        NaN      LB       NaN  ...      NaN  2024-03-25 00:00:00      
+1        NaN      CY       NaN  ...      NaN  2024-03-25 00:00:00      
+2        NaN      IN       NaN  ...      NaN  2024-03-25 00:00:00      
+3        NaN      GR       NaN  ...      NaN  2024-03-25 00:00:00      
+4        NaN      KZ       NaN  ...      NaN  2024-03-25 00:00:00      
+...      ...     ...       ...  ...      ...                  ...   ...
+1010     NaN      UY       NaN  ...     8.60  2024-04-04 18:00:00     %
+1011     NaN      CO       NaN  ...    -5.38  2024-04-04 19:00:00     %
+1012     NaN      KR       NaN  ...     3.05  2024-04-04 23:00:00     $
+1013     NaN      JP       NaN  ...    -2.10  2024-04-04 23:30:00     %
+1014     NaN      JP       NaN  ...    -6.30  2024-04-04 23:30:00     %
+
+[1015 rows x 8 columns]
+done
+      Actual Country  Estimate  ... Previous                 Time  Unit
+0        NaN      LB       NaN  ...      NaN  2024-03-25 00:00:00      
+1        NaN      CY       NaN  ...      NaN  2024-03-25 00:00:00      
+2        NaN      IN       NaN  ...      NaN  2024-03-25 00:00:00      
+3        NaN      GR       NaN  ...      NaN  2024-03-25 00:00:00      
+4        NaN      KZ       NaN  ...      NaN  2024-03-25 00:00:00      
+...      ...     ...       ...  ...      ...                  ...   ...
+1011     NaN      UY       NaN  ...     8.60  2024-04-04 18:00:00     %
+1012     NaN      CO       NaN  ...    -5.38  2024-04-04 19:00:00     %
+1013     NaN      KR       NaN  ...     3.05  2024-04-04 23:00:00     $
+1014     NaN      JP       NaN  ...    -2.10  2024-04-04 23:30:00     %
+1015     NaN      JP       NaN  ...    -6.30  2024-04-04 23:30:00     %
+
+[1016 rows x 8 columns]
+done
+      Actual Country  Estimate  ... Previous                 Time  Unit
+0        NaN      LB       NaN  ...      NaN  2024-03-25 00:00:00      
+1        NaN      CY       NaN  ...      NaN  2024-03-25 00:00:00      
+2        NaN      IN       NaN  ...      NaN  2024-03-25 00:00:00      
+3        NaN      GR       NaN  ...      NaN  2024-03-25 00:00:00      
+4        NaN      KZ       NaN  ...      NaN  2024-03-25 00:00:00      
+...      ...     ...       ...  ...      ...                  ...   ...
+1011     NaN      UY       NaN  ...     8.60  2024-04-04 18:00:00     %
+1012     NaN      CO       NaN  ...    -5.38  2024-04-04 19:00:00     %
+1013     NaN      KR       NaN  ...     3.05  2024-04-04 23:00:00     $
+1014     NaN      JP       NaN  ...    -2.10  2024-04-04 23:30:00     %
+1015     NaN      JP       NaN  ...    -6.30  2024-04-04 23:30:00     %
+
+[1016 rows x 8 columns]
+done
+      Actual Country  Estimate  ... Previous                 Time  Unit
+0        NaN      LB       NaN  ...      NaN  2024-03-25 00:00:00      
+1        NaN      CY       NaN  ...      NaN  2024-03-25 00:00:00      
+2        NaN      IN       NaN  ...      NaN  2024-03-25 00:00:00      
+3        NaN      GR       NaN  ...      NaN  2024-03-25 00:00:00      
+4        NaN      KZ       NaN  ...      NaN  2024-03-25 00:00:00      
+...      ...     ...       ...  ...      ...                  ...   ...
+1011     NaN      UY       NaN  ...     8.60  2024-04-04 18:00:00     %
+1012     NaN      CO       NaN  ...    -5.38  2024-04-04 19:00:00     %
+1013     NaN      KR       NaN  ...     3.05  2024-04-04 23:00:00     $
+1014     NaN      JP       NaN  ...    -2.10  2024-04-04 23:30:00     %
+1015     NaN      JP       NaN  ...    -6.30  2024-04-04 23:30:00     %
+
+[1016 rows x 8 columns]
+done
+      Actual Country  Estimate  ... Previous                 Time  Unit
+0        NaN      LB       NaN  ...      NaN  2024-03-25 00:00:00      
+1        NaN      CY       NaN  ...      NaN  2024-03-25 00:00:00      
+2        NaN      IN       NaN  ...      NaN  2024-03-25 00:00:00      
+3        NaN      GR       NaN  ...      NaN  2024-03-25 00:00:00      
+4        NaN      KZ       NaN  ...      NaN  2024-03-25 00:00:00      
+...      ...     ...       ...  ...      ...                  ...   ...
+1011     NaN      UY       NaN  ...     8.60  2024-04-04 18:00:00     %
+1012     NaN      CO       NaN  ...    -5.38  2024-04-04 19:00:00     %
+1013     NaN      KR       NaN  ...     3.05  2024-04-04 23:00:00     $
+1014     NaN      JP       NaN  ...    -2.10  2024-04-04 23:30:00     %
+1015     NaN      JP       NaN  ...    -6.30  2024-04-04 23:30:00     %
+
+[1016 rows x 8 columns]
+done
+      Actual Country  Estimate  ... Previous                 Time  Unit
+0        NaN      LB       NaN  ...      NaN  2024-03-25 00:00:00      
+1        NaN      CY       NaN  ...      NaN  2024-03-25 00:00:00      
+2        NaN      IN       NaN  ...      NaN  2024-03-25 00:00:00      
+3        NaN      GR       NaN  ...      NaN  2024-03-25 00:00:00      
+4        NaN      KZ       NaN  ...      NaN  2024-03-25 00:00:00      
+...      ...     ...       ...  ...      ...                  ...   ...
+1011     NaN      UY       NaN  ...     8.60  2024-04-04 18:00:00     %
+1012     NaN      CO       NaN  ...    -5.38  2024-04-04 19:00:00     %
+1013     NaN      KR       NaN  ...     3.05  2024-04-04 23:00:00     $
+1014     NaN      JP       NaN  ...    -2.10  2024-04-04 23:30:00     %
+1015     NaN      JP       NaN  ...    -6.30  2024-04-04 23:30:00     %
+
+[1016 rows x 8 columns]
+done
+      Actual Country  Estimate  ... Previous                 Time  Unit
+0        NaN      LB       NaN  ...      NaN  2024-03-25 00:00:00      
+1        NaN      CY       NaN  ...      NaN  2024-03-25 00:00:00      
+2        NaN      IN       NaN  ...      NaN  2024-03-25 00:00:00      
+3        NaN      GR       NaN  ...      NaN  2024-03-25 00:00:00      
+4        NaN      KZ       NaN  ...      NaN  2024-03-25 00:00:00      
+...      ...     ...       ...  ...      ...                  ...   ...
+1011     NaN      UY       NaN  ...     8.60  2024-04-04 18:00:00     %
+1012     NaN      CO       NaN  ...    -5.38  2024-04-04 19:00:00     %
+1013     NaN      KR       NaN  ...     3.05  2024-04-04 23:00:00     $
+1014     NaN      JP       NaN  ...    -2.10  2024-04-04 23:30:00     %
+1015     NaN      JP       NaN  ...    -6.30  2024-04-04 23:30:00     %
+
+[1016 rows x 8 columns]
+done
+      Actual Country  Estimate  ... Previous                 Time  Unit
+0        NaN      LB       NaN  ...      NaN  2024-03-25 00:00:00      
+1        NaN      CY       NaN  ...      NaN  2024-03-25 00:00:00      
+2        NaN      IN       NaN  ...      NaN  2024-03-25 00:00:00      
+3        NaN      GR       NaN  ...      NaN  2024-03-25 00:00:00      
+4        NaN      KZ       NaN  ...      NaN  2024-03-25 00:00:00      
+...      ...     ...       ...  ...      ...                  ...   ...
+1011     NaN      UY       NaN  ...     8.60  2024-04-04 18:00:00     %
+1012     NaN      CO       NaN  ...    -5.38  2024-04-04 19:00:00     %
+1013     NaN      KR       NaN  ...     3.05  2024-04-04 23:00:00     $
+1014     NaN      JP       NaN  ...    -2.10  2024-04-04 23:30:00     %
+1015     NaN      JP       NaN  ...    -6.30  2024-04-04 23:30:00     %
+
+[1016 rows x 8 columns]
+done
+      Actual Country  Estimate  ... Previous                 Time  Unit
+0        NaN      LB       NaN  ...      NaN  2024-03-25 00:00:00      
+1        NaN      CY       NaN  ...      NaN  2024-03-25 00:00:00      
+2        NaN      IN       NaN  ...      NaN  2024-03-25 00:00:00      
+3        NaN      GR       NaN  ...      NaN  2024-03-25 00:00:00      
+4        NaN      KZ       NaN  ...      NaN  2024-03-25 00:00:00      
+...      ...     ...       ...  ...      ...                  ...   ...
+1011     NaN      UY       NaN  ...     8.60  2024-04-04 18:00:00     %
+1012     NaN      CO       NaN  ...    -5.38  2024-04-04 19:00:00     %
+1013     NaN      KR       NaN  ...     3.05  2024-04-04 23:00:00     $
+1014     NaN      JP       NaN  ...    -2.10  2024-04-04 23:30:00     %
+1015     NaN      JP       NaN  ...    -6.30  2024-04-04 23:30:00     %
+
+[1016 rows x 8 columns]
+done
+      Actual Country  Estimate  ... Previous                 Time  Unit
+0        NaN      LB       NaN  ...      NaN  2024-03-25 00:00:00      
+1        NaN      CY       NaN  ...      NaN  2024-03-25 00:00:00      
+2        NaN      IN       NaN  ...      NaN  2024-03-25 00:00:00      
+3        NaN      GR       NaN  ...      NaN  2024-03-25 00:00:00      
+4        NaN      KZ       NaN  ...      NaN  2024-03-25 00:00:00      
+...      ...     ...       ...  ...      ...                  ...   ...
+1013     NaN      UY       NaN  ...     8.60  2024-04-04 18:00:00     %
+1014     NaN      CO       NaN  ...    -5.38  2024-04-04 19:00:00     %
+1015     NaN      KR       NaN  ...     3.05  2024-04-04 23:00:00     $
+1016     NaN      JP       NaN  ...    -2.10  2024-04-04 23:30:00     %
+1017     NaN      JP       NaN  ...    -6.30  2024-04-04 23:30:00     %
+
+[1018 rows x 8 columns]
+done
+      Actual Country  Estimate  ... Previous                 Time  Unit
+0        NaN      LB       NaN  ...      NaN  2024-03-25 00:00:00      
+1        NaN      CY       NaN  ...      NaN  2024-03-25 00:00:00      
+2        NaN      IN       NaN  ...      NaN  2024-03-25 00:00:00      
+3        NaN      GR       NaN  ...      NaN  2024-03-25 00:00:00      
+4        NaN      KZ       NaN  ...      NaN  2024-03-25 00:00:00      
+...      ...     ...       ...  ...      ...                  ...   ...
+1014     NaN      UY       NaN  ...     8.60  2024-04-04 18:00:00     %
+1015     NaN      CO       NaN  ...    -5.38  2024-04-04 19:00:00     %
+1016     NaN      KR       NaN  ...     3.05  2024-04-04 23:00:00     $
+1017     NaN      JP       NaN  ...    -2.10  2024-04-04 23:30:00     %
+1018     NaN      JP       NaN  ...    -6.30  2024-04-04 23:30:00     %
+
+[1019 rows x 8 columns]
+done
+      Actual Country  Estimate  ... Previous                 Time  Unit
+0        NaN      LB       NaN  ...      NaN  2024-03-25 00:00:00      
+1        NaN      CY       NaN  ...      NaN  2024-03-25 00:00:00      
+2        NaN      IN       NaN  ...      NaN  2024-03-25 00:00:00      
+3        NaN      GR       NaN  ...      NaN  2024-03-25 00:00:00      
+4        NaN      KZ       NaN  ...      NaN  2024-03-25 00:00:00      
+...      ...     ...       ...  ...      ...                  ...   ...
+1014     NaN      UY       NaN  ...     8.60  2024-04-04 18:00:00     %
+1015     NaN      CO       NaN  ...    -5.38  2024-04-04 19:00:00     %
+1016     NaN      KR       NaN  ...     3.05  2024-04-04 23:00:00     $
+1017     NaN      JP       NaN  ...    -2.10  2024-04-04 23:30:00     %
+1018     NaN      JP       NaN  ...    -6.30  2024-04-04 23:30:00     %
+
+[1019 rows x 8 columns]
+done
+      Actual Country  Estimate  ... Previous                 Time  Unit
+0        NaN      LB       NaN  ...      NaN  2024-03-25 00:00:00      
+1        NaN      CY       NaN  ...      NaN  2024-03-25 00:00:00      
+2        NaN      IN       NaN  ...      NaN  2024-03-25 00:00:00      
+3        NaN      GR       NaN  ...      NaN  2024-03-25 00:00:00      
+4        NaN      KZ       NaN  ...      NaN  2024-03-25 00:00:00      
+...      ...     ...       ...  ...      ...                  ...   ...
+1014     NaN      UY       NaN  ...     8.60  2024-04-04 18:00:00     %
+1015     NaN      CO       NaN  ...    -5.38  2024-04-04 19:00:00     %
+1016     NaN      KR       NaN  ...     3.05  2024-04-04 23:00:00     $
+1017     NaN      JP       NaN  ...    -2.10  2024-04-04 23:30:00     %
+1018     NaN      JP       NaN  ...    -6.30  2024-04-04 23:30:00     %
+
+[1019 rows x 8 columns]
+done
