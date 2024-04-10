@@ -4109,3 +4109,32 @@ Index_p             float64
 PCratio_p           float64
 id                    int64
 dtype: object
+/home/targets/anaconda3/lib/python3.7/site-packages/openpyxl/reader/drawings.py:59: UserWarning: wmf image format is not supported so the image is being dropped
+  warn(msg)
+/home/targets/anaconda3/lib/python3.7/site-packages/openpyxl/worksheet/_reader.py:300: UserWarning: Unknown extension is not supported and will be removed
+  warn(msg)
+/home/targets/anaconda3/lib/python3.7/site-packages/openpyxl/worksheet/_reader.py:300: UserWarning: Conditional Formatting extension is not supported and will be removed
+  warn(msg)
+合併圖卡
+n: 3504
+<class 'datetime.datetime'>
+         Date      Twse    Index_p  PCratio_p  id
+0  2023-11-22  17310.26   0.906847     105.01   1
+1  2023-11-23  17294.55  -4.092684     104.66   2
+2  2023-11-24  17287.42  -2.547314     105.71   3
+3  2023-11-27  17137.42   5.109515      96.45   4
+4  2023-11-28  17341.25 -14.410886     115.00   5
+..        ...       ...        ...        ...  ..
+85 2024-04-02  20466.57 -21.040462     138.25  86
+86 2024-04-03  20337.60  -1.593799     125.86  87
+87 2024-04-08  20417.70 -14.900861     129.30  88
+88 2024-04-09  20796.20 -25.072624     158.75  89
+89 2024-04-10  20763.53 -12.116531     136.96  90
+
+[90 rows x 5 columns]
+Date         datetime64[ns]
+Twse                float64
+Index_p             float64
+PCratio_p           float64
+id                    int64
+dtype: object
