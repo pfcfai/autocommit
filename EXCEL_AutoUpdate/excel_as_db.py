@@ -30,7 +30,7 @@ from openpyxl.reader.excel import load_workbook
 # In[2]:
 
 
-wb=openpyxl.load_workbook('/home/targets/autocommit/EXCEL_AutoUpdate/2023_綜合日報_VBA 爬蟲.xlsm')
+wb=openpyxl.load_workbook('/home/targets/autocommit/EXCEL_AutoUpdate/2024改版_綜合日報_VBA 爬蟲.xlsm')
 
 
 # In[3]:
