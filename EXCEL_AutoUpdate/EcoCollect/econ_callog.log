@@ -53435,3 +53435,18 @@ done
 
 [498 rows x 8 columns]
 done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      KH       NaN  ...      NaN  2024-04-14 00:00:00      
+1       NaN      LA       NaN  ...      NaN  2024-04-14 00:00:00      
+2       NaN      MM       NaN  ...      NaN  2024-04-14 00:00:00      
+3   -1988.9      IL       NaN  ... -3213.10  2024-04-14 10:00:00     $
+4    5740.0      IL       NaN  ...  4507.30  2024-04-14 10:00:00     $
+..      ...     ...       ...  ...      ...                  ...   ...
+495     NaN      AR       NaN  ...    -4.81  2024-04-19 18:30:00     %
+496     NaN      JP       NaN  ...      NaN  2024-04-19 23:30:00      
+497     NaN      JP       NaN  ...      NaN  2024-04-19 23:30:00      
+498     NaN      JP       NaN  ...      NaN  2024-04-19 23:30:00      
+499     NaN      JP       NaN  ...     2.80  2024-04-19 23:30:00     %
+
+[500 rows x 8 columns]
+done
