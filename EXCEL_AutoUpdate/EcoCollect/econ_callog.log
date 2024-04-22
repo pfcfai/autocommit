@@ -59569,3 +59569,498 @@ done
 
 [157 rows x 8 columns]
 done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      EU       NaN  ...      NaN  2024-04-18 00:00:00      
+1       NaN      ZW       NaN  ...      NaN  2024-04-18 00:00:00      
+2       NaN      LA       NaN  ...      NaN  2024-04-18 00:00:00      
+3       NaN      VN       NaN  ...      NaN  2024-04-18 00:00:00      
+4       NaN      JP       NaN  ...      NaN  2024-04-18 01:30:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+152     NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+153     2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+154     2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+155     5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+156     4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+
+[157 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      EU       NaN  ...      NaN  2024-04-18 00:00:00      
+1       NaN      ZW       NaN  ...      NaN  2024-04-18 00:00:00      
+2       NaN      LA       NaN  ...      NaN  2024-04-18 00:00:00      
+3       NaN      VN       NaN  ...      NaN  2024-04-18 00:00:00      
+4       NaN      JP       NaN  ...      NaN  2024-04-18 01:30:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+152     NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+153     2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+154     2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+155     5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+156     4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+
+[157 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      EU       NaN  ...      NaN  2024-04-18 00:00:00      
+1       NaN      ZW       NaN  ...      NaN  2024-04-18 00:00:00      
+2       NaN      LA       NaN  ...      NaN  2024-04-18 00:00:00      
+3       NaN      VN       NaN  ...      NaN  2024-04-18 00:00:00      
+4       NaN      JP       NaN  ...      NaN  2024-04-18 01:30:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+152     NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+153     2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+154     2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+155     5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+156     4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+
+[157 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      EU       NaN  ...      NaN  2024-04-18 00:00:00      
+1       NaN      ZW       NaN  ...      NaN  2024-04-18 00:00:00      
+2       NaN      LA       NaN  ...      NaN  2024-04-18 00:00:00      
+3       NaN      VN       NaN  ...      NaN  2024-04-18 00:00:00      
+4       NaN      JP       NaN  ...      NaN  2024-04-18 01:30:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+152     NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+153     2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+154     2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+155     5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+156     4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+
+[157 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      EU       NaN  ...      NaN  2024-04-18 00:00:00      
+1       NaN      ZW       NaN  ...      NaN  2024-04-18 00:00:00      
+2       NaN      LA       NaN  ...      NaN  2024-04-18 00:00:00      
+3       NaN      VN       NaN  ...      NaN  2024-04-18 00:00:00      
+4       NaN      JP       NaN  ...      NaN  2024-04-18 01:30:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+152     NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+153     2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+154     2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+155     5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+156     4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+
+[157 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      EU       NaN  ...      NaN  2024-04-18 00:00:00      
+1       NaN      ZW       NaN  ...      NaN  2024-04-18 00:00:00      
+2       NaN      LA       NaN  ...      NaN  2024-04-18 00:00:00      
+3       NaN      VN       NaN  ...      NaN  2024-04-18 00:00:00      
+4       NaN      JP       NaN  ...      NaN  2024-04-18 01:30:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+152     NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+153     2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+154     2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+155     5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+156     4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+
+[157 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      EU       NaN  ...      NaN  2024-04-18 00:00:00      
+1       NaN      ZW       NaN  ...      NaN  2024-04-18 00:00:00      
+2       NaN      LA       NaN  ...      NaN  2024-04-18 00:00:00      
+3       NaN      VN       NaN  ...      NaN  2024-04-18 00:00:00      
+4       NaN      JP       NaN  ...      NaN  2024-04-18 01:30:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+152     NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+153     2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+154     2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+155     5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+156     4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+
+[157 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      EU       NaN  ...      NaN  2024-04-18 00:00:00      
+1       NaN      ZW       NaN  ...      NaN  2024-04-18 00:00:00      
+2       NaN      LA       NaN  ...      NaN  2024-04-18 00:00:00      
+3       NaN      VN       NaN  ...      NaN  2024-04-18 00:00:00      
+4       NaN      JP       NaN  ...      NaN  2024-04-18 01:30:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+152     NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+153     2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+154     2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+155     5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+156     4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+
+[157 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      EU       NaN  ...      NaN  2024-04-18 00:00:00      
+1       NaN      ZW       NaN  ...      NaN  2024-04-18 00:00:00      
+2       NaN      LA       NaN  ...      NaN  2024-04-18 00:00:00      
+3       NaN      VN       NaN  ...      NaN  2024-04-18 00:00:00      
+4       NaN      JP       NaN  ...      NaN  2024-04-18 01:30:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+152     NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+153     2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+154     2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+155     5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+156     4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+
+[157 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      EU       NaN  ...      NaN  2024-04-18 00:00:00      
+1       NaN      ZW       NaN  ...      NaN  2024-04-18 00:00:00      
+2       NaN      LA       NaN  ...      NaN  2024-04-18 00:00:00      
+3       NaN      VN       NaN  ...      NaN  2024-04-18 00:00:00      
+4       NaN      JP       NaN  ...      NaN  2024-04-18 01:30:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+152     NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+153     2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+154     2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+155     5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+156     4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+
+[157 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      EU       NaN  ...      NaN  2024-04-18 00:00:00      
+1       NaN      ZW       NaN  ...      NaN  2024-04-18 00:00:00      
+2       NaN      LA       NaN  ...      NaN  2024-04-18 00:00:00      
+3       NaN      VN       NaN  ...      NaN  2024-04-18 00:00:00      
+4       NaN      JP       NaN  ...      NaN  2024-04-18 01:30:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+152     NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+153     2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+154     2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+155     5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+156     4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+
+[157 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      EU       NaN  ...      NaN  2024-04-18 00:00:00      
+1       NaN      ZW       NaN  ...      NaN  2024-04-18 00:00:00      
+2       NaN      LA       NaN  ...      NaN  2024-04-18 00:00:00      
+3       NaN      VN       NaN  ...      NaN  2024-04-18 00:00:00      
+4       NaN      JP       NaN  ...      NaN  2024-04-18 01:30:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+152     NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+153     2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+154     2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+155     5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+156     4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+
+[157 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      EU       NaN  ...      NaN  2024-04-18 00:00:00      
+1       NaN      ZW       NaN  ...      NaN  2024-04-18 00:00:00      
+2       NaN      LA       NaN  ...      NaN  2024-04-18 00:00:00      
+3       NaN      VN       NaN  ...      NaN  2024-04-18 00:00:00      
+4       NaN      JP       NaN  ...      NaN  2024-04-18 01:30:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+152     NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+153     2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+154     2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+155     5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+156     4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+
+[157 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      EU       NaN  ...      NaN  2024-04-18 00:00:00      
+1       NaN      ZW       NaN  ...      NaN  2024-04-18 00:00:00      
+2       NaN      LA       NaN  ...      NaN  2024-04-18 00:00:00      
+3       NaN      VN       NaN  ...      NaN  2024-04-18 00:00:00      
+4       NaN      JP       NaN  ...      NaN  2024-04-18 01:30:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+152     NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+153     2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+154     2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+155     5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+156     4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+
+[157 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      EU       NaN  ...      NaN  2024-04-18 00:00:00      
+1       NaN      ZW       NaN  ...      NaN  2024-04-18 00:00:00      
+2       NaN      LA       NaN  ...      NaN  2024-04-18 00:00:00      
+3       NaN      VN       NaN  ...      NaN  2024-04-18 00:00:00      
+4       NaN      JP       NaN  ...      NaN  2024-04-18 01:30:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+152     NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+153     2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+154     2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+155     5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+156     4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+
+[157 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      EU       NaN  ...      NaN  2024-04-18 00:00:00      
+1       NaN      ZW       NaN  ...      NaN  2024-04-18 00:00:00      
+2       NaN      LA       NaN  ...      NaN  2024-04-18 00:00:00      
+3       NaN      VN       NaN  ...      NaN  2024-04-18 00:00:00      
+4       NaN      JP       NaN  ...      NaN  2024-04-18 01:30:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+152     NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+153     2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+154     2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+155     5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+156     4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+
+[157 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      EU       NaN  ...      NaN  2024-04-18 00:00:00      
+1       NaN      ZW       NaN  ...      NaN  2024-04-18 00:00:00      
+2       NaN      LA       NaN  ...      NaN  2024-04-18 00:00:00      
+3       NaN      VN       NaN  ...      NaN  2024-04-18 00:00:00      
+4       NaN      JP       NaN  ...      NaN  2024-04-18 01:30:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+152     NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+153     2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+154     2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+155     5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+156     4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+
+[157 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      EU       NaN  ...      NaN  2024-04-18 00:00:00      
+1       NaN      ZW       NaN  ...      NaN  2024-04-18 00:00:00      
+2       NaN      LA       NaN  ...      NaN  2024-04-18 00:00:00      
+3       NaN      VN       NaN  ...      NaN  2024-04-18 00:00:00      
+4       NaN      JP       NaN  ...      NaN  2024-04-18 01:30:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+152     NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+153     2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+154     2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+155     5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+156     4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+
+[157 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      EU       NaN  ...      NaN  2024-04-18 00:00:00      
+1       NaN      ZW       NaN  ...      NaN  2024-04-18 00:00:00      
+2       NaN      LA       NaN  ...      NaN  2024-04-18 00:00:00      
+3       NaN      VN       NaN  ...      NaN  2024-04-18 00:00:00      
+4       NaN      JP       NaN  ...      NaN  2024-04-18 01:30:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+152     NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+153     2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+154     2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+155     5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+156     4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+
+[157 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      EU       NaN  ...      NaN  2024-04-18 00:00:00      
+1       NaN      ZW       NaN  ...      NaN  2024-04-18 00:00:00      
+2       NaN      LA       NaN  ...      NaN  2024-04-18 00:00:00      
+3       NaN      VN       NaN  ...      NaN  2024-04-18 00:00:00      
+4       NaN      JP       NaN  ...      NaN  2024-04-18 01:30:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+152     NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+153     2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+154     2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+155     5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+156     4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+
+[157 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      EU       NaN  ...      NaN  2024-04-18 00:00:00      
+1       NaN      ZW       NaN  ...      NaN  2024-04-18 00:00:00      
+2       NaN      LA       NaN  ...      NaN  2024-04-18 00:00:00      
+3       NaN      VN       NaN  ...      NaN  2024-04-18 00:00:00      
+4       NaN      JP       NaN  ...      NaN  2024-04-18 01:30:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+152     NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+153     2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+154     2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+155     5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+156     4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+
+[157 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      EU       NaN  ...      NaN  2024-04-18 00:00:00      
+1       NaN      ZW       NaN  ...      NaN  2024-04-18 00:00:00      
+2       NaN      LA       NaN  ...      NaN  2024-04-18 00:00:00      
+3       NaN      VN       NaN  ...      NaN  2024-04-18 00:00:00      
+4       NaN      JP       NaN  ...      NaN  2024-04-18 01:30:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+152     NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+153     2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+154     2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+155     5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+156     4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+
+[157 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      EU       NaN  ...      NaN  2024-04-18 00:00:00      
+1       NaN      ZW       NaN  ...      NaN  2024-04-18 00:00:00      
+2       NaN      LA       NaN  ...      NaN  2024-04-18 00:00:00      
+3       NaN      VN       NaN  ...      NaN  2024-04-18 00:00:00      
+4       NaN      JP       NaN  ...      NaN  2024-04-18 01:30:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+152     NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+153     2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+154     2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+155     5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+156     4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+
+[157 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      EU       NaN  ...      NaN  2024-04-18 00:00:00      
+1       NaN      ZW       NaN  ...      NaN  2024-04-18 00:00:00      
+2       NaN      LA       NaN  ...      NaN  2024-04-18 00:00:00      
+3       NaN      VN       NaN  ...      NaN  2024-04-18 00:00:00      
+4       NaN      JP       NaN  ...      NaN  2024-04-18 01:30:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+152     NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+153     2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+154     2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+155     5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+156     4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+
+[157 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      EU       NaN  ...      NaN  2024-04-18 00:00:00      
+1       NaN      ZW       NaN  ...      NaN  2024-04-18 00:00:00      
+2       NaN      LA       NaN  ...      NaN  2024-04-18 00:00:00      
+3       NaN      VN       NaN  ...      NaN  2024-04-18 00:00:00      
+4       NaN      JP       NaN  ...      NaN  2024-04-18 01:30:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+152     NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+153     2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+154     2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+155     5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+156     4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+
+[157 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      EU       NaN  ...      NaN  2024-04-18 00:00:00      
+1       NaN      ZW       NaN  ...      NaN  2024-04-18 00:00:00      
+2       NaN      LA       NaN  ...      NaN  2024-04-18 00:00:00      
+3       NaN      VN       NaN  ...      NaN  2024-04-18 00:00:00      
+4       NaN      JP       NaN  ...      NaN  2024-04-18 01:30:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+152     NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+153     2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+154     2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+155     5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+156     4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+
+[157 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      EU       NaN  ...      NaN  2024-04-18 00:00:00      
+1       NaN      ZW       NaN  ...      NaN  2024-04-18 00:00:00      
+2       NaN      LA       NaN  ...      NaN  2024-04-18 00:00:00      
+3       NaN      VN       NaN  ...      NaN  2024-04-18 00:00:00      
+4       NaN      JP       NaN  ...      NaN  2024-04-18 01:30:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+152     NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+153     2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+154     2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+155     5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+156     4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+
+[157 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      EU       NaN  ...      NaN  2024-04-18 00:00:00      
+1       NaN      ZW       NaN  ...      NaN  2024-04-18 00:00:00      
+2       NaN      LA       NaN  ...      NaN  2024-04-18 00:00:00      
+3       NaN      VN       NaN  ...      NaN  2024-04-18 00:00:00      
+4       NaN      JP       NaN  ...      NaN  2024-04-18 01:30:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+152     NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+153     2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+154     2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+155     5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+156     4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+
+[157 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      EU       NaN  ...      NaN  2024-04-18 00:00:00      
+1       NaN      ZW       NaN  ...      NaN  2024-04-18 00:00:00      
+2       NaN      LA       NaN  ...      NaN  2024-04-18 00:00:00      
+3       NaN      VN       NaN  ...      NaN  2024-04-18 00:00:00      
+4       NaN      JP       NaN  ...      NaN  2024-04-18 01:30:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+152     NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+153     2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+154     2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+155     5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+156     4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+
+[157 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      EU       NaN  ...      NaN  2024-04-18 00:00:00      
+1       NaN      ZW       NaN  ...      NaN  2024-04-18 00:00:00      
+2       NaN      LA       NaN  ...      NaN  2024-04-18 00:00:00      
+3       NaN      VN       NaN  ...      NaN  2024-04-18 00:00:00      
+4       NaN      JP       NaN  ...      NaN  2024-04-18 01:30:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+152     NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+153     2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+154     2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+155     5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+156     4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+
+[157 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      EU       NaN  ...      NaN  2024-04-18 00:00:00      
+1       NaN      ZW       NaN  ...      NaN  2024-04-18 00:00:00      
+2       NaN      LA       NaN  ...      NaN  2024-04-18 00:00:00      
+3       NaN      VN       NaN  ...      NaN  2024-04-18 00:00:00      
+4       NaN      JP       NaN  ...      NaN  2024-04-18 01:30:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+152     NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+153     2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+154     2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+155     5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+156     4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+
+[157 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      EU       NaN  ...      NaN  2024-04-18 00:00:00      
+1       NaN      ZW       NaN  ...      NaN  2024-04-18 00:00:00      
+2       NaN      LA       NaN  ...      NaN  2024-04-18 00:00:00      
+3       NaN      VN       NaN  ...      NaN  2024-04-18 00:00:00      
+4       NaN      JP       NaN  ...      NaN  2024-04-18 01:30:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+152     NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+153     2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+154     2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+155     5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+156     4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+
+[157 rows x 8 columns]
+done
+      Actual Country  Estimate  ... Previous                 Time  Unit
+0        NaN      VE       NaN  ...      NaN  2024-04-19 00:00:00      
+1        NaN      IN       NaN  ...      NaN  2024-04-19 00:00:00      
+2        NaN      SZ       NaN  ...      NaN  2024-04-19 00:00:00      
+3    88.2000      SK       NaN  ...  -14.800  2024-04-19 01:00:00     €
+4     0.0089      JP       NaN  ...    0.004  2024-04-19 03:35:00     %
+..       ...     ...       ...  ...      ...                  ...   ...
+138      NaN      KR       NaN  ...    0.300  2024-04-22 21:00:00     %
+139      NaN      KR       NaN  ...    1.500  2024-04-22 21:00:00     %
+140      NaN      AU       NaN  ...   53.300  2024-04-22 23:00:00      
+141      NaN      AU       NaN  ...   47.300  2024-04-22 23:00:00      
+142      NaN      AU       NaN  ...   54.400  2024-04-22 23:00:00      
+
+[143 rows x 8 columns]
+done
