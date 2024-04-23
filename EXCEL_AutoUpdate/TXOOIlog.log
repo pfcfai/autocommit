@@ -7646,3 +7646,157 @@ Strike          object
 Openinterest    object
 id               int64
 dtype: object
+now:2024-04-23 17:30:02.993866
+today:20240423
+queryday:20240422
+enddate:2024-04-17
+202405
+   Twseclose
+0      19411
+18500 20300
+        Date Type  Contract Strike Openinterest  id
+0   20240423   買權  202405    18600            3   1
+1   20240423   賣權  202405    18600         4256   2
+2   20240423   買權  202405    18700           26   3
+3   20240423   賣權  202405    18700         1019   4
+4   20240423   買權  202405    18800           26   5
+5   20240423   賣權  202405    18800         1528   6
+6   20240423   買權  202405    18900            5   7
+7   20240423   賣權  202405    18900         3336   8
+8   20240423   買權  202405    19000           67   9
+9   20240423   賣權  202405    19000         7288  10
+10  20240423   買權  202405    19100           27  11
+11  20240423   賣權  202405    19100         1107  12
+12  20240423   買權  202405    19200           93  13
+13  20240423   賣權  202405    19200         2421  14
+14  20240423   買權  202405    19300          246  15
+15  20240423   賣權  202405    19300         1979  16
+16  20240423   買權  202405    19400          183  17
+17  20240423   賣權  202405    19400         2632  18
+18  20240423   買權  202405    19500          405  19
+19  20240423   賣權  202405    19500         2646  20
+20  20240423   買權  202405    19600          615  21
+21  20240423   賣權  202405    19600         1729  22
+22  20240423   買權  202405    19700          628  23
+23  20240423   賣權  202405    19700         1215  24
+24  20240423   買權  202405    19800         2027  25
+25  20240423   賣權  202405    19800         2081  26
+26  20240423   買權  202405    19900         1299  27
+27  20240423   賣權  202405    19900         1766  28
+28  20240423   買權  202405    20000         3883  29
+29  20240423   賣權  202405    20000         3391  30
+30  20240423   買權  202405    20100         3879  31
+31  20240423   賣權  202405    20100         3119  32
+32  20240423   買權  202405    20200         4200  33
+33  20240423   賣權  202405    20200         2198  34
+Date            object
+Type            object
+Contract        object
+Strike          object
+Openinterest    object
+id               int64
+dtype: object
+Date            object
+Type            object
+Contract        object
+Strike          object
+Openinterest    object
+id               int64
+dtype: object
+Traceback (most recent call last):
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1246, in _execute_context
+    cursor, statement, parameters, context
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 588, in do_execute
+    cursor.execute(statement, parameters)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1050, "Table 'dailytxooi' already exists")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 138, in <module>
+    df.to_sql('dailytxooi', engine2, if_exists = 'replace',index=False, dtype=dtypedict)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/generic.py", line 2882, in to_sql
+    method=method,
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 728, in to_sql
+    **engine_kwargs,
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1758, in to_sql
+    dtype=dtype,
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1650, in prep_table
+    table.create()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 867, in create
+    self._execute_create()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 853, in _execute_create
+    self.table.create()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/sql/schema.py", line 870, in create
+    bind._run_visitor(ddl.SchemaGenerator, self, checkfirst=checkfirst)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 2049, in _run_visitor
+    conn._run_visitor(visitorcallable, element, **kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1618, in _run_visitor
+    visitorcallable(self.dialect, self, **kwargs).traverse_single(element)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/sql/visitors.py", line 138, in traverse_single
+    return meth(obj, **kw)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/sql/ddl.py", line 826, in visit_table
+    include_foreign_key_constraints,  # noqa
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 982, in execute
+    return meth(self, multiparams, params)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/sql/ddl.py", line 72, in _execute_on_connection
+    return connection._execute_ddl(self, multiparams, params)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1044, in _execute_ddl
+    compiled,
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1250, in _execute_context
+    e, statement, parameters, cursor, context
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1476, in _handle_dbapi_exception
+    util.raise_from_cause(sqlalchemy_exception, exc_info)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 398, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 152, in reraise
+    raise value.with_traceback(tb)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1246, in _execute_context
+    cursor, statement, parameters, context
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/default.py", line 588, in do_execute
+    cursor.execute(statement, parameters)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+sqlalchemy.exc.OperationalError: (pymysql.err.OperationalError) (1050, "Table 'dailytxooi' already exists")
+[SQL: 
+CREATE TABLE dailytxooi (
+	`Date` NATIONAL VARCHAR(255), 
+	`Type` NATIONAL VARCHAR(255), 
+	`Contract` NATIONAL VARCHAR(255), 
+	`Strike` INTEGER, 
+	`Openinterest` INTEGER, 
+	id INTEGER
+)
+
+]
+(Background on this error at: http://sqlalche.me/e/e3q8)
