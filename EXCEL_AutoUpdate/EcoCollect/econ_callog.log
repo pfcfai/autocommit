@@ -63933,3 +63933,638 @@ done
 
 [775 rows x 8 columns]
 done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+1       2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+2       2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+3       5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+4       4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+..      ...     ...       ...  ...      ...                  ...   ...
+770     NaN      KR       NaN  ...      0.1  2024-05-01 23:00:00     %
+771     NaN      KR       NaN  ...      3.1  2024-05-01 23:00:00     %
+772     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+773     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+774     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+
+[775 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+1       2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+2       2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+3       5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+4       4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+..      ...     ...       ...  ...      ...                  ...   ...
+770     NaN      KR       NaN  ...      0.1  2024-05-01 23:00:00     %
+771     NaN      KR       NaN  ...      3.1  2024-05-01 23:00:00     %
+772     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+773     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+774     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+
+[775 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+1       2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+2       2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+3       5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+4       4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+..      ...     ...       ...  ...      ...                  ...   ...
+770     NaN      KR       NaN  ...      0.1  2024-05-01 23:00:00     %
+771     NaN      KR       NaN  ...      3.1  2024-05-01 23:00:00     %
+772     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+773     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+774     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+
+[775 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+1       2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+2       2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+3       5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+4       4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+..      ...     ...       ...  ...      ...                  ...   ...
+770     NaN      KR       NaN  ...      0.1  2024-05-01 23:00:00     %
+771     NaN      KR       NaN  ...      3.1  2024-05-01 23:00:00     %
+772     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+773     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+774     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+
+[775 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+1       2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+2       2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+3       5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+4       4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+..      ...     ...       ...  ...      ...                  ...   ...
+770     NaN      KR       NaN  ...      0.1  2024-05-01 23:00:00     %
+771     NaN      KR       NaN  ...      3.1  2024-05-01 23:00:00     %
+772     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+773     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+774     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+
+[775 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+1       2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+2       2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+3       5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+4       4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+..      ...     ...       ...  ...      ...                  ...   ...
+770     NaN      KR       NaN  ...      0.1  2024-05-01 23:00:00     %
+771     NaN      KR       NaN  ...      3.1  2024-05-01 23:00:00     %
+772     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+773     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+774     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+
+[775 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+1       2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+2       2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+3       5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+4       4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+..      ...     ...       ...  ...      ...                  ...   ...
+770     NaN      KR       NaN  ...      0.1  2024-05-01 23:00:00     %
+771     NaN      KR       NaN  ...      3.1  2024-05-01 23:00:00     %
+772     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+773     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+774     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+
+[775 rows x 8 columns]
+done
+Traceback (most recent call last):
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connection.py", line 157, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/util/connection.py", line 61, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/home/targets/anaconda3/lib/python3.7/socket.py", line 752, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -2] Name or service not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 672, in urlopen
+    chunked=chunked,
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 376, in _make_request
+    self._validate_conn(conn)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 994, in _validate_conn
+    conn.connect()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connection.py", line 300, in connect
+    conn = self._new_conn()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connection.py", line 169, in _new_conn
+    self, "Failed to establish a new connection: %s" % e
+urllib3.exceptions.NewConnectionError: <urllib3.connection.VerifiedHTTPSConnection object at 0x7ff678629510>: Failed to establish a new connection: [Errno -2] Name or service not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/adapters.py", line 499, in send
+    timeout=timeout,
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 720, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/util/retry.py", line 436, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.finnhub.io', port=443): Max retries exceeded with url: /api/v1//calendar/economic?token=cfd13t1r01qs3nql1ia0cfd13t1r01qs3nql1iag (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7ff678629510>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/EcoCollect/econ_cal.py", line 10, in <module>
+    econ_cal = finnhub_client.calendar_economic()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/finnhub/client.py", line 346, in calendar_economic
+    "to": to
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/finnhub/client.py", line 71, in _get
+    return self._request("get", path, **kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/finnhub/client.py", line 40, in _request
+    response = getattr(self._session, method)(uri, **kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/sessions.py", line 600, in get
+    return self.request("GET", url, **kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.finnhub.io', port=443): Max retries exceeded with url: /api/v1//calendar/economic?token=cfd13t1r01qs3nql1ia0cfd13t1r01qs3nql1iag (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7ff678629510>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+1       2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+2       2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+3       5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+4       4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+..      ...     ...       ...  ...      ...                  ...   ...
+770     NaN      KR       NaN  ...      0.1  2024-05-01 23:00:00     %
+771     NaN      KR       NaN  ...      3.1  2024-05-01 23:00:00     %
+772     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+773     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+774     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+
+[775 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+1       2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+2       2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+3       5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+4       4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+..      ...     ...       ...  ...      ...                  ...   ...
+770     NaN      KR       NaN  ...      0.1  2024-05-01 23:00:00     %
+771     NaN      KR       NaN  ...      3.1  2024-05-01 23:00:00     %
+772     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+773     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+774     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+
+[775 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+1       2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+2       2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+3       5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+4       4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+..      ...     ...       ...  ...      ...                  ...   ...
+770     NaN      KR       NaN  ...      0.1  2024-05-01 23:00:00     %
+771     NaN      KR       NaN  ...      3.1  2024-05-01 23:00:00     %
+772     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+773     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+774     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+
+[775 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+1       2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+2       2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+3       5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+4       4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+..      ...     ...       ...  ...      ...                  ...   ...
+770     NaN      KR       NaN  ...      0.1  2024-05-01 23:00:00     %
+771     NaN      KR       NaN  ...      3.1  2024-05-01 23:00:00     %
+772     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+773     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+774     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+
+[775 rows x 8 columns]
+done
+Traceback (most recent call last):
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connection.py", line 157, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/util/connection.py", line 61, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/home/targets/anaconda3/lib/python3.7/socket.py", line 752, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -2] Name or service not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 672, in urlopen
+    chunked=chunked,
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 376, in _make_request
+    self._validate_conn(conn)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 994, in _validate_conn
+    conn.connect()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connection.py", line 300, in connect
+    conn = self._new_conn()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connection.py", line 169, in _new_conn
+    self, "Failed to establish a new connection: %s" % e
+urllib3.exceptions.NewConnectionError: <urllib3.connection.VerifiedHTTPSConnection object at 0x7fe40b2843d0>: Failed to establish a new connection: [Errno -2] Name or service not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/adapters.py", line 499, in send
+    timeout=timeout,
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 720, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/util/retry.py", line 436, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.finnhub.io', port=443): Max retries exceeded with url: /api/v1//calendar/economic?token=cfd13t1r01qs3nql1ia0cfd13t1r01qs3nql1iag (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fe40b2843d0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/EcoCollect/econ_cal.py", line 10, in <module>
+    econ_cal = finnhub_client.calendar_economic()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/finnhub/client.py", line 346, in calendar_economic
+    "to": to
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/finnhub/client.py", line 71, in _get
+    return self._request("get", path, **kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/finnhub/client.py", line 40, in _request
+    response = getattr(self._session, method)(uri, **kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/sessions.py", line 600, in get
+    return self.request("GET", url, **kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.finnhub.io', port=443): Max retries exceeded with url: /api/v1//calendar/economic?token=cfd13t1r01qs3nql1ia0cfd13t1r01qs3nql1iag (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fe40b2843d0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+1       2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+2       2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+3       5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+4       4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+..      ...     ...       ...  ...      ...                  ...   ...
+770     NaN      KR       NaN  ...      0.1  2024-05-01 23:00:00     %
+771     NaN      KR       NaN  ...      3.1  2024-05-01 23:00:00     %
+772     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+773     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+774     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+
+[775 rows x 8 columns]
+done
+Traceback (most recent call last):
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connection.py", line 157, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/util/connection.py", line 61, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/home/targets/anaconda3/lib/python3.7/socket.py", line 752, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -2] Name or service not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 672, in urlopen
+    chunked=chunked,
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 376, in _make_request
+    self._validate_conn(conn)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 994, in _validate_conn
+    conn.connect()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connection.py", line 300, in connect
+    conn = self._new_conn()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connection.py", line 169, in _new_conn
+    self, "Failed to establish a new connection: %s" % e
+urllib3.exceptions.NewConnectionError: <urllib3.connection.VerifiedHTTPSConnection object at 0x7f8954b6f210>: Failed to establish a new connection: [Errno -2] Name or service not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/adapters.py", line 499, in send
+    timeout=timeout,
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 720, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/util/retry.py", line 436, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.finnhub.io', port=443): Max retries exceeded with url: /api/v1//calendar/economic?token=cfd13t1r01qs3nql1ia0cfd13t1r01qs3nql1iag (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f8954b6f210>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/EcoCollect/econ_cal.py", line 10, in <module>
+    econ_cal = finnhub_client.calendar_economic()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/finnhub/client.py", line 346, in calendar_economic
+    "to": to
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/finnhub/client.py", line 71, in _get
+    return self._request("get", path, **kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/finnhub/client.py", line 40, in _request
+    response = getattr(self._session, method)(uri, **kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/sessions.py", line 600, in get
+    return self.request("GET", url, **kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.finnhub.io', port=443): Max retries exceeded with url: /api/v1//calendar/economic?token=cfd13t1r01qs3nql1ia0cfd13t1r01qs3nql1iag (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f8954b6f210>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+Traceback (most recent call last):
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connection.py", line 157, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/util/connection.py", line 61, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/home/targets/anaconda3/lib/python3.7/socket.py", line 752, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -2] Name or service not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 672, in urlopen
+    chunked=chunked,
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 376, in _make_request
+    self._validate_conn(conn)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 994, in _validate_conn
+    conn.connect()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connection.py", line 300, in connect
+    conn = self._new_conn()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connection.py", line 169, in _new_conn
+    self, "Failed to establish a new connection: %s" % e
+urllib3.exceptions.NewConnectionError: <urllib3.connection.VerifiedHTTPSConnection object at 0x7f676987a3d0>: Failed to establish a new connection: [Errno -2] Name or service not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/adapters.py", line 499, in send
+    timeout=timeout,
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 720, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/util/retry.py", line 436, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.finnhub.io', port=443): Max retries exceeded with url: /api/v1//calendar/economic?token=cfd13t1r01qs3nql1ia0cfd13t1r01qs3nql1iag (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f676987a3d0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/EcoCollect/econ_cal.py", line 10, in <module>
+    econ_cal = finnhub_client.calendar_economic()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/finnhub/client.py", line 346, in calendar_economic
+    "to": to
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/finnhub/client.py", line 71, in _get
+    return self._request("get", path, **kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/finnhub/client.py", line 40, in _request
+    response = getattr(self._session, method)(uri, **kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/sessions.py", line 600, in get
+    return self.request("GET", url, **kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.finnhub.io', port=443): Max retries exceeded with url: /api/v1//calendar/economic?token=cfd13t1r01qs3nql1ia0cfd13t1r01qs3nql1iag (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f676987a3d0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+1       2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+2       2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+3       5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+4       4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+..      ...     ...       ...  ...      ...                  ...   ...
+770     NaN      KR       NaN  ...      0.1  2024-05-01 23:00:00     %
+771     NaN      KR       NaN  ...      3.1  2024-05-01 23:00:00     %
+772     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+773     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+774     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+
+[775 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+1       2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+2       2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+3       5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+4       4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+..      ...     ...       ...  ...      ...                  ...   ...
+770     NaN      KR       NaN  ...      0.1  2024-05-01 23:00:00     %
+771     NaN      KR       NaN  ...      3.1  2024-05-01 23:00:00     %
+772     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+773     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+774     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+
+[775 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+1       2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+2       2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+3       5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+4       4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+..      ...     ...       ...  ...      ...                  ...   ...
+770     NaN      KR       NaN  ...      0.1  2024-05-01 23:00:00     %
+771     NaN      KR       NaN  ...      3.1  2024-05-01 23:00:00     %
+772     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+773     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+774     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+
+[775 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+1       2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+2       2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+3       5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+4       4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+..      ...     ...       ...  ...      ...                  ...   ...
+770     NaN      KR       NaN  ...      0.1  2024-05-01 23:00:00     %
+771     NaN      KR       NaN  ...      3.1  2024-05-01 23:00:00     %
+772     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+773     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+774     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+
+[775 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+1       2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+2       2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+3       5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+4       4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+..      ...     ...       ...  ...      ...                  ...   ...
+770     NaN      KR       NaN  ...      0.1  2024-05-01 23:00:00     %
+771     NaN      KR       NaN  ...      3.1  2024-05-01 23:00:00     %
+772     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+773     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+774     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+
+[775 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+1       2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+2       2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+3       5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+4       4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+..      ...     ...       ...  ...      ...                  ...   ...
+770     NaN      KR       NaN  ...      0.1  2024-05-01 23:00:00     %
+771     NaN      KR       NaN  ...      3.1  2024-05-01 23:00:00     %
+772     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+773     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+774     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+
+[775 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+1       2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+2       2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+3       5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+4       4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+..      ...     ...       ...  ...      ...                  ...   ...
+770     NaN      KR       NaN  ...      0.1  2024-05-01 23:00:00     %
+771     NaN      KR       NaN  ...      3.1  2024-05-01 23:00:00     %
+772     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+773     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+774     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+
+[775 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+1       2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+2       2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+3       5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+4       4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+..      ...     ...       ...  ...      ...                  ...   ...
+770     NaN      KR       NaN  ...      0.1  2024-05-01 23:00:00     %
+771     NaN      KR       NaN  ...      3.1  2024-05-01 23:00:00     %
+772     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+773     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+774     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+
+[775 rows x 8 columns]
+done
+Traceback (most recent call last):
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connection.py", line 157, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/util/connection.py", line 61, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/home/targets/anaconda3/lib/python3.7/socket.py", line 752, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -2] Name or service not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 672, in urlopen
+    chunked=chunked,
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 376, in _make_request
+    self._validate_conn(conn)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 994, in _validate_conn
+    conn.connect()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connection.py", line 300, in connect
+    conn = self._new_conn()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connection.py", line 169, in _new_conn
+    self, "Failed to establish a new connection: %s" % e
+urllib3.exceptions.NewConnectionError: <urllib3.connection.VerifiedHTTPSConnection object at 0x7f634a57e410>: Failed to establish a new connection: [Errno -2] Name or service not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/adapters.py", line 499, in send
+    timeout=timeout,
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/connectionpool.py", line 720, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/urllib3/util/retry.py", line 436, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.finnhub.io', port=443): Max retries exceeded with url: /api/v1//calendar/economic?token=cfd13t1r01qs3nql1ia0cfd13t1r01qs3nql1iag (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f634a57e410>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/EcoCollect/econ_cal.py", line 10, in <module>
+    econ_cal = finnhub_client.calendar_economic()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/finnhub/client.py", line 346, in calendar_economic
+    "to": to
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/finnhub/client.py", line 71, in _get
+    return self._request("get", path, **kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/finnhub/client.py", line 40, in _request
+    response = getattr(self._session, method)(uri, **kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/sessions.py", line 600, in get
+    return self.request("GET", url, **kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/requests/adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.finnhub.io', port=443): Max retries exceeded with url: /api/v1//calendar/economic?token=cfd13t1r01qs3nql1ia0cfd13t1r01qs3nql1iag (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f634a57e410>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+1       2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+2       2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+3       5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+4       4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+..      ...     ...       ...  ...      ...                  ...   ...
+770     NaN      KR       NaN  ...      0.1  2024-05-01 23:00:00     %
+771     NaN      KR       NaN  ...      3.1  2024-05-01 23:00:00     %
+772     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+773     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+774     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+
+[775 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+1       2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+2       2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+3       5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+4       4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+..      ...     ...       ...  ...      ...                  ...   ...
+770     NaN      KR       NaN  ...      0.1  2024-05-01 23:00:00     %
+771     NaN      KR       NaN  ...      3.1  2024-05-01 23:00:00     %
+772     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+773     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+774     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+
+[775 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+1       2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+2       2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+3       5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+4       4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+..      ...     ...       ...  ...      ...                  ...   ...
+770     NaN      KR       NaN  ...      0.1  2024-05-01 23:00:00     %
+771     NaN      KR       NaN  ...      3.1  2024-05-01 23:00:00     %
+772     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+773     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+774     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+
+[775 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      BR       NaN  ...      NaN  2024-04-21 00:00:00      
+1       2.9      IL       NaN  ...      2.8  2024-04-21 10:10:00     %
+2       2.9      IL       NaN  ...      2.8  2024-04-21 10:40:00     %
+3       5.4      QA       NaN  ...      6.5  2024-04-21 15:35:00     %
+4       4.9      QA       NaN  ...      5.8  2024-04-21 15:35:00     %
+..      ...     ...       ...  ...      ...                  ...   ...
+770     NaN      KR       NaN  ...      0.1  2024-05-01 23:00:00     %
+771     NaN      KR       NaN  ...      3.1  2024-05-01 23:00:00     %
+772     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+773     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+774     NaN      JP       NaN  ...      NaN  2024-05-01 23:50:00      
+
+[775 rows x 8 columns]
+done
