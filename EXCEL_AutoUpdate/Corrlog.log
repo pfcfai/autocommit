@@ -5785,3 +5785,15 @@ Traceback (most recent call last):
   File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/indexes/base.py", line 3442, in get_indexer
     raise InvalidIndexError(self._requires_unique_msg)
 pandas.errors.InvalidIndexError: Reindexing only valid with uniquely valued Index objects
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/MySQL_visualize_research-Correlations.py", line 48, in <module>
+    temp = pd.concat([dfname[0],dfname[1],dfname[2],dfname[3],dfname[4],dfname[5],dfname[6],dfname[7],dfname[8],dfname[9],dfname[10],dfname[11],dfname[12],dfname[13],dfname[14],dfname[15],dfname[16]],join="inner",axis=1)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/util/_decorators.py", line 311, in wrapper
+    return func(*args, **kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/reshape/concat.py", line 307, in concat
+    return op.get_result()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/reshape/concat.py", line 528, in get_result
+    indexers[ax] = obj_labels.get_indexer(new_labels)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/indexes/base.py", line 3442, in get_indexer
+    raise InvalidIndexError(self._requires_unique_msg)
+pandas.errors.InvalidIndexError: Reindexing only valid with uniquely valued Index objects
