@@ -13400,3 +13400,121 @@ Strike          object
 Openinterest    object
 id               int64
 dtype: object
+now:2024-10-01 17:30:04.229892
+today:20241001
+queryday:20240930
+enddate:2024-10-16
+202410
+   Twseclose
+0      22224
+21300 23100
+        Date Type  Contract Strike Openinterest  id
+0   20241001   買權  202410    21400          115   1
+1   20241001   賣權  202410    21400         1383   2
+2   20241001   買權  202410    21500          552   3
+3   20241001   賣權  202410    21500         2565   4
+4   20241001   買權  202410    21600          183   5
+5   20241001   賣權  202410    21600         1264   6
+6   20241001   買權  202410    21700          856   7
+7   20241001   賣權  202410    21700         1739   8
+8   20241001   買權  202410    21800          626   9
+9   20241001   賣權  202410    21800         1153  10
+10  20241001   買權  202410    21900          232  11
+11  20241001   賣權  202410    21900          635  12
+12  20241001   買權  202410    22000         2018  13
+13  20241001   賣權  202410    22000         1906  14
+14  20241001   買權  202410    22100          830  15
+15  20241001   賣權  202410    22100         1358  16
+16  20241001   買權  202410    22200         1108  17
+17  20241001   賣權  202410    22200         1002  18
+18  20241001   買權  202410    22300          647  19
+19  20241001   賣權  202410    22300          840  20
+20  20241001   買權  202410    22400          956  21
+21  20241001   賣權  202410    22400          668  22
+22  20241001   買權  202410    22500         3337  23
+23  20241001   賣權  202410    22500          687  24
+24  20241001   買權  202410    22600         1352  25
+25  20241001   賣權  202410    22600          395  26
+26  20241001   買權  202410    22700         1145  27
+27  20241001   賣權  202410    22700          385  28
+28  20241001   買權  202410    22800         2233  29
+29  20241001   賣權  202410    22800          416  30
+30  20241001   買權  202410    22900         1207  31
+31  20241001   賣權  202410    22900          232  32
+32  20241001   買權  202410    23000         3954  33
+33  20241001   賣權  202410    23000          298  34
+Date            object
+Type            object
+Contract        object
+Strike          object
+Openinterest    object
+id               int64
+dtype: object
+Date            object
+Type            object
+Contract        object
+Strike          object
+Openinterest    object
+id               int64
+dtype: object
+now:2024-10-02 17:30:03.766758
+today:20241002
+queryday:20241001
+enddate:2024-10-16
+202410
+   Twseclose
+0      22390
+21400 23200
+Empty DataFrame
+Columns: [Date, Type, Contract, Strike, Openinterest, id]
+Index: []
+Date            object
+Type            object
+Contract        object
+Strike          object
+Openinterest    object
+id              object
+dtype: object
+Date            object
+Type            object
+Contract        object
+Strike          object
+Openinterest    object
+id              object
+dtype: object
+now:2024-10-03 17:30:04.103979
+today:20241003
+queryday:20241002
+enddate:2024-10-16
+202410
+Empty DataFrame
+Columns: [Twseclose]
+Index: []
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 931, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 1566, in _getitem_axis
+    self._validate_integer(key, axis)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 1500, in _validate_integer
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
+now:2024-10-04 17:30:04.127897
+today:20241004
+queryday:20241003
+enddate:2024-10-16
+202410
+Empty DataFrame
+Columns: [Twseclose]
+Index: []
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 931, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 1566, in _getitem_axis
+    self._validate_integer(key, axis)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 1500, in _validate_integer
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
