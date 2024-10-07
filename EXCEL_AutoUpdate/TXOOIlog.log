@@ -13518,3 +13518,39 @@ Traceback (most recent call last):
   File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 1500, in _validate_integer
     raise IndexError("single positional indexer is out-of-bounds")
 IndexError: single positional indexer is out-of-bounds
+now:2024-10-07 17:30:04.507913
+today:20241007
+queryday:20241004
+enddate:2024-10-16
+202410
+   Twseclose
+0      22302
+21400 23200
+        Date Type  Contract Strike Openinterest  id
+0   20241007   買權  202410    21500          542   1
+1   20241007   賣權  202410    21500         2973   2
+2   20241007   買權  202410    21600          185   3
+3   20241007   賣權  202410    21600         1429   4
+4   20241007   買權  202410    21650            0   5
+..       ...  ...       ...    ...          ...  ..
+59  20241007   賣權  202410    23000          337  60
+60  20241007   買權  202410    23050          132  61
+61  20241007   賣權  202410    23050            3  62
+62  20241007   買權  202410    23100         1970  63
+63  20241007   賣權  202410    23100          147  64
+
+[64 rows x 6 columns]
+Date            object
+Type            object
+Contract        object
+Strike          object
+Openinterest    object
+id               int64
+dtype: object
+Date            object
+Type            object
+Contract        object
+Strike          object
+Openinterest    object
+id               int64
+dtype: object
