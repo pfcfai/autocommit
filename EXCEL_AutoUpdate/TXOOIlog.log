@@ -13554,3 +13554,93 @@ Strike          object
 Openinterest    object
 id               int64
 dtype: object
+now:2024-10-08 17:30:04.281833
+today:20241008
+queryday:20241007
+enddate:2024-10-16
+202410
+   Twseclose
+0      22702
+21800 23600
+        Date Type  Contract Strike Openinterest  id
+0   20241008   買權  202410    21850            1   1
+1   20241008   賣權  202410    21850          148   2
+2   20241008   買權  202410    21900          254   3
+3   20241008   賣權  202410    21900         1082   4
+4   20241008   買權  202410    21950            9   5
+..       ...  ...       ...    ...          ...  ..
+61  20241008   賣權  202410    23350            0  62
+62  20241008   買權  202410    23400         4810  63
+63  20241008   賣權  202410    23400          163  64
+64  20241008   買權  202410    23500         5667  65
+65  20241008   賣權  202410    23500           78  66
+
+[66 rows x 6 columns]
+Date            object
+Type            object
+Contract        object
+Strike          object
+Openinterest    object
+id               int64
+dtype: object
+Date            object
+Type            object
+Contract        object
+Strike          object
+Openinterest    object
+id               int64
+dtype: object
+now:2024-10-09 17:30:03.958897
+today:20241009
+queryday:20241008
+enddate:2024-10-16
+202410
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2024-10-10 17:30:03.430489
+today:20241010
+queryday:20241009
+enddate:2024-10-16
+202410
+   Twseclose
+0      22659
+21700 23500
+Empty DataFrame
+Columns: [Date, Type, Contract, Strike, Openinterest, id]
+Index: []
+Date            object
+Type            object
+Contract        object
+Strike          object
+Openinterest    object
+id              object
+dtype: object
+Date            object
+Type            object
+Contract        object
+Strike          object
+Openinterest    object
+id              object
+dtype: object
+now:2024-10-11 17:30:03.997889
+today:20241011
+queryday:20241010
+enddate:2024-10-16
+202410
+Empty DataFrame
+Columns: [Twseclose]
+Index: []
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 931, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 1566, in _getitem_axis
+    self._validate_integer(key, axis)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 1500, in _validate_integer
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
