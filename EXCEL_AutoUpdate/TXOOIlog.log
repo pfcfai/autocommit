@@ -14824,3 +14824,39 @@ Strike          object
 Openinterest    object
 id               int64
 dtype: object
+now:2024-11-19 17:30:03.596899
+today:20241119
+queryday:20241118
+enddate:2024-11-20
+202411
+   Twseclose
+0      22546
+21600 23400
+        Date Type  Contract Strike Openinterest  id
+0   20241119   買權  202411    21700            9   1
+1   20241119   賣權  202411    21700         2617   2
+2   20241119   買權  202411    21800           12   3
+3   20241119   賣權  202411    21800         3677   4
+4   20241119   買權  202411    21900           34   5
+..       ...  ...       ...    ...          ...  ..
+59  20241119   賣權  202411    23250          128  60
+60  20241119   買權  202411    23300         5460  61
+61  20241119   賣權  202411    23300         1220  62
+62  20241119   買權  202411    23350         1458  63
+63  20241119   賣權  202411    23350          128  64
+
+[64 rows x 6 columns]
+Date            object
+Type            object
+Contract        object
+Strike          object
+Openinterest    object
+id               int64
+dtype: object
+Date            object
+Type            object
+Contract        object
+Strike          object
+Openinterest    object
+id               int64
+dtype: object
