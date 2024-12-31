@@ -18,7 +18,7 @@ print(year,month,day)
 try:
 
     datestr=str(year)+str(month).zfill(2)+str(day).zfill(2)
-    #datestr='20231003'
+    datestr='20241212'
     print(f'querydatestr:{datestr}')
     def get_strnum(text,target):
         a=text.find(target)
