@@ -19113,3 +19113,14 @@ Strike          object
 Openinterest    object
 id               int64
 dtype: object
+now:2025-04-03 17:30:03.883920
+today:20250403
+queryday:20250402
+enddate:2025-04-16
+202504
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
