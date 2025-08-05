@@ -55325,3 +55325,138 @@ FinFutYY.xls
 f_year.xls
 rawdata
 rawdata2
+annual.xls
+batch.sh
+[Errno 2] No such file or directory: 'cftcs_FinFutYY_NASDAQ.csv'
+請逐項檢查列表中的元素是否正確
+[Errno 2] No such file or directory: 'cftcs_FinFutYY_DJ.csv'
+請逐項檢查列表中的元素是否正確
+[Errno 2] No such file or directory: 'cftcs_FinFutYY_mini_sp.csv'
+請逐項檢查列表中的元素是否正確
+[Errno 2] No such file or directory: 'cftcs_FinFutYY_USD.csv'
+請逐項檢查列表中的元素是否正確
+[Errno 2] No such file or directory: 'cftcs_FinFutYY_AUD.csv'
+請逐項檢查列表中的元素是否正確
+[Errno 2] No such file or directory: 'cftcs_FinFutYY_BP.csv'
+請逐項檢查列表中的元素是否正確
+[Errno 2] No such file or directory: 'cftcs_FinFutYY_NZD.csv'
+請逐項檢查列表中的元素是否正確
+[Errno 2] No such file or directory: 'cftcs_FinFutYY_SF.csv'
+請逐項檢查列表中的元素是否正確
+[Errno 2] No such file or directory: 'cftcs_FinFutYY_EUD.csv'
+請逐項檢查列表中的元素是否正確
+[Errno 2] No such file or directory: 'cftcs_FinFutYY_JPY.csv'
+請逐項檢查列表中的元素是否正確
+[Errno 2] No such file or directory: 'cftcs_FinFutYY_CAD.csv'
+請逐項檢查列表中的元素是否正確
+[Errno 2] No such file or directory: 'cftcs_FinFutYY_thirtyDAY_FEDERAL_FUNDS.csv'
+請逐項檢查列表中的元素是否正確
+[Errno 2] No such file or directory: 'cftcs_FinFutYY_threeMONTH_EURODOLLARS.csv'
+請逐項檢查列表中的元素是否正確
+[Errno 2] No such file or directory: 'cftcs_FinFutYY_twoYEAR_US_TREASURY_NOTES.csv'
+請逐項檢查列表中的元素是否正確
+[Errno 2] No such file or directory: 'cftcs_FinFutYY_fiveYEAR_US_TREASURY_NOTES.csv'
+請逐項檢查列表中的元素是否正確
+[Errno 2] No such file or directory: 'cftcs_FinFutYY_tenYEAR_US_TREASURY_NOTES.csv'
+請逐項檢查列表中的元素是否正確
+[Errno 2] No such file or directory: 'cftcs_FinFutYY_US_TREASURY_BONDS.csv'
+請逐項檢查列表中的元素是否正確
+[Errno 2] No such file or directory: 'cftcs_FinFutYY_LONG_TERM_US_TREASURY_BONDS.csv'
+請逐項檢查列表中的元素是否正確
+[]
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/CFTC/CFTC_optimized_2.py", line 329, in <module>
+    print(b)
+NameError: name 'b' is not defined
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/CFTC/CFTC_optimized.py", line 198, in <module>
+    cftcs_f_year = pd.read_csv(n)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/util/_decorators.py", line 311, in wrapper
+    return func(*args, **kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/io/parsers/readers.py", line 586, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/io/parsers/readers.py", line 482, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/io/parsers/readers.py", line 811, in __init__
+    self._engine = self._make_engine(self.engine)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/io/parsers/readers.py", line 1040, in _make_engine
+    return mapping[engine](self.f, **self.options)  # type: ignore[call-arg]
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/io/parsers/c_parser_wrapper.py", line 51, in __init__
+    self._open_handles(src, kwds)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/io/parsers/base_parser.py", line 229, in _open_handles
+    errors=kwds.get("encoding_errors", "strict"),
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/io/common.py", line 707, in get_handle
+    newline="",
+FileNotFoundError: [Errno 2] No such file or directory: 'cftcs_f_year_gold.csv'
+cftcs_annual_AUD.csv
+cftcs_annual_BP.csv
+cftcs_annual_CAD.csv
+cftcs_annual_copper.csv
+cftcs_annual_corn.csv
+cftcs_annual_DJ.csv
+cftcs_annual_EUD.csv
+cftcs_annual_fiveYEAR_US_TREASURY_NOTES.csv
+cftcs_annual_gasoline.csv
+cftcs_annual_gold.csv
+cftcs_annual_hot_fuel.csv
+cftcs_annual_JPY.csv
+cftcs_annual_light_crude_oil.csv
+cftcs_annual_LONG_TERM_US_TREASURY_BONDS.csv
+cftcs_annual_mini_sp.csv
+cftcs_annual_NASDAQ.csv
+cftcs_annual_natural_gas.csv
+cftcs_annual_NZD.csv
+cftcs_annual_palladium.csv
+cftcs_annual_platinum.csv
+cftcs_annual_SF.csv
+cftcs_annual_silver.csv
+cftcs_annual_soybean.csv
+cftcs_annual_soybean_flour.csv
+cftcs_annual_soybean_oil.csv
+cftcs_annual_tenYEAR_US_TREASURY_NOTES.csv
+cftcs_annual_thirtyDAY_FEDERAL_FUNDS.csv
+cftcs_annual_threeMONTH_EURODOLLARS.csv
+cftcs_annual_twoYEAR_US_TREASURY_NOTES.csv
+cftcs_annual_USD.csv
+cftcs_annual_US_TREASURY_BONDS.csv
+cftcs_annual_wheat.csv
+cftcs_FinFutYY_AUD.csv
+cftcs_FinFutYY_BP.csv
+cftcs_FinFutYY_CAD.csv
+cftcs_FinFutYY_DJ.csv
+cftcs_FinFutYY_EUD.csv
+cftcs_FinFutYY_fiveYEAR_US_TREASURY_NOTES.csv
+cftcs_FinFutYY_JPY.csv
+cftcs_FinFutYY_LONG_TERM_US_TREASURY_BONDS.csv
+cftcs_FinFutYY_mini_sp.csv
+cftcs_FinFutYY_NASDAQ.csv
+cftcs_FinFutYY_NZD.csv
+cftcs_FinFutYY_SF.csv
+cftcs_FinFutYY_tenYEAR_US_TREASURY_NOTES.csv
+cftcs_FinFutYY_thirtyDAY_FEDERAL_FUNDS.csv
+cftcs_FinFutYY_threeMONTH_EURODOLLARS.csv
+cftcs_FinFutYY_twoYEAR_US_TREASURY_NOTES.csv
+cftcs_FinFutYY_USD.csv
+cftcs_FinFutYY_US_TREASURY_BONDS.csv
+cftcs_f_year_copper.csv
+cftcs_f_year_corn.csv
+cftcs_f_year_gasoline.csv
+cftcs_f_year_gold.csv
+cftcs_f_year_hot_fuel.csv
+cftcs_f_year_light_crude_oil.csv
+cftcs_f_year_natural_gas.csv
+cftcs_f_year_palladium.csv
+cftcs_f_year_platinum.csv
+cftcs_f_year_silver.csv
+cftcs_f_year_soybean.csv
+cftcs_f_year_soybean_flour.csv
+cftcs_f_year_soybean_oil.csv
+cftcs_f_year_wheat.csv
+CFTC_test2.json
+CFTC_test.json
+cp2.log
+cp.log
+FinFutYY.xls
+f_year.xls
+rawdata
+rawdata2
