@@ -15901,3 +15901,92 @@ CREATE TABLE cme_1percent_ec (
 15  16      輕原油     35.0   1.18  ...  47.9452  52.0548     2.18    -2.96
 
 [16 rows x 12 columns]
+  0%|          | 0/16 [00:00<?, ?it/s]  6%|▋         | 1/16 [00:00<00:04,  3.62it/s] 12%|█▎        | 2/16 [00:00<00:03,  3.77it/s] 19%|█▉        | 3/16 [00:00<00:03,  3.76it/s] 25%|██▌       | 4/16 [00:01<00:03,  3.81it/s] 31%|███▏      | 5/16 [00:01<00:02,  3.86it/s] 38%|███▊      | 6/16 [00:01<00:02,  3.99it/s] 44%|████▍     | 7/16 [00:01<00:02,  4.06it/s] 50%|█████     | 8/16 [00:01<00:01,  4.12it/s] 56%|█████▋    | 9/16 [00:02<00:01,  4.17it/s] 62%|██████▎   | 10/16 [00:02<00:01,  4.23it/s] 69%|██████▉   | 11/16 [00:02<00:01,  4.22it/s] 75%|███████▌  | 12/16 [00:02<00:00,  4.22it/s] 81%|████████▏ | 13/16 [00:03<00:00,  4.17it/s] 81%|████████▏ | 13/16 [00:03<00:00,  3.91it/s]
+Traceback (most recent call last):
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1226, in _execute_context
+    cursor, statement, parameters, context
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/dialects/mysql/mysqldb.py", line 148, in do_executemany
+    rowcount = cursor.executemany(statement, parameters)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/cursors.py", line 179, in executemany
+    self._get_db().encoding,
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/cursors.py", line 211, in _do_execute_many
+    rows += self.execute(sql + postfix)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1146, "Table 'webaiuse.cme_1percent_gc' doesn't exist")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/CME_1percent_MySQL.py", line 89, in <module>
+    df_from_dict.to_sql('cme_'+str(1)+'percent_'+tablename, engine2, if_exists = 'replace',index=False)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/generic.py", line 2882, in to_sql
+    method=method,
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 728, in to_sql
+    **engine_kwargs,
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1770, in to_sql
+    **engine_kwargs,
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1350, in insert_records
+    raise err
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1340, in insert_records
+    table.insert(chunksize=chunksize, method=method)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 967, in insert
+    exec_insert(conn, keys, chunk_iter)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 882, in _execute_insert
+    conn.execute(self.table.insert(), data)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 982, in execute
+    return meth(self, multiparams, params)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/sql/elements.py", line 293, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1101, in _execute_clauseelement
+    distilled_params,
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1250, in _execute_context
+    e, statement, parameters, cursor, context
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1476, in _handle_dbapi_exception
+    util.raise_from_cause(sqlalchemy_exception, exc_info)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 398, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 152, in reraise
+    raise value.with_traceback(tb)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1226, in _execute_context
+    cursor, statement, parameters, context
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/dialects/mysql/mysqldb.py", line 148, in do_executemany
+    rowcount = cursor.executemany(statement, parameters)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/cursors.py", line 179, in executemany
+    self._get_db().encoding,
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/cursors.py", line 211, in _do_execute_many
+    rows += self.execute(sql + postfix)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+sqlalchemy.exc.ProgrammingError: (pymysql.err.ProgrammingError) (1146, "Table 'webaiuse.cme_1percent_gc' doesn't exist")
+[SQL: INSERT INTO cme_1percent_gc (`Date`, con_p, diff, diff_p, id) VALUES (%(Date)s, %(con_p)s, %(diff)s, %(diff_p)s, %(id)s)]
+[parameters: ({'Date': 20230823.0, 'con_p': 1.15, 'diff': -1.0, 'diff_p': -0.05, 'id': 1}, {'Date': 20231009.0, 'con_p': 1.04, 'diff': 11.0, 'diff_p': 0.59, 'id': 33}, {'Date': 20231116.0, 'con_p': 1.17, 'diff': -2.6, 'diff_p': -0.13, 'id': 60}, {'Date': 20231121.0, 'con_p': 1.08, 'diff': -8.8, 'diff_p': -0.44, 'id': 63}, {'Date': 20231201.0, 'con_p': 1.58, 'diff': -47.5, 'diff_p': -2.27, 'id': 70}, {'Date': 20231227.0, 'con_p': 1.13, 'diff': -9.6, 'diff_p': -0.46, 'id': 87}, {'Date': 20240112.0, 'con_p': 1.6, 'diff': -21.4, 'diff_p': -1.04, 'id': 98}, {'Date': 20240129.0, 'con_p': 1.35, 'diff': 6.3, 'diff_p': 0.31, 'id': 108}  ... displaying 10 of 77 total bound parameter sets ...  {'Date': 20250829.0, 'con_p': 1.2, 'diff': 46.8, 'diff_p': 1.33, 'id': 499}, {'Date': 20250902.0, 'con_p': 1.33, 'diff': 72.6, 'diff_p': 2.04, 'id': 500})]
+(Background on this error at: http://sqlalche.me/e/f405)
