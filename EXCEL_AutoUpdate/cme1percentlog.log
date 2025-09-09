@@ -15990,3 +15990,111 @@ sqlalchemy.exc.ProgrammingError: (pymysql.err.ProgrammingError) (1146, "Table 'w
 [SQL: INSERT INTO cme_1percent_gc (`Date`, con_p, diff, diff_p, id) VALUES (%(Date)s, %(con_p)s, %(diff)s, %(diff_p)s, %(id)s)]
 [parameters: ({'Date': 20230823.0, 'con_p': 1.15, 'diff': -1.0, 'diff_p': -0.05, 'id': 1}, {'Date': 20231009.0, 'con_p': 1.04, 'diff': 11.0, 'diff_p': 0.59, 'id': 33}, {'Date': 20231116.0, 'con_p': 1.17, 'diff': -2.6, 'diff_p': -0.13, 'id': 60}, {'Date': 20231121.0, 'con_p': 1.08, 'diff': -8.8, 'diff_p': -0.44, 'id': 63}, {'Date': 20231201.0, 'con_p': 1.58, 'diff': -47.5, 'diff_p': -2.27, 'id': 70}, {'Date': 20231227.0, 'con_p': 1.13, 'diff': -9.6, 'diff_p': -0.46, 'id': 87}, {'Date': 20240112.0, 'con_p': 1.6, 'diff': -21.4, 'diff_p': -1.04, 'id': 98}, {'Date': 20240129.0, 'con_p': 1.35, 'diff': 6.3, 'diff_p': 0.31, 'id': 108}  ... displaying 10 of 77 total bound parameter sets ...  {'Date': 20250829.0, 'con_p': 1.2, 'diff': 46.8, 'diff_p': 1.33, 'id': 499}, {'Date': 20250902.0, 'con_p': 1.33, 'diff': 72.6, 'diff_p': 2.04, 'id': 500})]
 (Background on this error at: http://sqlalche.me/e/f405)
+  0%|          | 0/16 [00:00<?, ?it/s]  6%|▋         | 1/16 [00:00<00:04,  3.74it/s] 12%|█▎        | 2/16 [00:00<00:03,  3.86it/s] 19%|█▉        | 3/16 [00:00<00:03,  3.83it/s] 25%|██▌       | 4/16 [00:01<00:03,  3.90it/s] 31%|███▏      | 5/16 [00:01<00:02,  4.05it/s] 38%|███▊      | 6/16 [00:01<00:02,  4.13it/s] 44%|████▍     | 7/16 [00:01<00:02,  4.21it/s] 50%|█████     | 8/16 [00:01<00:01,  4.22it/s] 56%|█████▋    | 9/16 [00:02<00:01,  4.33it/s] 62%|██████▎   | 10/16 [00:02<00:01,  4.35it/s] 69%|██████▉   | 11/16 [00:02<00:01,  4.23it/s] 75%|███████▌  | 12/16 [00:02<00:00,  4.19it/s] 81%|████████▏ | 13/16 [00:03<00:00,  4.18it/s] 88%|████████▊ | 14/16 [00:03<00:00,  4.12it/s] 94%|█████████▍| 15/16 [00:03<00:00,  4.11it/s]100%|██████████| 16/16 [00:03<00:00,  4.10it/s]100%|██████████| 16/16 [00:03<00:00,  4.15it/s]
+    id mod_name  p_count  p_avg  ...    p_win    n_win  p_maxpt  n_maxpt
+0    1    微型S&P     29.0   0.61  ...  58.0000  42.0000   146.00  -105.00
+1    2   NASDAQ     44.0   0.68  ...  57.8947  42.1053   552.25  -616.50
+2    3      台指期     35.0   0.76  ...  58.3333  41.6667   439.00 -1120.00
+3    4     小型道瓊     26.0   0.60  ...  60.4651  39.5349  1520.00  -642.00
+4    5       澳幣      7.0   0.23  ...  46.6667  53.3333     0.00    -0.01
+5    6       英鎊      4.0   0.31  ...  50.0000  50.0000     0.01    -0.01
+6    7       加幣      2.0   0.46  ...  40.0000  60.0000     0.00    -0.01
+7    8       歐元      5.0   0.69  ...  55.5556  44.4444     0.02    -0.01
+8    9       日圓     11.0   0.54  ...  52.3810  47.6190   840.00  -890.00
+9   10     瑞士法郎      8.0   0.73  ...  66.6667  33.3333     0.03    -0.02
+10  11       玉米     36.0   0.79  ...  48.6486  51.3514     8.25   -16.25
+11  12       黃豆     29.0   0.90  ...  50.8772  49.1228    33.75   -57.25
+12  13       小麥     34.0   1.10  ...  51.5152  48.4848    29.25   -20.50
+13  14       黃金     40.0   0.78  ...  51.9481  48.0519    72.60  -116.00
+14  15       白銀     33.0   1.49  ...  41.7722  58.2278     1.65    -1.60
+15  16      輕原油     35.0   1.18  ...  47.9452  52.0548     2.18    -2.96
+
+[16 rows x 12 columns]
+Traceback (most recent call last):
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1226, in _execute_context
+    cursor, statement, parameters, context
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/dialects/mysql/mysqldb.py", line 148, in do_executemany
+    rowcount = cursor.executemany(statement, parameters)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/cursors.py", line 179, in executemany
+    self._get_db().encoding,
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/cursors.py", line 211, in _do_execute_many
+    rows += self.execute(sql + postfix)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1146, "Table 'webaiuse.cme_1percent' doesn't exist")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/CME_1percent_MySQL.py", line 123, in <module>
+    df.to_sql('cme_'+str(1)+'percent', engine2, if_exists = 'replace',index=False)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/generic.py", line 2882, in to_sql
+    method=method,
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 728, in to_sql
+    **engine_kwargs,
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1770, in to_sql
+    **engine_kwargs,
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1350, in insert_records
+    raise err
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 1340, in insert_records
+    table.insert(chunksize=chunksize, method=method)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 967, in insert
+    exec_insert(conn, keys, chunk_iter)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py", line 882, in _execute_insert
+    conn.execute(self.table.insert(), data)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 982, in execute
+    return meth(self, multiparams, params)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/sql/elements.py", line 293, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1101, in _execute_clauseelement
+    distilled_params,
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1250, in _execute_context
+    e, statement, parameters, cursor, context
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1476, in _handle_dbapi_exception
+    util.raise_from_cause(sqlalchemy_exception, exc_info)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 398, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/util/compat.py", line 152, in reraise
+    raise value.with_traceback(tb)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/base.py", line 1226, in _execute_context
+    cursor, statement, parameters, context
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/sqlalchemy/dialects/mysql/mysqldb.py", line 148, in do_executemany
+    rowcount = cursor.executemany(statement, parameters)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/cursors.py", line 179, in executemany
+    self._get_db().encoding,
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/cursors.py", line 211, in _do_execute_many
+    rows += self.execute(sql + postfix)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+sqlalchemy.exc.ProgrammingError: (pymysql.err.ProgrammingError) (1146, "Table 'webaiuse.cme_1percent' doesn't exist")
+[SQL: INSERT INTO cme_1percent (id, mod_name, p_count, p_avg, p_max, n_count, n_avg, n_min, p_win, n_win, p_maxpt, n_maxpt) VALUES (%(id)s, %(mod_name)s, %(p_count)s, %(p_avg)s, %(p_max)s, %(n_count)s, %(n_avg)s, %(n_min)s, %(p_win)s, %(n_win)s, %(p_maxpt)s, %(n_maxpt)s)]
+[parameters: ({'id': 1, 'mod_name': '微型S&P', 'p_count': 29.0, 'p_avg': 0.61, 'p_max': 2.51, 'n_count': 21.0, 'n_avg': -0.46, 'n_min': -1.79, 'p_win': 58.0, 'n_win': 42.0, 'p_maxpt': 146.0, 'n_maxpt': -105.0}, {'id': 2, 'mod_name': 'NASDAQ', 'p_count': 44.0, 'p_avg': 0.68, 'p_max': 2.71, 'n_count': 32.0, 'n_avg': -0.85, 'n_min': -3.14, 'p_win': 57.8947, 'n_win': 42.1053, 'p_maxpt': 552.25, 'n_maxpt': -616.5}, {'id': 3, 'mod_name': '台指期', 'p_count': 35.0, 'p_avg': 0.76, 'p_max': 1.93, 'n_count': 25.0, 'n_avg': -0.92, 'n_min': -4.94, 'p_win': 58.3333, 'n_win': 41.6667, 'p_maxpt': 439.0, 'n_maxpt': -1120.0}, {'id': 4, 'mod_name': '小型道瓊', 'p_count': 26.0, 'p_avg': 0.6, 'p_max': 3.59, 'n_count': 17.0, 'n_avg': -0.36, 'n_min': -1.46, 'p_win': 60.4651, 'n_win': 39.5349, 'p_maxpt': 1520.0, 'n_maxpt': -642.0}, {'id': 5, 'mod_name': '澳幣', 'p_count': 7.0, 'p_avg': 0.23, 'p_max': 0.47, 'n_count': 8.0, 'n_avg': -0.53, 'n_min': -1.33, 'p_win': 46.6667, 'n_win': 53.3333, 'p_maxpt': 0.0, 'n_maxpt': -0.01}, {'id': 6, 'mod_name': '英鎊', 'p_count': 4.0, 'p_avg': 0.31, 'p_max': 0.6, 'n_count': 4.0, 'n_avg': -0.34, 'n_min': -0.66, 'p_win': 50.0, 'n_win': 50.0, 'p_maxpt': 0.01, 'n_maxpt': -0.01}, {'id': 7, 'mod_name': '加幣', 'p_count': 2.0, 'p_avg': 0.46, 'p_max': 0.68, 'n_count': 3.0, 'n_avg': -0.57, 'n_min': -1.09, 'p_win': 40.0, 'n_win': 60.0, 'p_maxpt': 0.0, 'n_maxpt': -0.01}, {'id': 8, 'mod_name': '歐元', 'p_count': 5.0, 'p_avg': 0.69, 'p_max': 1.78, 'n_count': 4.0, 'n_avg': -0.53, 'n_min': -0.84, 'p_win': 55.5556, 'n_win': 44.4444, 'p_maxpt': 0.02, 'n_maxpt': -0.01}  ... displaying 10 of 16 total bound parameter sets ...  {'id': 15, 'mod_name': '白銀', 'p_count': 33.0, 'p_avg': 1.49, 'p_max': 4.42, 'n_count': 46.0, 'n_avg': -1.34, 'n_min': -5.54, 'p_win': 41.7722, 'n_win': 58.2278, 'p_maxpt': 1.65, 'n_maxpt': -1.6}, {'id': 16, 'mod_name': '輕原油', 'p_count': 35.0, 'p_avg': 1.18, 'p_max': 3.53, 'n_count': 38.0, 'n_avg': -1.27, 'n_min': -4.31, 'p_win': 47.9452, 'n_win': 52.0548, 'p_maxpt': 2.18, 'n_maxpt': -2.96})]
+(Background on this error at: http://sqlalche.me/e/f405)
