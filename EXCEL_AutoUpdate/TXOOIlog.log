@@ -21231,3 +21231,10 @@ Traceback (most recent call last):
   File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
     lower=math.floor(generator_df.iloc[0][0]/100-9)*100
 TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2025-09-25 17:30:03.747102
+today:20250925
+queryday:20250924
+enddate:2025-09-17
+202510
+  Twseclose
+0      None
