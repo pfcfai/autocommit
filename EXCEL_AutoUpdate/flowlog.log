@@ -1154,3 +1154,22 @@ Traceback (most recent call last):
   File "/home/targets/anaconda3/lib/python3.7/site-packages/mysql/connector/connection_cext.py", line 298, in _open_connection
     ) from err
 mysql.connector.errors.DatabaseError: 2003 (HY000): Can't connect to MySQL server on '103.17.9.213:3306' (110)
+Traceback (most recent call last):
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/mysql/connector/connection_cext.py", line 291, in _open_connection
+    self._cmysql.connect(**cnx_kwargs)
+_mysql_connector.MySQLInterfaceError: Can't connect to MySQL server on '103.17.9.213:3306' (110)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/EXCEL_visualize_research-cmoney資金流熱力圖.py", line 17, in <module>
+    database="webaiuse"
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/mysql/connector/pooling.py", line 293, in connect
+    return CMySQLConnection(*args, **kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/mysql/connector/connection_cext.py", line 120, in __init__
+    self.connect(**kwargs)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/mysql/connector/abstracts.py", line 1181, in connect
+    self._open_connection()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/mysql/connector/connection_cext.py", line 298, in _open_connection
+    ) from err
+mysql.connector.errors.DatabaseError: 2003 (HY000): Can't connect to MySQL server on '103.17.9.213:3306' (110)
