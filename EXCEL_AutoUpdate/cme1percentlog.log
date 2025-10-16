@@ -16830,3 +16830,22 @@ Traceback (most recent call last):
   File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
     raise exc
 pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '103.17.9.213' (timed out)")
+Traceback (most recent call last):
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 614, in connect
+    (self.host, self.port), self.connect_timeout, **kwargs
+  File "/home/targets/anaconda3/lib/python3.7/socket.py", line 728, in create_connection
+    raise err
+  File "/home/targets/anaconda3/lib/python3.7/socket.py", line 716, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/CME_1percent_MySQL.py", line 26, in <module>
+    charset='utf8',
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '103.17.9.213' (timed out)")
