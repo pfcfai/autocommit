@@ -946,3 +946,318 @@ done
 
 [797 rows x 8 columns]
 done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      AO       NaN  ...      NaN  2025-11-02 00:00:00      
+1       NaN      BR       NaN  ...      NaN  2025-11-02 00:00:00      
+2       NaN      MU       NaN  ...      NaN  2025-11-02 00:00:00      
+3       NaN      NO       NaN  ...     49.9  2025-11-02 09:00:00      
+4       5.5      IL      -9.8  ...     10.5  2025-11-02 11:00:00     %
+..      ...     ...       ...  ...      ...                  ...   ...
+792     NaN      NZ       NaN  ...      7.5  2025-11-12 21:45:00     %
+793     NaN      JP       NaN  ...      NaN  2025-11-12 23:50:00      
+794     NaN      JP       NaN  ...      0.3  2025-11-12 23:50:00     %
+795     NaN      JP       NaN  ...      2.7  2025-11-12 23:50:00     %
+796     NaN      JP       NaN  ...      NaN  2025-11-12 23:50:00      
+
+[797 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      AO       NaN  ...      NaN  2025-11-02 00:00:00      
+1       NaN      BR       NaN  ...      NaN  2025-11-02 00:00:00      
+2       NaN      MU       NaN  ...      NaN  2025-11-02 00:00:00      
+3       NaN      NO       NaN  ...     49.9  2025-11-02 09:00:00      
+4       5.5      IL      -9.8  ...     10.5  2025-11-02 11:00:00     %
+..      ...     ...       ...  ...      ...                  ...   ...
+795     NaN      NZ       NaN  ...      7.5  2025-11-12 21:45:00     %
+796     NaN      JP       NaN  ...      NaN  2025-11-12 23:50:00      
+797     NaN      JP       NaN  ...      0.3  2025-11-12 23:50:00     %
+798     NaN      JP       NaN  ...      2.7  2025-11-12 23:50:00     %
+799     NaN      JP       NaN  ...      NaN  2025-11-12 23:50:00      
+
+[800 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      AO       NaN  ...      NaN  2025-11-02 00:00:00      
+1       NaN      BR       NaN  ...      NaN  2025-11-02 00:00:00      
+2       NaN      MU       NaN  ...      NaN  2025-11-02 00:00:00      
+3       NaN      NO       NaN  ...     49.9  2025-11-02 09:00:00      
+4       5.5      IL      -9.8  ...     10.5  2025-11-02 11:00:00     %
+..      ...     ...       ...  ...      ...                  ...   ...
+795     NaN      NZ       NaN  ...      7.5  2025-11-12 21:45:00     %
+796     NaN      JP       NaN  ...      NaN  2025-11-12 23:50:00      
+797     NaN      JP       NaN  ...      0.3  2025-11-12 23:50:00     %
+798     NaN      JP       NaN  ...      2.7  2025-11-12 23:50:00     %
+799     NaN      JP       NaN  ...      NaN  2025-11-12 23:50:00      
+
+[800 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      AO       NaN  ...      NaN  2025-11-02 00:00:00      
+1       NaN      BR       NaN  ...      NaN  2025-11-02 00:00:00      
+2       NaN      MU       NaN  ...      NaN  2025-11-02 00:00:00      
+3       NaN      NO       NaN  ...     49.9  2025-11-02 09:00:00      
+4       5.5      IL      -9.8  ...     10.5  2025-11-02 11:00:00     %
+..      ...     ...       ...  ...      ...                  ...   ...
+795     NaN      NZ       NaN  ...      7.5  2025-11-12 21:45:00     %
+796     NaN      JP       NaN  ...      NaN  2025-11-12 23:50:00      
+797     NaN      JP       NaN  ...      0.3  2025-11-12 23:50:00     %
+798     NaN      JP       NaN  ...      2.7  2025-11-12 23:50:00     %
+799     NaN      JP       NaN  ...      NaN  2025-11-12 23:50:00      
+
+[800 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      AO       NaN  ...      NaN  2025-11-02 00:00:00      
+1       NaN      BR       NaN  ...      NaN  2025-11-02 00:00:00      
+2       NaN      MU       NaN  ...      NaN  2025-11-02 00:00:00      
+3       NaN      NO       NaN  ...     49.9  2025-11-02 09:00:00      
+4       5.5      IL      -9.8  ...     10.5  2025-11-02 11:00:00     %
+..      ...     ...       ...  ...      ...                  ...   ...
+795     NaN      NZ       NaN  ...      7.5  2025-11-12 21:45:00     %
+796     NaN      JP       NaN  ...      NaN  2025-11-12 23:50:00      
+797     NaN      JP       NaN  ...      0.3  2025-11-12 23:50:00     %
+798     NaN      JP       NaN  ...      2.7  2025-11-12 23:50:00     %
+799     NaN      JP       NaN  ...      NaN  2025-11-12 23:50:00      
+
+[800 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      AO       NaN  ...      NaN  2025-11-02 00:00:00      
+1       NaN      BR       NaN  ...      NaN  2025-11-02 00:00:00      
+2       NaN      MU       NaN  ...      NaN  2025-11-02 00:00:00      
+3       NaN      NO       NaN  ...     49.9  2025-11-02 09:00:00      
+4       5.5      IL      -9.8  ...     10.5  2025-11-02 11:00:00     %
+..      ...     ...       ...  ...      ...                  ...   ...
+795     NaN      NZ       NaN  ...      7.5  2025-11-12 21:45:00     %
+796     NaN      JP       NaN  ...      NaN  2025-11-12 23:50:00      
+797     NaN      JP       NaN  ...      0.3  2025-11-12 23:50:00     %
+798     NaN      JP       NaN  ...      2.7  2025-11-12 23:50:00     %
+799     NaN      JP       NaN  ...      NaN  2025-11-12 23:50:00      
+
+[800 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      AO       NaN  ...      NaN  2025-11-02 00:00:00      
+1       NaN      BR       NaN  ...      NaN  2025-11-02 00:00:00      
+2       NaN      MU       NaN  ...      NaN  2025-11-02 00:00:00      
+3       NaN      NO       NaN  ...     49.9  2025-11-02 09:00:00      
+4       5.5      IL      -9.8  ...     10.5  2025-11-02 11:00:00     %
+..      ...     ...       ...  ...      ...                  ...   ...
+797     NaN      NZ       NaN  ...      7.5  2025-11-12 21:45:00     %
+798     NaN      JP       NaN  ...      NaN  2025-11-12 23:50:00      
+799     NaN      JP       NaN  ...      0.3  2025-11-12 23:50:00     %
+800     NaN      JP       NaN  ...      2.7  2025-11-12 23:50:00     %
+801     NaN      JP       NaN  ...      NaN  2025-11-12 23:50:00      
+
+[802 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      AO       NaN  ...      NaN  2025-11-02 00:00:00      
+1       NaN      BR       NaN  ...      NaN  2025-11-02 00:00:00      
+2       NaN      MU       NaN  ...      NaN  2025-11-02 00:00:00      
+3       NaN      NO       NaN  ...     49.9  2025-11-02 09:00:00      
+4       5.5      IL      -9.8  ...     10.5  2025-11-02 11:00:00     %
+..      ...     ...       ...  ...      ...                  ...   ...
+797     NaN      NZ       NaN  ...      7.5  2025-11-12 21:45:00     %
+798     NaN      JP       NaN  ...      NaN  2025-11-12 23:50:00      
+799     NaN      JP       NaN  ...      0.3  2025-11-12 23:50:00     %
+800     NaN      JP       NaN  ...      2.7  2025-11-12 23:50:00     %
+801     NaN      JP       NaN  ...      NaN  2025-11-12 23:50:00      
+
+[802 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      AO       NaN  ...      NaN  2025-11-02 00:00:00      
+1       NaN      BR       NaN  ...      NaN  2025-11-02 00:00:00      
+2       NaN      MU       NaN  ...      NaN  2025-11-02 00:00:00      
+3       NaN      NO       NaN  ...     49.9  2025-11-02 09:00:00      
+4       5.5      IL      -9.8  ...     10.5  2025-11-02 11:00:00     %
+..      ...     ...       ...  ...      ...                  ...   ...
+797     NaN      NZ       NaN  ...      7.5  2025-11-12 21:45:00     %
+798     NaN      JP       NaN  ...      NaN  2025-11-12 23:50:00      
+799     NaN      JP       NaN  ...      0.3  2025-11-12 23:50:00     %
+800     NaN      JP       NaN  ...      2.7  2025-11-12 23:50:00     %
+801     NaN      JP       NaN  ...      NaN  2025-11-12 23:50:00      
+
+[802 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      AO       NaN  ...      NaN  2025-11-02 00:00:00      
+1       NaN      BR       NaN  ...      NaN  2025-11-02 00:00:00      
+2       NaN      MU       NaN  ...      NaN  2025-11-02 00:00:00      
+3       NaN      NO       NaN  ...     49.9  2025-11-02 09:00:00      
+4       5.5      IL      -9.8  ...     10.5  2025-11-02 11:00:00     %
+..      ...     ...       ...  ...      ...                  ...   ...
+798     NaN      NZ       NaN  ...      7.5  2025-11-12 21:45:00     %
+799     NaN      JP       NaN  ...      NaN  2025-11-12 23:50:00      
+800     NaN      JP       NaN  ...      0.3  2025-11-12 23:50:00     %
+801     NaN      JP       NaN  ...      2.7  2025-11-12 23:50:00     %
+802     NaN      JP       NaN  ...      NaN  2025-11-12 23:50:00      
+
+[803 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      AO       NaN  ...      NaN  2025-11-02 00:00:00      
+1       NaN      BR       NaN  ...      NaN  2025-11-02 00:00:00      
+2       NaN      MU       NaN  ...      NaN  2025-11-02 00:00:00      
+3       NaN      NO       NaN  ...     49.9  2025-11-02 09:00:00      
+4       5.5      IL      -9.8  ...     10.5  2025-11-02 11:00:00     %
+..      ...     ...       ...  ...      ...                  ...   ...
+798     NaN      NZ       NaN  ...      7.5  2025-11-12 21:45:00     %
+799     NaN      JP       NaN  ...      NaN  2025-11-12 23:50:00      
+800     NaN      JP       NaN  ...      0.3  2025-11-12 23:50:00     %
+801     NaN      JP       NaN  ...      2.7  2025-11-12 23:50:00     %
+802     NaN      JP       NaN  ...      NaN  2025-11-12 23:50:00      
+
+[803 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      AO       NaN  ...      NaN  2025-11-02 00:00:00      
+1       NaN      BR       NaN  ...      NaN  2025-11-02 00:00:00      
+2       NaN      MU       NaN  ...      NaN  2025-11-02 00:00:00      
+3       NaN      NO       NaN  ...     49.9  2025-11-02 09:00:00      
+4       5.5      IL      -9.8  ...     10.5  2025-11-02 11:00:00     %
+..      ...     ...       ...  ...      ...                  ...   ...
+798     NaN      NZ       NaN  ...      7.5  2025-11-12 21:45:00     %
+799     NaN      JP       NaN  ...      NaN  2025-11-12 23:50:00      
+800     NaN      JP       NaN  ...      0.3  2025-11-12 23:50:00     %
+801     NaN      JP       NaN  ...      2.7  2025-11-12 23:50:00     %
+802     NaN      JP       NaN  ...      NaN  2025-11-12 23:50:00      
+
+[803 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      AO       NaN  ...      NaN  2025-11-02 00:00:00      
+1       NaN      BR       NaN  ...      NaN  2025-11-02 00:00:00      
+2       NaN      MU       NaN  ...      NaN  2025-11-02 00:00:00      
+3       NaN      NO       NaN  ...     49.9  2025-11-02 09:00:00      
+4       5.5      IL      -9.8  ...     10.5  2025-11-02 11:00:00     %
+..      ...     ...       ...  ...      ...                  ...   ...
+798     NaN      NZ       NaN  ...      7.5  2025-11-12 21:45:00     %
+799     NaN      JP       NaN  ...      NaN  2025-11-12 23:50:00      
+800     NaN      JP       NaN  ...      0.3  2025-11-12 23:50:00     %
+801     NaN      JP       NaN  ...      2.7  2025-11-12 23:50:00     %
+802     NaN      JP       NaN  ...      NaN  2025-11-12 23:50:00      
+
+[803 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      AO       NaN  ...      NaN  2025-11-02 00:00:00      
+1       NaN      BR       NaN  ...      NaN  2025-11-02 00:00:00      
+2       NaN      MU       NaN  ...      NaN  2025-11-02 00:00:00      
+3       NaN      NO       NaN  ...     49.9  2025-11-02 09:00:00      
+4       5.5      IL      -9.8  ...     10.5  2025-11-02 11:00:00     %
+..      ...     ...       ...  ...      ...                  ...   ...
+798     NaN      NZ       NaN  ...      7.5  2025-11-12 21:45:00     %
+799     NaN      JP       NaN  ...      NaN  2025-11-12 23:50:00      
+800     NaN      JP       NaN  ...      0.3  2025-11-12 23:50:00     %
+801     NaN      JP       NaN  ...      2.7  2025-11-12 23:50:00     %
+802     NaN      JP       NaN  ...      NaN  2025-11-12 23:50:00      
+
+[803 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      AO       NaN  ...      NaN  2025-11-02 00:00:00      
+1       NaN      BR       NaN  ...      NaN  2025-11-02 00:00:00      
+2       NaN      MU       NaN  ...      NaN  2025-11-02 00:00:00      
+3       NaN      NO       NaN  ...     49.9  2025-11-02 09:00:00      
+4       5.5      IL      -9.8  ...     10.5  2025-11-02 11:00:00     %
+..      ...     ...       ...  ...      ...                  ...   ...
+798     NaN      NZ       NaN  ...      7.5  2025-11-12 21:45:00     %
+799     NaN      JP       NaN  ...      NaN  2025-11-12 23:50:00      
+800     NaN      JP       NaN  ...      0.3  2025-11-12 23:50:00     %
+801     NaN      JP       NaN  ...      2.7  2025-11-12 23:50:00     %
+802     NaN      JP       NaN  ...      NaN  2025-11-12 23:50:00      
+
+[803 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      AO       NaN  ...      NaN  2025-11-02 00:00:00      
+1       NaN      BR       NaN  ...      NaN  2025-11-02 00:00:00      
+2       NaN      MU       NaN  ...      NaN  2025-11-02 00:00:00      
+3       NaN      NO       NaN  ...     49.9  2025-11-02 09:00:00      
+4       5.5      IL      -9.8  ...     10.5  2025-11-02 11:00:00     %
+..      ...     ...       ...  ...      ...                  ...   ...
+798     NaN      NZ       NaN  ...      7.5  2025-11-12 21:45:00     %
+799     NaN      JP       NaN  ...      NaN  2025-11-12 23:50:00      
+800     NaN      JP       NaN  ...      0.3  2025-11-12 23:50:00     %
+801     NaN      JP       NaN  ...      2.7  2025-11-12 23:50:00     %
+802     NaN      JP       NaN  ...      NaN  2025-11-12 23:50:00      
+
+[803 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      AO       NaN  ...      NaN  2025-11-02 00:00:00      
+1       NaN      BR       NaN  ...      NaN  2025-11-02 00:00:00      
+2       NaN      MU       NaN  ...      NaN  2025-11-02 00:00:00      
+3       NaN      NO       NaN  ...     49.9  2025-11-02 09:00:00      
+4       5.5      IL      -9.8  ...     10.5  2025-11-02 11:00:00     %
+..      ...     ...       ...  ...      ...                  ...   ...
+798     NaN      NZ       NaN  ...      7.5  2025-11-12 21:45:00     %
+799     NaN      JP       NaN  ...      NaN  2025-11-12 23:50:00      
+800     NaN      JP       NaN  ...      0.3  2025-11-12 23:50:00     %
+801     NaN      JP       NaN  ...      2.7  2025-11-12 23:50:00     %
+802     NaN      JP       NaN  ...      NaN  2025-11-12 23:50:00      
+
+[803 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      AO       NaN  ...      NaN  2025-11-02 00:00:00      
+1       NaN      BR       NaN  ...      NaN  2025-11-02 00:00:00      
+2       NaN      MU       NaN  ...      NaN  2025-11-02 00:00:00      
+3       NaN      NO       NaN  ...     49.9  2025-11-02 09:00:00      
+4       5.5      IL      -9.8  ...     10.5  2025-11-02 11:00:00     %
+..      ...     ...       ...  ...      ...                  ...   ...
+800     NaN      NZ       NaN  ...      7.5  2025-11-12 21:45:00     %
+801     NaN      JP       NaN  ...      NaN  2025-11-12 23:50:00      
+802     NaN      JP       NaN  ...      0.3  2025-11-12 23:50:00     %
+803     NaN      JP       NaN  ...      2.7  2025-11-12 23:50:00     %
+804     NaN      JP       NaN  ...      NaN  2025-11-12 23:50:00      
+
+[805 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      AO       NaN  ...      NaN  2025-11-02 00:00:00      
+1       NaN      BR       NaN  ...      NaN  2025-11-02 00:00:00      
+2       NaN      MU       NaN  ...      NaN  2025-11-02 00:00:00      
+3       NaN      NO       NaN  ...     49.9  2025-11-02 09:00:00      
+4       5.5      IL      -9.8  ...     10.5  2025-11-02 11:00:00     %
+..      ...     ...       ...  ...      ...                  ...   ...
+800     NaN      NZ       NaN  ...      7.5  2025-11-12 21:45:00     %
+801     NaN      JP       NaN  ...      NaN  2025-11-12 23:50:00      
+802     NaN      JP       NaN  ...      0.3  2025-11-12 23:50:00     %
+803     NaN      JP       NaN  ...      2.7  2025-11-12 23:50:00     %
+804     NaN      JP       NaN  ...      NaN  2025-11-12 23:50:00      
+
+[805 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      AO       NaN  ...      NaN  2025-11-02 00:00:00      
+1       NaN      BR       NaN  ...      NaN  2025-11-02 00:00:00      
+2       NaN      MU       NaN  ...      NaN  2025-11-02 00:00:00      
+3       NaN      NO       NaN  ...     49.9  2025-11-02 09:00:00      
+4       5.5      IL      -9.8  ...     10.5  2025-11-02 11:00:00     %
+..      ...     ...       ...  ...      ...                  ...   ...
+800     NaN      NZ       NaN  ...      7.5  2025-11-12 21:45:00     %
+801     NaN      JP       NaN  ...      NaN  2025-11-12 23:50:00      
+802     NaN      JP       NaN  ...      0.3  2025-11-12 23:50:00     %
+803     NaN      JP       NaN  ...      2.7  2025-11-12 23:50:00     %
+804     NaN      JP       NaN  ...      NaN  2025-11-12 23:50:00      
+
+[805 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      AO       NaN  ...      NaN  2025-11-02 00:00:00      
+1       NaN      BR       NaN  ...      NaN  2025-11-02 00:00:00      
+2       NaN      MU       NaN  ...      NaN  2025-11-02 00:00:00      
+3       NaN      NO       NaN  ...     49.9  2025-11-02 09:00:00      
+4       5.5      IL      -9.8  ...     10.5  2025-11-02 11:00:00     %
+..      ...     ...       ...  ...      ...                  ...   ...
+800     NaN      NZ       NaN  ...      7.5  2025-11-12 21:45:00     %
+801     NaN      JP       NaN  ...      NaN  2025-11-12 23:50:00      
+802     NaN      JP       NaN  ...      0.3  2025-11-12 23:50:00     %
+803     NaN      JP       NaN  ...      2.7  2025-11-12 23:50:00     %
+804     NaN      JP       NaN  ...      NaN  2025-11-12 23:50:00      
+
+[805 rows x 8 columns]
+done
