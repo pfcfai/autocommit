@@ -1439,3 +1439,5 @@ Traceback (most recent call last):
   File "/home/targets/anaconda3/lib/python3.7/site-packages/mysql/connector/connection_cext.py", line 298, in _open_connection
     ) from err
 mysql.connector.errors.DatabaseError: 2003 (HY000): Can't connect to MySQL server on '103.17.9.213:3306' (110)
+Data from foreigner_table saved to foreigner_flow.json
+Data from investor_table saved to investor_flow.json
