@@ -1441,3 +1441,5 @@ Traceback (most recent call last):
 mysql.connector.errors.DatabaseError: 2003 (HY000): Can't connect to MySQL server on '103.17.9.213:3306' (110)
 Data from foreigner_table saved to foreigner_flow.json
 Data from investor_table saved to investor_flow.json
+Data from foreigner_table saved to foreigner_flow.json
+Data from investor_table saved to investor_flow.json
