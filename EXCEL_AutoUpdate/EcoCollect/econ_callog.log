@@ -4141,3 +4141,18 @@ done
 
 [990 rows x 8 columns]
 done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      CA       NaN  ...      NaN  2025-11-04 00:00:00      
+1       NaN      PA       NaN  ...      NaN  2025-11-04 00:00:00      
+2       NaN      MM       NaN  ...      NaN  2025-11-04 00:00:00      
+3      15.3      US      15.6  ...    16.40  2025-11-04 00:00:00      
+4       NaN      RU       NaN  ...      NaN  2025-11-04 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+985     NaN      US       NaN  ...      NaN  2025-11-14 18:00:00      
+986     NaN      US       NaN  ...      NaN  2025-11-14 18:00:00      
+987     NaN      PY       NaN  ...    49.86  2025-11-14 18:00:00      
+988     NaN      US       NaN  ...      NaN  2025-11-14 19:30:00      
+989     NaN      US       NaN  ...      NaN  2025-11-14 20:20:00      
+
+[990 rows x 8 columns]
+done
