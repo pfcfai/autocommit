@@ -4636,3 +4636,948 @@ done
 
 [932 rows x 8 columns]
 done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+927     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+928     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+929     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+930     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+931     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[932 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+927     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+928     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+929     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+930     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+931     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[932 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+927     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+928     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+929     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+930     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+931     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[932 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+927     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+928     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+929     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+930     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+931     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[932 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+927     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+928     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+929     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+930     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+931     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[932 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+927     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+928     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+929     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+930     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+931     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[932 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+927     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+928     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+929     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+930     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+931     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[932 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+927     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+928     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+929     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+930     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+931     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[932 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+927     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+928     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+929     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+930     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+931     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[932 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+927     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+928     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+929     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+930     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+931     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[932 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+927     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+928     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+929     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+930     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+931     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[932 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+927     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+928     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+929     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+930     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+931     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[932 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+927     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+928     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+929     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+930     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+931     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[932 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+927     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+928     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+929     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+930     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+931     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[932 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+927     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+928     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+929     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+930     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+931     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[932 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+927     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+928     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+929     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+930     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+931     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[932 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+927     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+928     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+929     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+930     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+931     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[932 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+927     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+928     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+929     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+930     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+931     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[932 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+927     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+928     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+929     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+930     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+931     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[932 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+927     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+928     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+929     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+930     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+931     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[932 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+927     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+928     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+929     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+930     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+931     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[932 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+927     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+928     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+929     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+930     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+931     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[932 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+927     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+928     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+929     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+930     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+931     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[932 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+927     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+928     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+929     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+930     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+931     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[932 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+927     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+928     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+929     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+930     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+931     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[932 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+927     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+928     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+929     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+930     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+931     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[932 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+927     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+928     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+929     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+930     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+931     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[932 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+927     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+928     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+929     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+930     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+931     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[932 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+927     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+928     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+929     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+930     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+931     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[932 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+927     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+928     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+929     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+930     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+931     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[932 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+927     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+928     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+929     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+930     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+931     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[932 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+927     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+928     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+929     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+930     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+931     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[932 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+927     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+928     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+929     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+930     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+931     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[932 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+927     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+928     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+929     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+930     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+931     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[932 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+927     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+928     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+929     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+930     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+931     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[932 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+927     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+928     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+929     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+930     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+931     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[932 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+927     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+928     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+929     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+930     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+931     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[932 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+927     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+928     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+929     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+930     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+931     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[932 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+927     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+928     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+929     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+930     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+931     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[932 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+927     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+928     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+929     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+930     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+931     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[932 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+927     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+928     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+929     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+930     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+931     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[932 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+927     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+928     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+929     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+930     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+931     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[932 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+927     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+928     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+929     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+930     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+931     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[932 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+927     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+928     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+929     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+930     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+931     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[932 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+927     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+928     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+929     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+930     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+931     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[932 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+927     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+928     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+929     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+930     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+931     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[932 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+927     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+928     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+929     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+930     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+931     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[932 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+927     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+928     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+929     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+930     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+931     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[932 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+936     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+937     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+938     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+939     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+940     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[941 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+936     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+937     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+938     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+939     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+940     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[941 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+936     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+937     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+938     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+939     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+940     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[941 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+936     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+937     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+938     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+939     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+940     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[941 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+936     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+937     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+938     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+939     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+940     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[941 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+936     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+937     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+938     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+939     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+940     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[941 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+936     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+937     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+938     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+939     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+940     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[941 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+936     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+937     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+938     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+939     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+940     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[941 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+936     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+937     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+938     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+939     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+940     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[941 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+936     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+937     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+938     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+939     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+940     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[941 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+936     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+937     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+938     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+939     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+940     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[941 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+936     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+937     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+938     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+939     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+940     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[941 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+936     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+937     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+938     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+939     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+940     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[941 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+936     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+937     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+938     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+939     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+940     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[941 rows x 8 columns]
+done
+     Actual Country  Estimate  ... Previous                 Time  Unit
+0       NaN      PA       NaN  ...      NaN  2025-11-05 00:00:00      
+1       NaN      IN       NaN  ...      NaN  2025-11-05 00:00:00      
+2       NaN      LK       NaN  ...      NaN  2025-11-05 00:00:00      
+3       NaN      NZ       NaN  ...      NaN  2025-11-05 00:00:00      
+4       NaN      KH       NaN  ...      NaN  2025-11-05 00:00:00      
+..      ...     ...       ...  ...      ...                  ...   ...
+936     NaN      TN       NaN  ...     1.80  2025-11-15 12:00:00     %
+937     NaN      TN       NaN  ...     3.20  2025-11-15 12:00:00     %
+938     NaN      EU       NaN  ...      NaN  2025-11-15 13:30:00      
+939     NaN      PE       NaN  ...     3.18  2025-11-15 15:00:00     %
+940     NaN      PE       NaN  ...     5.70  2025-11-15 15:00:00     %
+
+[941 rows x 8 columns]
+done
