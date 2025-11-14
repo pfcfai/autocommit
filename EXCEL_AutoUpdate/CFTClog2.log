@@ -4262,3 +4262,44 @@ Traceback (most recent call last):
   File "/home/targets/autocommit/EXCEL_AutoUpdate/CFTC/CFTC_optimized_2.py", line 329, in <module>
     print(b)
 NameError: name 'b' is not defined
+[Errno 2] No such file or directory: 'cftcs_FinFutYY_NASDAQ.csv'
+請逐項檢查列表中的元素是否正確
+[Errno 2] No such file or directory: 'cftcs_FinFutYY_DJ.csv'
+請逐項檢查列表中的元素是否正確
+[Errno 2] No such file or directory: 'cftcs_FinFutYY_mini_sp.csv'
+請逐項檢查列表中的元素是否正確
+[Errno 2] No such file or directory: 'cftcs_FinFutYY_USD.csv'
+請逐項檢查列表中的元素是否正確
+[Errno 2] No such file or directory: 'cftcs_FinFutYY_AUD.csv'
+請逐項檢查列表中的元素是否正確
+[Errno 2] No such file or directory: 'cftcs_FinFutYY_BP.csv'
+請逐項檢查列表中的元素是否正確
+[Errno 2] No such file or directory: 'cftcs_FinFutYY_NZD.csv'
+請逐項檢查列表中的元素是否正確
+[Errno 2] No such file or directory: 'cftcs_FinFutYY_SF.csv'
+請逐項檢查列表中的元素是否正確
+[Errno 2] No such file or directory: 'cftcs_FinFutYY_EUD.csv'
+請逐項檢查列表中的元素是否正確
+[Errno 2] No such file or directory: 'cftcs_FinFutYY_JPY.csv'
+請逐項檢查列表中的元素是否正確
+[Errno 2] No such file or directory: 'cftcs_FinFutYY_CAD.csv'
+請逐項檢查列表中的元素是否正確
+[Errno 2] No such file or directory: 'cftcs_FinFutYY_thirtyDAY_FEDERAL_FUNDS.csv'
+請逐項檢查列表中的元素是否正確
+[Errno 2] No such file or directory: 'cftcs_FinFutYY_threeMONTH_EURODOLLARS.csv'
+請逐項檢查列表中的元素是否正確
+[Errno 2] No such file or directory: 'cftcs_FinFutYY_twoYEAR_US_TREASURY_NOTES.csv'
+請逐項檢查列表中的元素是否正確
+[Errno 2] No such file or directory: 'cftcs_FinFutYY_fiveYEAR_US_TREASURY_NOTES.csv'
+請逐項檢查列表中的元素是否正確
+[Errno 2] No such file or directory: 'cftcs_FinFutYY_tenYEAR_US_TREASURY_NOTES.csv'
+請逐項檢查列表中的元素是否正確
+[Errno 2] No such file or directory: 'cftcs_FinFutYY_US_TREASURY_BONDS.csv'
+請逐項檢查列表中的元素是否正確
+[Errno 2] No such file or directory: 'cftcs_FinFutYY_LONG_TERM_US_TREASURY_BONDS.csv'
+請逐項檢查列表中的元素是否正確
+[]
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/CFTC/CFTC_optimized_2.py", line 329, in <module>
+    print(b)
+NameError: name 'b' is not defined
