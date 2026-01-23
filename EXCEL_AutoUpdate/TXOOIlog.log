@@ -21804,3 +21804,556 @@ Traceback (most recent call last):
   File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
     lower=math.floor(generator_df.iloc[0][0]/100-9)*100
 TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2025-11-17 17:30:03.682446
+today:20251117
+queryday:20251114
+enddate:2025-11-19
+202511
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2025-11-18 17:30:03.827863
+today:20251118
+queryday:20251117
+enddate:2025-11-19
+202511
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2025-11-19 17:30:03.401145
+today:20251119
+queryday:20251118
+enddate:2025-11-19
+202512
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2025-11-20 17:30:03.778613
+today:20251120
+queryday:20251119
+enddate:2025-11-19
+202512
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2025-11-21 17:30:03.585718
+today:20251121
+queryday:20251120
+enddate:2025-11-19
+202512
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2025-11-24 17:30:02.976963
+today:20251124
+queryday:20251121
+enddate:2025-11-19
+202512
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2025-11-25 17:30:03.584896
+today:20251125
+queryday:20251124
+enddate:2025-11-19
+202512
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2025-11-26 17:30:03.433909
+today:20251126
+queryday:20251125
+enddate:2025-11-19
+202512
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2025-11-27 17:30:03.558273
+today:20251127
+queryday:20251126
+enddate:2025-11-19
+202512
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2025-11-28 17:30:03.731874
+today:20251128
+queryday:20251127
+enddate:2025-11-19
+202512
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2025-12-01 17:30:03.737321
+today:20251201
+queryday:20251128
+enddate:2025-12-17
+202512
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2025-12-02 17:30:03.608892
+today:20251202
+queryday:20251201
+enddate:2025-12-17
+202512
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2025-12-03 17:30:03.786862
+today:20251203
+queryday:20251202
+enddate:2025-12-17
+202512
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2025-12-04 17:30:03.911097
+today:20251204
+queryday:20251203
+enddate:2025-12-17
+202512
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2025-12-05 17:30:03.476898
+today:20251205
+queryday:20251204
+enddate:2025-12-17
+202512
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2025-12-08 17:30:03.855907
+today:20251208
+queryday:20251205
+enddate:2025-12-17
+202512
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2025-12-09 17:30:03.345292
+today:20251209
+queryday:20251208
+enddate:2025-12-17
+202512
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2025-12-10 17:30:03.278696
+today:20251210
+queryday:20251209
+enddate:2025-12-17
+202512
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2025-12-11 17:30:03.935883
+today:20251211
+queryday:20251210
+enddate:2025-12-17
+202512
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2025-12-12 17:30:03.400892
+today:20251212
+queryday:20251211
+enddate:2025-12-17
+202512
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2025-12-15 17:30:03.474929
+today:20251215
+queryday:20251212
+enddate:2025-12-17
+202512
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2025-12-16 17:30:03.384908
+today:20251216
+queryday:20251215
+enddate:2025-12-17
+202512
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2025-12-17 17:30:03.998976
+today:20251217
+queryday:20251216
+enddate:2025-12-17
+202601
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2025-12-18 17:30:03.183536
+today:20251218
+queryday:20251217
+enddate:2025-12-17
+202601
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2025-12-19 17:30:03.584482
+today:20251219
+queryday:20251218
+enddate:2025-12-17
+202601
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2025-12-22 17:30:03.651604
+today:20251222
+queryday:20251219
+enddate:2025-12-17
+202601
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2025-12-23 17:30:03.592801
+today:20251223
+queryday:20251222
+enddate:2025-12-17
+202601
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2025-12-24 17:30:03.221306
+today:20251224
+queryday:20251223
+enddate:2025-12-17
+202601
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2025-12-25 17:30:03.947422
+today:20251225
+queryday:20251224
+enddate:2025-12-17
+202601
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2025-12-26 17:30:03.472713
+today:20251226
+queryday:20251225
+enddate:2025-12-17
+202601
+Empty DataFrame
+Columns: [Twseclose]
+Index: []
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 931, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 1566, in _getitem_axis
+    self._validate_integer(key, axis)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 1500, in _validate_integer
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
+now:2025-12-29 17:30:03.941410
+today:20251229
+queryday:20251226
+enddate:2025-12-17
+202601
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2025-12-30 17:30:03.339146
+today:20251230
+queryday:20251229
+enddate:2025-12-17
+202601
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2025-12-31 17:30:03.836287
+today:20251231
+queryday:20251230
+enddate:2025-12-17
+202601
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2026-01-01 17:30:03.477907
+today:20260101
+queryday:20251231
+enddate:2026-01-21
+202601
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2026-01-02 17:30:03.353762
+today:20260102
+queryday:20260101
+enddate:2026-01-21
+202601
+Empty DataFrame
+Columns: [Twseclose]
+Index: []
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 931, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 1566, in _getitem_axis
+    self._validate_integer(key, axis)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 1500, in _validate_integer
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
+now:2026-01-05 17:30:04.076557
+today:20260105
+queryday:20260102
+enddate:2026-01-21
+202601
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2026-01-06 17:30:04.028680
+today:20260106
+queryday:20260105
+enddate:2026-01-21
+202601
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2026-01-07 17:30:03.279560
+today:20260107
+queryday:20260106
+enddate:2026-01-21
+202601
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2026-01-08 17:30:03.343608
+today:20260108
+queryday:20260107
+enddate:2026-01-21
+202601
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2026-01-09 17:30:03.916636
+today:20260109
+queryday:20260108
+enddate:2026-01-21
+202601
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2026-01-12 17:30:03.699885
+today:20260112
+queryday:20260109
+enddate:2026-01-21
+202601
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2026-01-13 17:30:04.027854
+today:20260113
+queryday:20260112
+enddate:2026-01-21
+202601
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2026-01-14 17:30:03.981173
+today:20260114
+queryday:20260113
+enddate:2026-01-21
+202601
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2026-01-15 17:30:04.062559
+today:20260115
+queryday:20260114
+enddate:2026-01-21
+202601
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2026-01-16 17:30:03.962900
+today:20260116
+queryday:20260115
+enddate:2026-01-21
+202601
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2026-01-19 17:30:03.892848
+today:20260119
+queryday:20260116
+enddate:2026-01-21
+202601
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2026-01-20 17:30:04.056248
+today:20260120
+queryday:20260119
+enddate:2026-01-21
+202601
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2026-01-21 17:30:03.500842
+today:20260121
+queryday:20260120
+enddate:2026-01-21
+202602
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2026-01-22 17:30:03.403751
+today:20260122
+queryday:20260121
+enddate:2026-01-21
+202602
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
