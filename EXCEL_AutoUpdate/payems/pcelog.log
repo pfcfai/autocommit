@@ -6961,3 +6961,15 @@ Traceback (most recent call last):
   File "/home/targets/anaconda3/lib/python3.7/zipfile.py", line 1240, in __init__
     self.fp = io.open(file, filemode)
 FileNotFoundError: [Errno 2] No such file or directory: '/home/targets/autocommit/EXCEL_AutoUpdate/payems/經濟數據-FRED增益集.xlsx'
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/payems/pce.py", line 13, in <module>
+    book = openpyxl.load_workbook('/home/targets/autocommit/EXCEL_AutoUpdate/payems/經濟數據-FRED增益集.xlsx')
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/openpyxl/reader/excel.py", line 313, in load_workbook
+    data_only, keep_links)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/openpyxl/reader/excel.py", line 124, in __init__
+    self.archive = _validate_archive(fn)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/openpyxl/reader/excel.py", line 96, in _validate_archive
+    archive = ZipFile(filename, 'r')
+  File "/home/targets/anaconda3/lib/python3.7/zipfile.py", line 1240, in __init__
+    self.fp = io.open(file, filemode)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/targets/autocommit/EXCEL_AutoUpdate/payems/經濟數據-FRED增益集.xlsx'
