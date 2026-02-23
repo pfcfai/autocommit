@@ -22478,3 +22478,162 @@ Traceback (most recent call last):
   File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
     lower=math.floor(generator_df.iloc[0][0]/100-9)*100
 TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2026-02-09 17:30:03.434743
+today:20260209
+queryday:20260206
+enddate:2026-02-18
+202602
+Empty DataFrame
+Columns: [Twseclose]
+Index: []
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 931, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 1566, in _getitem_axis
+    self._validate_integer(key, axis)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 1500, in _validate_integer
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
+now:2026-02-10 17:30:04.004447
+today:20260210
+queryday:20260209
+enddate:2026-02-18
+202602
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2026-02-11 17:30:03.389667
+today:20260211
+queryday:20260210
+enddate:2026-02-18
+202602
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2026-02-12 17:30:04.188729
+today:20260212
+queryday:20260211
+enddate:2026-02-18
+202602
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2026-02-13 17:30:03.908247
+today:20260213
+queryday:20260212
+enddate:2026-02-18
+202602
+Empty DataFrame
+Columns: [Twseclose]
+Index: []
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 931, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 1566, in _getitem_axis
+    self._validate_integer(key, axis)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 1500, in _validate_integer
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
+now:2026-02-16 17:30:03.522670
+today:20260216
+queryday:20260213
+enddate:2026-02-18
+202602
+Empty DataFrame
+Columns: [Twseclose]
+Index: []
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 931, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 1566, in _getitem_axis
+    self._validate_integer(key, axis)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 1500, in _validate_integer
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
+now:2026-02-17 17:30:04.109557
+today:20260217
+queryday:20260216
+enddate:2026-02-18
+202602
+Empty DataFrame
+Columns: [Twseclose]
+Index: []
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 931, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 1566, in _getitem_axis
+    self._validate_integer(key, axis)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 1500, in _validate_integer
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
+now:2026-02-18 17:30:03.701917
+today:20260218
+queryday:20260217
+enddate:2026-02-18
+202603
+Empty DataFrame
+Columns: [Twseclose]
+Index: []
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 931, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 1566, in _getitem_axis
+    self._validate_integer(key, axis)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 1500, in _validate_integer
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
+now:2026-02-19 17:30:03.203883
+today:20260219
+queryday:20260218
+enddate:2026-02-18
+202603
+Empty DataFrame
+Columns: [Twseclose]
+Index: []
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 931, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 1566, in _getitem_axis
+    self._validate_integer(key, axis)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 1500, in _validate_integer
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
+now:2026-02-20 17:30:03.018899
+today:20260220
+queryday:20260219
+enddate:2026-02-18
+202603
+Empty DataFrame
+Columns: [Twseclose]
+Index: []
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 931, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 1566, in _getitem_axis
+    self._validate_integer(key, axis)
+  File "/home/targets/anaconda3/lib/python3.7/site-packages/pandas/core/indexing.py", line 1500, in _validate_integer
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
