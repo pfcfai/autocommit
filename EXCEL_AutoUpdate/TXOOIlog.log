@@ -22666,3 +22666,36 @@ Traceback (most recent call last):
   File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
     lower=math.floor(generator_df.iloc[0][0]/100-9)*100
 TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2026-02-25 17:30:03.202175
+today:20260225
+queryday:20260224
+enddate:2026-02-18
+202603
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2026-02-26 17:30:04.196350
+today:20260226
+queryday:20260225
+enddate:2026-02-18
+202603
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+now:2026-02-27 17:30:03.849903
+today:20260227
+queryday:20260226
+enddate:2026-02-18
+202603
+  Twseclose
+0      None
+Traceback (most recent call last):
+  File "/home/targets/autocommit/EXCEL_AutoUpdate/crontab_backup/UpdateOI_MySQL.py", line 110, in <module>
+    lower=math.floor(generator_df.iloc[0][0]/100-9)*100
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
